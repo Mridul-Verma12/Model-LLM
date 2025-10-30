@@ -1,0 +1,15 @@
+farmer_id,farmer_name,aadhaar,aadhaar_hash,dob,gender,state_lgd_code,district_lgd_code,sub_district_lgd_code,village_lgd_code,mobile_no,address,farmer_category,caste_category,farm_area_ha,crop
+FARM0005,Anita Singh,XXXX-XXXX-4220,08cf829ec68cd144d95b8381a16f59ae6830c4bf933909b3adcc683293931b66,1992-08-01,Female,27,469,,552577,9469422962,"Vill. A, Tal. X",Small Farmer (Land >=1 & <2 Hectare),SC,1.93,Sugarcane
+FARM0008,Anita Yadav,XXXX-XXXX-0575,67f208d3dd57ce58473b4482604b1e9693b646ced9a9ab4e0e5b990c281d65cb,1996-11-02,Female,27,497,,552577,7757173604,"Vill. E, Tal. Y",Big Farmer (Land >=2 Hectare),SC,2.37,Gram
+FARM0012,Geeta Patel,XXXX-XXXX-4813,a09776e7f6a5e5d009905f344e8528609c1ab1ddc6cdf8c5a25f6146ebc5b092,1991-04-03,Female,27,498,,558532,6476288171,"Vill. C, Tal. Z",Big Farmer (Land >=2 Hectare),SC,4.5,Groundnut
+FARM0014,Anita Joshi,XXXX-XXXX-8871,1e0627036934255e218f374b77a981ad61f41b54103127e112583a68b224391b,1955-01-01,Female,27,487,,558123,6269953816,"Vill. B, Tal. Y",Big Farmer (Land >=2 Hectare),SC,2.85,Sugarcane
+FARM0018,Kavita Yadav,XXXX-XXXX-3403,a66635ac3bac3a6439b6ef8991c189d9674ea96ab114ee6d60d93d803573bc7f,1972-05-04,Female,27,498,,558532,6337929849,"Vill. B, Tal. Y",Small Farmer (Land >=1 & <2 Hectare),SC,1.99,Jowar
+FARM0019,Priya Sharma,XXXX-XXXX-6066,66a1b4acdd36f37ad9a53c0626a0a933d0a0147307c0326d79bf733f5717fd8c,1962-05-12,Female,27,498,,558123,8083877650,"Vill. A, Tal. Z",Big Farmer (Land >=2 Hectare),SC,2.76,Maize
+FARM0029,Priti Patil,XXXX-XXXX-5932,74079209598f94a638a0008c93752d50c646c559b342b140404b34582dcd5e08,1962-08-01,Female,27,466,,550323,7625787216,"Vill. D, Tal. X",Big Farmer (Land >=2 Hectare),SC,2.52,Jowar
+FARM0030,Priti Yadav,XXXX-XXXX-6946,cd0c8eb53f5827554eb598a5f5ea1c90d8d302fe367645998fd83121117d1bb1,1997-03-07,Female,27,498,,558532,9641205370,"Vill. C, Tal. Z",Big Farmer (Land >=2 Hectare),SC,3.04,Gram
+FARM0039,Pooja Yadav,XXXX-XXXX-7201,e3ce02ce6b606c9ab04a09f2df2e762b892899585855da0d40b8f053cd163e48,1967-06-15,Female,27,466,,552577,9296020943,"Vill. C, Tal. Z",Small Farmer (Land >=1 & <2 Hectare),SC,1.73,Soybean
+FARM0041,Sunita Kumar,XXXX-XXXX-1784,f9630566e18252f89c86c43429386a027cf4bc777312a4428d0c117ca98ebd68,1990-01-30,Female,27,487,,548378,6727486263,"Vill. C, Tal. X",Big Farmer (Land >=2 Hectare),SC,3.82,Soybean
+FARM0067,Pooja Yadav,XXXX-XXXX-7087,2116ced72078275f9113034c0fa7370df81a8ac351a05e6409a97a9616001f4a,1962-01-24,Female,27,469,,534259,6484790442,"Vill. D, Tal. Z",Big Farmer (Land >=2 Hectare),SC,2.08,Gram
+FARM0086,Priya Deshmukh,XXXX-XXXX-5122,4abd77636a0391991221d4b3f1d05d76a2947e66fef37747e72c98b626f61c47,1975-05-03,Female,27,497,,552577,9822344052,"Vill. C, Tal. Y",Big Farmer (Land >=2 Hectare),SC,3.98,Groundnut
+FARM0087,Sangeeta Sharma,XXXX-XXXX-7704,571c68ea358c2730ee0df091b10a8f856c95d4da9428f2dfbda8582ec7334d8d,1985-11-08,Female,27,487,,552577,7038185401,"Vill. B, Tal. X",Big Farmer (Land >=2 Hectare),SC,2.36,Sugarcane
+FARM0095,Sangeeta Mehta,XXXX-XXXX-9111,1f000946e3dd6eec8315a41105b08e26b6aaa1a2d87425252689d5fd30e8b5c4,1984-09-03,Female,27,497,,548378,8793830792,"Vill. C, Tal. X",Big Farmer (Land >=2 Hectare),SC,3.4,Jowar

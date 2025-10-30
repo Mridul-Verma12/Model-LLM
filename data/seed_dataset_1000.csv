@@ -1,0 +1,1000 @@
+Crop Name,Scientific name,Seed Code,soil_type,irrigation_source,fertilizer_used,seed_type,weather_condition,ownership_type,loan_taken,insurance_status,pesticide_usage,last_sowing_date,expected_harvest_date
+Barley,Hordeum vulgare L.,100100000001,Laterite,River,Organic,Certified,Dry Spell,Sharecropped,Yes,Not Enrolled,Medium,2024-09-21,2025-01-28
+Barnyard Millet,Echinocloa frumantaceae (Roxb). Link,100200000001,Arid,Drip,Compost,Certified,Flood,Leased,No,Not Enrolled,Low,2024-09-09,2024-12-31
+Buckwheat,Fagopyrum esculentum; Fagopyrum tataricum,100300000001,Saline,River,Urea,Hybrid,Normal,Owned,Yes,Enrolled,Low,2024-08-18,2025-01-15
+Finger Millet,Eleusine coracana (L.) Gaertn.,100400000001,Arid,River,Compost,Hybrid,Flood,Sharecropped,No,Not Enrolled,High,2024-08-24,2024-12-15
+Foxtail Millet,Setaria italic (L.) Beauv,100500000001,Saline,River,Urea,Local,Excess Rain,Owned,Yes,Enrolled,None,2024-09-09,2025-01-13
+Grain Amaranth,Amaranthus hypochondriacs; Amaranthus currentus; Amaranthus caudatus; Amaranthus edulis,100600000001,Black,Canal,Vermicompost,Hybrid,Normal,Sharecropped,Yes,Enrolled,Low,2024-07-07,2024-10-27
+Kodo Millet,Pasplum scorbiculum L.,100800000001,Black,Canal,Urea,Certified,Normal,Owned,No,Not Enrolled,Medium,2024-07-03,2024-10-22
+Little Millet,Panicum sumatrense Roth. Ex. Roemer And Schultes,100900000001,Black,Drip,Urea,Certified,Flood,Owned,No,Enrolled,High,2024-10-18,2025-01-25
+Maize,Zea mays L.,101000000001,Alluvial,Tube Well,Urea,Certified,Dry Spell,Leased,Yes,Not Enrolled,High,2024-06-01,2024-09-19
+Oat,Avena sativa L.,101100000001,Red,None,Compost,Hybrid,Flood,Sharecropped,No,Enrolled,Medium,2024-08-20,2024-12-07
+Pearl Millet,Pennisetum glaucum (L.) R.Br.,101300000001,Alluvial,Tube Well,DAP,Local,Flood,Leased,Yes,Not Enrolled,Low,2024-07-05,2024-11-15
+Proso Millet,Panicum maliaceum L.,101400000001,Saline,Tube Well,Urea,Hybrid,Dry Spell,Leased,No,Enrolled,Medium,2024-09-10,2025-01-12
+Quinoa,Chenopodium quinoa,101600000001,Arid,Drip,Vermicompost,Local,Dry Spell,Sharecropped,No,Not Enrolled,Medium,2024-07-13,2024-11-11
+Rice,Oryza sativa L.,101700000001,Red,None,Compost,Hybrid,Drought,Sharecropped,No,Enrolled,None,2024-08-21,2024-12-28
+Sorghum,Sorghum bicolor ( L.) Moench,101800000001,Laterite,Tube Well,Urea,Hybrid,Normal,Leased,Yes,Enrolled,None,2024-10-23,2025-03-22
+Wheat,Triticum aestivum L.; Triticum durum Desf.; Triticum dicoccum L.,101900000001,Saline,River,NPK,Hybrid,Flood,Leased,No,Not Enrolled,Low,2024-10-27,2025-03-04
+Durum Wheat,Triticum durum Desf.,101902000001,Red,Drip,DAP,Hybrid,Drought,Leased,No,Not Enrolled,Low,2024-08-31,2025-01-08
+Dicoccum Wheat,Triticum dicoccum L.,101903000001,Saline,None,NPK,Local,Normal,Sharecropped,No,Enrolled,High,2024-09-18,2025-01-12
+Bakla,Vicia faba,200200000001,Laterite,River,NPK,Hybrid,Excess Rain,Owned,Yes,Not Enrolled,None,2024-07-11,2024-11-19
+Bhatt,Phaseolus vulgaris L.,200300000001,Arid,Drip,Vermicompost,Local,Drought,Sharecropped,Yes,Enrolled,None,2024-09-19,2025-01-23
+Chickpea,Cicer arietinum L.,200400000001,Laterite,Canal,NPK,Local,Normal,Sharecropped,Yes,Not Enrolled,Medium,2024-07-21,2024-11-10
+Cowpea,Vigna unguiculata (L.) Walp. ssp. unguiculata and Vigna unguiculata (L.) Walp. ssp. sesquipedalis (L.) Verdc. (L.) Walp.,200500000001,Laterite,Canal,NPK,Hybrid,Dry Spell,Sharecropped,No,Enrolled,Low,2024-08-16,2024-12-05
+Pea,Pisum sativum L.,200601000001,Red,Drip,Urea,Local,Normal,Owned,Yes,Enrolled,Medium,2024-10-21,2025-02-20
+Horse Gram,Macrotyloma uniflorum (Lam) Verdc.,200700000001,Red,Drip,DAP,Certified,Normal,Sharecropped,Yes,Enrolled,High,2024-10-10,2025-02-21
+Khesari,Lathyrus satirus L.,200800000001,Red,River,Organic,Hybrid,Excess Rain,Leased,Yes,Not Enrolled,None,2024-08-22,2024-11-26
+Moth Bean,Vigna aconitifolia (Jacq.) Marechal.,201000000001,Black,None,Vermicompost,Hybrid,Dry Spell,Leased,Yes,Enrolled,Medium,2024-08-27,2025-01-02
+Mungbean,Vigna radiata (L.) Wilczek,201100000001,Alluvial,Tube Well,Organic,Certified,Dry Spell,Leased,No,Not Enrolled,High,2024-09-16,2025-01-10
+Field Pea,Pisum sativum L.,201101000001,Arid,Drip,DAP,Local,Flood,Leased,No,Not Enrolled,Low,2024-07-09,2024-12-06
+Garden pea,Pisum sativum L.,201102000001,Red,Drip,Organic,Certified,Flood,Sharecropped,Yes,Enrolled,Low,2024-09-24,2024-12-30
+PIgeon Pea,Cajanus cajan (L.) milsp,201200000001,Arid,River,Vermicompost,Hybrid,Flood,Leased,No,Enrolled,None,2024-09-22,2025-01-23
+Black Gram,Vigna mungo (L.) Heppper,201400000001,Alluvial,None,NPK,Certified,Dry Spell,Owned,No,Not Enrolled,High,2024-10-10,2025-02-25
+Kidney Bean,Phaseolus vulgaris,201800000001,Laterite,Rainfed,Compost,Certified,Excess Rain,Sharecropped,No,Not Enrolled,Low,2024-10-11,2025-02-21
+Sugar Beet,Beta vulgaris L.,300100000001,Red,Tube Well,Vermicompost,Hybrid,Flood,Sharecropped,No,Enrolled,Medium,2024-06-13,2024-10-24
+Sugarcane,Saccharum L.,300200000001,Black,River,Urea,Certified,Excess Rain,Owned,Yes,Enrolled,None,2024-07-02,2024-11-08
+Ajwain,Trachyspermum ammi L.,400100000001,Alluvial,Drip,DAP,Local,Excess Rain,Owned,Yes,Enrolled,Medium,2024-10-04,2025-01-21
+Black Pepper,Piper nigrum L.,400400000001,Laterite,None,DAP,Certified,Flood,Owned,No,Not Enrolled,High,2024-09-20,2024-12-31
+Chilli,Capsicum annuum L.,400700000001,Arid,River,DAP,Local,Excess Rain,Sharecropped,No,Enrolled,Low,2024-06-20,2024-11-04
+Coriander,Coriandrum sativum L.,401000000001,Laterite,River,Vermicompost,Local,Excess Rain,Owned,Yes,Not Enrolled,Medium,2024-08-25,2025-01-16
+Cumin,Cuminum cyminum L.,401100000001,Arid,River,Compost,Hybrid,Dry Spell,Sharecropped,Yes,Not Enrolled,Medium,2024-09-17,2025-01-27
+Fennel,Foeniculum vulgare Mill.,401400000001,Alluvial,Rainfed,Vermicompost,Hybrid,Excess Rain,Leased,No,Not Enrolled,Medium,2024-06-05,2024-10-17
+Fenugreek,Trigonella foenum graecum L.,401500000001,Alluvial,Drip,Vermicompost,Hybrid,Excess Rain,Leased,Yes,Enrolled,Low,2024-07-11,2024-10-27
+Garlic,Allium sativum L.,401600000001,Laterite,Rainfed,Vermicompost,Hybrid,Normal,Leased,No,Enrolled,Medium,2024-10-11,2025-02-23
+Ginger,Zingiber officinale Rosc.,401700000001,Alluvial,None,NPK,Certified,Excess Rain,Owned,Yes,Enrolled,Low,2024-07-21,2024-12-05
+Nutmeg,Myristica fragrans hout.,402100000001,Black,Tube Well,Compost,Local,Dry Spell,Owned,No,Enrolled,Low,2024-09-14,2024-12-23
+Small Cardamom,Elettaria cardamomum M.,402200000001,Laterite,Rainfed,Vermicompost,Hybrid,Normal,Leased,Yes,Not Enrolled,High,2024-09-15,2025-02-07
+Turmeric,Curumma longa L.,402400000001,Arid,Canal,Organic,Certified,Excess Rain,Sharecropped,Yes,Enrolled,High,2024-09-18,2025-02-10
+Acid Lime,Citrus aurantifolia Swingle,500100000001,Arid,Drip,NPK,Hybrid,Flood,Owned,No,Enrolled,Medium,2024-08-30,2024-12-02
+Apple,Malus domestica Borkh,500400000001,Arid,Canal,DAP,Local,Dry Spell,Owned,No,Not Enrolled,None,2024-06-01,2024-10-09
+Apricot,Prunus armeniaca L.,500500000001,Laterite,Canal,Compost,Certified,Excess Rain,Leased,Yes,Not Enrolled,Medium,2024-10-16,2025-03-07
+Bael,Aegle marmelos (L.) Correa,500700000001,Alluvial,Rainfed,Compost,Certified,Dry Spell,Sharecropped,No,Not Enrolled,Low,2024-07-13,2024-10-24
+Banana,Musa spp.,500800000001,Saline,None,NPK,Local,Excess Rain,Sharecropped,No,Enrolled,High,2024-07-19,2024-11-27
+Cashew,Anacardium occidental L.,501200000001,Alluvial,None,Compost,Local,Flood,Owned,No,Enrolled,Low,2024-07-09,2024-10-08
+Coconut,Cocos nucifera L.,501400000001,Alluvial,Canal,NPK,Certified,Dry Spell,Leased,No,Enrolled,Low,2024-06-05,2024-10-25
+Custard Apple,Annona squamosa L.,501500000001,Black,None,Vermicompost,Hybrid,Dry Spell,Leased,No,Not Enrolled,Medium,2024-10-24,2025-03-05
+Grapes,Vitis unifera,501900000001,Laterite,Tube Well,Urea,Certified,Dry Spell,Sharecropped,No,Enrolled,None,2024-08-07,2024-11-20
+Guava,Psidium guajava L.,502000000001,Alluvial,Drip,Urea,Hybrid,Normal,Owned,No,Enrolled,Low,2024-07-20,2024-10-26
+Jackfruit,Artocarpus heterophyllus Lam.,502300000004,Black,River,DAP,Hybrid,Dry Spell,Owned,No,Enrolled,Low,2024-06-26,2024-10-28
+Jamun,Syzygium cumini (L.) Skeels.,502400000001,Alluvial,Canal,DAP,Hybrid,Normal,Sharecropped,No,Not Enrolled,None,2024-10-04,2025-02-19
+Mango,Mangifera indica L.,503200000001,Laterite,Rainfed,NPK,Hybrid,Normal,Sharecropped,Yes,Enrolled,None,2024-07-31,2024-12-25
+Mulberry,Morus spp.,503400000001,Arid,None,Urea,Hybrid,Normal,Leased,Yes,Not Enrolled,High,2024-07-31,2024-11-18
+Muskmelon,Cucumis melo L.,503500000001,Red,Canal,Compost,Local,Dry Spell,Sharecropped,No,Enrolled,Medium,2024-08-12,2024-11-22
+Papaya,Carica papaya L.,503900000001,Alluvial,Canal,Compost,Certified,Normal,Sharecropped,Yes,Not Enrolled,None,2024-10-12,2025-01-20
+Peach,Prunus persica L Batsch.,504100000001,Alluvial,Rainfed,Compost,Certified,Dry Spell,Sharecropped,Yes,Enrolled,High,2024-07-29,2024-11-08
+Pineapple,Ananas comosus,504300000001,Red,Drip,Vermicompost,Hybrid,Dry Spell,Sharecropped,Yes,Not Enrolled,High,2024-07-15,2024-11-25
+Pomegranate,Punica granatum L.,504500000001,Alluvial,Drip,NPK,Hybrid,Dry Spell,Leased,No,Not Enrolled,Medium,2024-08-30,2024-12-03
+Sapota,Manilkara zapota,505000000001,Arid,Tube Well,DAP,Certified,Normal,Sharecropped,Yes,Enrolled,None,2024-06-29,2024-10-13
+Strawberry,Fragaria x ananasan Duch.,505200000001,Laterite,Tube Well,Vermicompost,Certified,Flood,Sharecropped,No,Not Enrolled,Medium,2024-07-23,2024-11-01
+Sweet Orange,Citrus sinensis (L.) Osbeck,505300000001,Arid,None,Urea,Certified,Normal,Sharecropped,Yes,Enrolled,None,2024-09-16,2025-01-16
+Walnut,Juglans regia L.,505400000001,Black,None,Vermicompost,Hybrid,Normal,Owned,Yes,Enrolled,Low,2024-06-19,2024-10-03
+Watermelon,Citrullus lanatus (Thunb.) Mansf.,505600000001,Arid,Tube Well,Urea,Hybrid,Normal,Leased,No,Not Enrolled,High,2024-06-19,2024-11-14
+Elephant Foot Yam,Amorphophallus paeoniifolius,600100000001,Alluvial,Tube Well,Compost,Hybrid,Dry Spell,Sharecropped,Yes,Enrolled,High,2024-08-19,2024-12-29
+Greater Yam,Dioscorea alata L.,600300000001,Alluvial,River,Urea,Hybrid,Normal,Leased,Yes,Not Enrolled,None,2024-06-27,2024-10-05
+Taro,Colocasia aculenta species Aculanta; Colocasia aculenta species Anticorum; Colocasia aculenta species Stoloniferum,600500000001,Arid,Canal,Compost,Certified,Drought,Leased,Yes,Not Enrolled,High,2024-07-27,2024-10-28
+Ash Gourd,Benincasa hispida (Thunb.) Cogn.,700100000001,Red,Rainfed,Compost,Hybrid,Normal,Owned,No,Not Enrolled,Medium,2024-10-09,2025-02-24
+Beetroot,Beta vulgaris,700200000001,Black,Drip,DAP,Local,Flood,Sharecropped,Yes,Enrolled,High,2024-09-08,2025-01-06
+Bitter Gourd,Momordica charantia L.,700300000001,Laterite,Rainfed,Vermicompost,Hybrid,Dry Spell,Sharecropped,Yes,Enrolled,Medium,2024-07-29,2024-11-03
+Bottle Gourd,Lagenaria siceraria (Mol.) Standl.,700400000001,Black,River,NPK,Hybrid,Flood,Leased,Yes,Enrolled,High,2024-06-04,2024-10-21
+Brinjal,Solanum melongena L.,700500000001,Laterite,Tube Well,Organic,Local,Drought,Sharecropped,Yes,Not Enrolled,High,2024-08-02,2024-12-26
+Broccoli,Brassica oleracea cv. italica,700600000001,Alluvial,Rainfed,Organic,Certified,Flood,Leased,Yes,Not Enrolled,Low,2024-07-12,2024-11-12
+Cabbage,Brassica oleracea L. var capitata,700800000001,Saline,River,Organic,Local,Flood,Owned,Yes,Not Enrolled,None,2024-07-25,2024-11-07
+Carrot,Daucus carota L.,700900000001,Black,None,DAP,Local,Normal,Sharecropped,Yes,Enrolled,Low,2024-09-07,2025-01-03
+Cauliflower,Brassica oleracea L.var. botrytis,701000000001,Black,Drip,Urea,Hybrid,Dry Spell,Owned,Yes,Enrolled,None,2024-07-31,2024-11-15
+Cluster Bean,Cyamopsis tetragonaloba L. Taub,701300000001,Alluvial,Canal,Urea,Certified,Normal,Owned,No,Not Enrolled,Low,2024-10-26,2025-01-30
+Cucumber,Cucumis sativus L.,701400000001,Saline,Canal,Urea,Local,Drought,Sharecropped,No,Enrolled,None,2024-06-08,2024-10-14
+Gilky,Luffa aegyptica,701500000001,Saline,Tube Well,DAP,Certified,Dry Spell,Owned,Yes,Not Enrolled,High,2024-09-19,2024-12-21
+Ivy Gourd,Coccinia grandis (L.),701600000001,Arid,River,Urea,Local,Flood,Leased,No,Not Enrolled,None,2024-08-18,2024-11-18
+Kohlrabi,Brassica oleracea var. gongylodes,701700000001,Black,Canal,NPK,Certified,Normal,Sharecropped,No,Not Enrolled,Low,2024-09-28,2025-01-21
+Okra,Abelmoschus esculentus (L.) Moench.,701900000001,Arid,Drip,DAP,Local,Drought,Owned,No,Not Enrolled,Low,2024-10-07,2025-01-30
+Onion,Allium cepa L.,702000000001,Red,River,Organic,Hybrid,Excess Rain,Sharecropped,Yes,Not Enrolled,High,2024-10-24,2025-02-13
+Pointed Gourd,Trichosanthes dioica Roxb.,702100000001,Saline,Drip,Organic,Certified,Dry Spell,Owned,Yes,Not Enrolled,High,2024-09-22,2025-02-11
+Popat,Lablab purpureus,702200000001,Alluvial,Canal,Urea,Hybrid,Normal,Sharecropped,No,Not Enrolled,High,2024-06-05,2024-09-08
+Potato,Solanum tuberosum L.,702300000001,Saline,Rainfed,Vermicompost,Local,Excess Rain,Leased,No,Not Enrolled,Medium,2024-08-21,2024-12-10
+Pumpkin,Cucurbita moschata Duch. ex Poir.,702400000001,Arid,River,Organic,Certified,Normal,Owned,No,Enrolled,Low,2024-09-08,2024-12-08
+Radish,Raphanus sativus L.,702500000001,Alluvial,Drip,Vermicompost,Hybrid,Flood,Owned,No,Not Enrolled,None,2024-06-19,2024-10-21
+Ridge Gourd,â€ŽLuffa acutangula (L.) Roxb.,702700000001,Red,Drip,DAP,Local,Normal,Leased,No,Enrolled,Medium,2024-08-29,2024-12-18
+Snake Gourd,Trichosanthes anguina L.,702800000001,Arid,Canal,Urea,Hybrid,Normal,Owned,No,Not Enrolled,High,2024-10-14,2025-03-13
+Spinach,Spinacia oleracea,702900000001,Alluvial,None,Compost,Local,Normal,Sharecropped,Yes,Not Enrolled,None,2024-06-17,2024-10-11
+Spinach beet,Beta vulgaris var. bengalensis Roxb.,703000000001,Black,None,Compost,Certified,Flood,Sharecropped,Yes,Not Enrolled,None,2024-08-30,2025-01-12
+Spiny Gourd / Akakara/ Bodakakara,Momordica dioica,703300000001,Saline,Drip,Vermicompost,Local,Flood,Owned,No,Enrolled,Low,2024-10-10,2025-01-23
+Sword Bean,Canavalia gladiata,703500000001,Saline,Canal,Compost,Hybrid,Drought,Owned,No,Enrolled,High,2024-06-09,2024-11-05
+Tomato,Lycopersion lycopersicum (L.) Karsten ex. Farw.,703600000001,Saline,Rainfed,Urea,Hybrid,Flood,Sharecropped,No,Enrolled,None,2024-08-16,2025-01-05
+Turnips,Brassica rapa,703800000001,Laterite,Rainfed,Urea,Local,Drought,Owned,No,Not Enrolled,High,2024-06-10,2024-10-04
+Vegetable Amaranth,Amaranthus tricolor L.,703900000001,Black,Canal,Organic,Hybrid,Drought,Leased,Yes,Not Enrolled,None,2024-08-14,2024-12-18
+Castor,Ricinus communis L.,800200000001,Black,Rainfed,Urea,Hybrid,Flood,Leased,Yes,Not Enrolled,Low,2024-09-16,2025-01-30
+Gobhi Sarson,Brassica napus L.,800300000001,Laterite,None,DAP,Local,Normal,Sharecropped,No,Not Enrolled,Low,2024-09-23,2025-02-02
+Groundnut,Arachis hypogaea L.,800400000001,Saline,River,Compost,Hybrid,Normal,Sharecropped,Yes,Enrolled,Medium,2024-06-30,2024-10-30
+Indian Mustard,Brassica juncea L. Czern & Coss,800500000001,Red,Rainfed,Organic,Certified,Dry Spell,Owned,Yes,Not Enrolled,Medium,2024-09-10,2025-01-10
+Karan Rai,Brassica juncea L. Czern & Coss,800600000001,Black,Tube Well,Organic,Hybrid,Dry Spell,Sharecropped,No,Not Enrolled,None,2024-08-16,2024-12-21
+Linseed,Linum usitatissimum L.,800700000001,Alluvial,Canal,Vermicompost,Local,Drought,Owned,No,Not Enrolled,Low,2024-06-19,2024-09-29
+Nigerseed,Guizotia abyssinica,800800000001,Arid,None,Compost,Hybrid,Drought,Owned,Yes,Enrolled,Medium,2024-10-16,2025-02-04
+Rapeseed,Brassica rapa; Brassica rapa syn. B. Campestris; Brassica rapa variety Brown mustard; Brassica rapa variety Yellow mustard; Brassica rapa variety Toria L.,800900000001,Alluvial,Canal,DAP,Hybrid,Flood,Leased,No,Enrolled,None,2024-10-05,2025-03-04
+Safflower,Carthamus tinctorius L.,801000000001,Arid,River,Vermicompost,Hybrid,Drought,Sharecropped,Yes,Enrolled,High,2024-08-19,2024-11-27
+Sesame,Sesamum indicum L.,801100000001,Arid,Tube Well,NPK,Certified,Dry Spell,Sharecropped,Yes,Enrolled,None,2024-09-16,2025-01-21
+SOYBEAN,Glycine max (L.) Merrill,801200000001,Saline,Rainfed,NPK,Certified,Normal,Sharecropped,No,Enrolled,High,2024-07-02,2024-10-21
+Sunflower,Helianthus annuus L.,801300000001,Saline,Rainfed,DAP,Hybrid,Excess Rain,Owned,Yes,Not Enrolled,High,2024-07-19,2024-10-18
+Diploid Cotton,Gossypium arboreum L.; Gossypium herbaceum L.,900100000001,Red,Drip,NPK,Local,Flood,Owned,No,Enrolled,Medium,2024-10-23,2025-01-26
+Jute,Corchorus olitorius L.; Corchorus capsularis L .,900200000001,Laterite,River,NPK,Local,Drought,Owned,Yes,Enrolled,Low,2024-07-07,2024-11-08
+Sunnhemp,Crotalaria juncea L.,900400000001,Black,Tube Well,Vermicompost,Hybrid,Drought,Sharecropped,No,Enrolled,None,2024-10-02,2025-02-20
+Tetraploid Cotton,Gossypium hirsutum L.; Gossypium barbadense L.,900500000001,Alluvial,None,Vermicompost,Certified,Dry Spell,Owned,No,Enrolled,None,2024-08-08,2024-11-16
+Cassava,Manihot esculenta Crantz.,1000100000001,Laterite,Canal,NPK,Hybrid,Flood,Owned,No,Enrolled,Low,2024-07-14,2024-11-27
+Guarseed; Cluster Bean,Cyamopsis tetragonoloba,1000200000001,Arid,Rainfed,DAP,Local,Normal,Owned,No,Enrolled,None,2024-10-10,2025-02-07
+Jatropha,Jatropha curcas L.,1000400000001,Arid,Canal,Organic,Local,Drought,Sharecropped,Yes,Enrolled,Medium,2024-07-11,2024-11-05
+Sweet Potato,Ipomoea batatas (L.) Lam,1000600000001,Arid,Tube Well,Urea,Hybrid,Dry Spell,Leased,No,Not Enrolled,High,2024-08-10,2025-01-01
+Tobacco,Nicotiana tabacum (L.),1000801000001,Alluvial,Rainfed,NPK,Local,Dry Spell,Sharecropped,Yes,Enrolled,None,2024-07-30,2024-11-11
+Alfalfa,Medicago sativa,1100100000001,Arid,Drip,Vermicompost,Hybrid,Dry Spell,Leased,No,Enrolled,High,2024-08-31,2024-12-08
+Barseem,Trifolium alexandrinum,1100200000001,Arid,Canal,DAP,Certified,Dry Spell,Leased,No,Not Enrolled,Medium,2024-08-14,2024-12-08
+Dhaincha,Sesbania cannabina,1100300000001,Saline,Rainfed,Organic,Certified,Dry Spell,Sharecropped,No,Enrolled,Medium,2024-10-20,2025-02-07
+Dinanath Grass,Pennisetum pedicellatum,1100400000001,Laterite,None,DAP,Hybrid,Dry Spell,Leased,No,Not Enrolled,None,2024-06-15,2024-09-30
+Guinea Grass,Panicum maximum L.,1100500000001,Arid,Tube Well,Urea,Local,Excess Rain,Owned,No,Enrolled,Low,2024-07-02,2024-11-25
+Napier Grass,Pennisetum purpureum,1100800000001,Arid,Tube Well,Urea,Local,Normal,Sharecropped,Yes,Enrolled,Medium,2024-09-11,2024-12-25
+Arecanut,Areca catechu L.,1200100000001,Saline,River,Vermicompost,Certified,Flood,Sharecropped,No,Enrolled,Low,2024-06-26,2024-11-02
+Oil Palm,Elaeis guineensis,1200900000001,Laterite,Canal,Organic,Local,Dry Spell,Sharecropped,Yes,Not Enrolled,Medium,2024-08-29,2024-12-29
+Tea,Camellia sinensis; Camellia assamica; C.assamica ssp lasiocalyx.,1201200000001,Alluvial,None,DAP,Certified,Drought,Sharecropped,No,Enrolled,None,2024-08-08,2024-12-20
+Carnation,Dianthus caryophyllus L.,1300700000001,Red,None,NPK,Local,Drought,Leased,No,Enrolled,Low,2024-09-03,2024-12-26
+China Aster,Callistephus chinensis (L.)Nees.,1301000000001,Black,Tube Well,DAP,Hybrid,Excess Rain,Leased,Yes,Not Enrolled,None,2024-09-27,2025-01-12
+Chrysanthemum,Chrysanthemum spp.,1301100000001,Arid,Canal,NPK,Local,Excess Rain,Leased,Yes,Not Enrolled,High,2024-06-04,2024-10-08
+Gladioulus,Gladioulus L.,1301900000001,Red,Tube Well,Vermicompost,Hybrid,Drought,Sharecropped,No,Not Enrolled,None,2024-07-18,2024-12-07
+Marigold,Tagetesspp. L.,1302900000001,Red,River,DAP,Hybrid,Flood,Leased,No,Enrolled,Low,2024-09-30,2025-02-05
+Orchid,Cymbidium; Dendrobium; Vanda; Cattleya Lindl.; Phalaenopsis Blume; Oncidium SW; Paphiopedilum Pfitz.,1303000000001,Laterite,Canal,Organic,Local,Flood,Leased,Yes,Not Enrolled,None,2024-07-15,2024-10-15
+Rose,Rosa spp.,1303200000001,Black,Canal,Vermicompost,Local,Flood,Owned,No,Not Enrolled,Medium,2024-07-11,2024-11-12
+Roselle,Hibiscus sabdariffa,1303300000001,Red,River,NPK,Local,Normal,Owned,No,Enrolled,Medium,2024-10-01,2025-02-09
+Tuberose,Polianthes tuberose L.,1303400000001,Alluvial,Drip,Vermicompost,Hybrid,Excess Rain,Sharecropped,No,Enrolled,High,2024-09-04,2025-01-17
+Menthol mint,Mentha arvensis L.,1404800000001,Arid,River,DAP,Certified,Normal,Sharecropped,Yes,Not Enrolled,Low,2024-07-05,2024-10-14
+Poppy,Papaver somniferum,1405400000001,Laterite,Rainfed,Compost,Certified,Normal,Leased,Yes,Not Enrolled,Low,2024-08-03,2024-12-31
+Casurina,Casuarina equisetifolia L.; Casuarina junghuhniana Miq.,1500900000001,Black,Tube Well,Vermicompost,Hybrid,Normal,Leased,Yes,Not Enrolled,None,2024-10-29,2025-01-31
+Eucalyptus,Eucalyptus comaldulesis Dehnh.; Eucalyptus tereticornis Sm.,1501200000001,Black,Canal,Urea,Hybrid,Flood,Owned,Yes,Not Enrolled,None,2024-06-13,2024-10-09
+Neem,Azadirachta indica A. Juss.,1502800000001,Laterite,Drip,Compost,Local,Excess Rain,Leased,Yes,Enrolled,High,2024-06-28,2024-10-06
+Groundnut,Arachis hypogaea,G6539,Red,Rainfed,Organic,Local,Normal,Sharecropped,No,Enrolled,Medium,2024-08-13,2024-12-12
+Jowar,Sorghum bicolor,J6828,Black,None,Potash,Local,Flood,Owned,Yes,Enrolled,Low,2024-07-09,2024-11-16
+Potato,Solanum tuberosum,P8250,Arid,None,Potash,Hybrid,Excess Rain,Owned,No,Not Enrolled,Medium,2024-11-30,2025-04-20
+Gram,Cicer arietinum,G6198,Loamy,Rainfed,Vermicompost,Certified,Dry Spell,Owned,Yes,Enrolled,Low,2024-06-13,2024-10-31
+Millet,Various,M2676,Arid,Canal,Vermicompost,F1 Hybrid,Heatwave,Leased,Yes,Not Enrolled,High,2024-06-27,2024-12-05
+Bajra,Pennisetum glaucum,B9950,Loamy,Sprinkler,Compost,F1 Hybrid,Drought,Owned,Yes,Enrolled,Low,2024-06-10,2024-09-26
+Tur,Cajanus cajan,T9002,Clayey,None,Compost,Local,Drought,Owned,No,Enrolled,High,2024-07-25,2024-11-05
+Onion,Allium cepa,O5414,Arid,Sprinkler,Vermicompost,F1 Hybrid,Flood,Sharecropped,No,Not Enrolled,None,2024-07-04,2024-10-12
+Bajra,Pennisetum glaucum,B5551,Alluvial,River,Urea,Certified,Excess Rain,Owned,Yes,Not Enrolled,None,2025-02-05,2025-07-18
+Tur,Cajanus cajan,T4538,Black,River,Potash,F1 Hybrid,Heatwave,Leased,No,Enrolled,None,2024-09-14,2025-01-29
+Cotton,Gossypium hirsutum,C3620,Clayey,River,Organic,Certified,Excess Rain,Leased,No,Enrolled,Low,2024-11-13,2025-03-29
+Tur,Cajanus cajan,T9605,Red,Drip,Organic,Hybrid,Flood,Sharecropped,No,Enrolled,High,2024-11-24,2025-04-29
+Cotton,Gossypium hirsutum,C4431,Laterite,Canal,NPK,F1 Hybrid,Flood,Sharecropped,Yes,Not Enrolled,Medium,2025-03-08,2025-06-24
+Potato,Solanum tuberosum,P9823,Laterite,None,NPK,Local,Normal,Leased,No,Enrolled,High,2024-09-06,2024-12-21
+Rice,Oryza sativa,R4177,Saline,Sprinkler,NPK,Certified,Dry Spell,Leased,Yes,Enrolled,Low,2024-10-18,2025-04-09
+Cotton,Gossypium hirsutum,C2475,Loamy,Drip,Potash,Local,Dry Spell,Owned,No,Enrolled,Low,2024-12-02,2025-04-28
+Potato,Solanum tuberosum,P8927,Loamy,Sprinkler,Organic,Certified,Excess Rain,Sharecropped,Yes,Not Enrolled,None,2024-12-31,2025-06-15
+Jowar,Sorghum bicolor,J1301,Alluvial,Rainfed,Organic,Local,Normal,Owned,Yes,Not Enrolled,High,2024-06-25,2024-10-08
+Gram,Cicer arietinum,G7710,Arid,Canal,DAP,F1 Hybrid,Flood,Sharecropped,No,Not Enrolled,Low,2025-03-08,2025-08-18
+Rice,Oryza sativa,R7355,Black,Sprinkler,DAP,Local,Drought,Sharecropped,Yes,Enrolled,Low,2024-09-22,2025-01-30
+Jowar,Sorghum bicolor,J8272,Clayey,Canal,NPK,Certified,Heatwave,Sharecropped,Yes,Enrolled,Low,2024-09-26,2025-03-20
+Jowar,Sorghum bicolor,J7959,Alluvial,Tube Well,Potash,Certified,Drought,Leased,No,Not Enrolled,Medium,2024-12-12,2025-05-06
+Sugarcane,Saccharum officinarum,S1228,Saline,Drip,Urea,Certified,Dry Spell,Owned,No,Not Enrolled,Medium,2024-06-16,2024-11-17
+Groundnut,Arachis hypogaea,G1805,Arid,Drip,Compost,Local,Heatwave,Leased,No,Not Enrolled,None,2024-11-19,2025-03-17
+Jowar,Sorghum bicolor,J2211,Loamy,Drip,DAP,Local,Excess Rain,Leased,No,Not Enrolled,High,2024-10-10,2025-04-05
+Rice,Oryza sativa,R6952,Saline,Tube Well,DAP,Certified,Heatwave,Leased,Yes,Enrolled,None,2024-10-04,2025-03-13
+Sugarcane,Saccharum officinarum,S3673,Arid,Drip,Potash,F1 Hybrid,Excess Rain,Sharecropped,Yes,Enrolled,Low,2024-08-06,2025-01-05
+Tur,Cajanus cajan,T6171,Saline,Drip,Urea,Certified,Dry Spell,Leased,No,Not Enrolled,Low,2025-03-20,2025-08-30
+Soybean,Glycine max,S5395,Black,Rainfed,Vermicompost,Local,Drought,Sharecropped,Yes,Enrolled,High,2024-07-30,2025-01-02
+Onion,Allium cepa,O8086,Alluvial,River,Vermicompost,F1 Hybrid,Drought,Sharecropped,No,Enrolled,None,2024-09-27,2025-02-28
+Onion,Allium cepa,O5401,Laterite,None,Organic,Certified,Drought,Sharecropped,No,Not Enrolled,Low,2025-02-18,2025-07-23
+Bajra,Pennisetum glaucum,B9108,Saline,River,Potash,Hybrid,Excess Rain,Leased,No,Not Enrolled,Medium,2024-06-29,2024-10-16
+Soybean,Glycine max,S6754,Red,Rainfed,Organic,Local,Drought,Sharecropped,Yes,Not Enrolled,High,2024-07-12,2024-11-06
+Millet,Various,M5842,Clayey,Tube Well,NPK,Local,Dry Spell,Owned,No,Not Enrolled,None,2025-02-08,2025-06-09
+Jowar,Sorghum bicolor,J8090,Clayey,Canal,Urea,Local,Normal,Owned,No,Enrolled,Low,2025-03-12,2025-09-05
+Soybean,Glycine max,S3923,Loamy,River,DAP,Hybrid,Normal,Owned,No,Enrolled,High,2024-09-03,2025-01-23
+Rice,Oryza sativa,R1728,Saline,Sprinkler,Vermicompost,Certified,Dry Spell,Owned,Yes,Enrolled,None,2024-09-24,2025-02-27
+Onion,Allium cepa,O1775,Laterite,Rainfed,Organic,Local,Normal,Sharecropped,Yes,Not Enrolled,Low,2025-02-24,2025-07-20
+Bajra,Pennisetum glaucum,B8687,Arid,Drip,NPK,Certified,Flood,Leased,Yes,Enrolled,None,2024-06-30,2024-12-15
+Onion,Allium cepa,O5908,Loamy,Drip,Compost,F1 Hybrid,Heatwave,Owned,Yes,Not Enrolled,Medium,2025-03-13,2025-07-28
+Bajra,Pennisetum glaucum,B2414,Loamy,Sprinkler,NPK,Hybrid,Normal,Sharecropped,Yes,Enrolled,High,2024-08-24,2024-12-17
+Cotton,Gossypium hirsutum,C2175,Arid,None,Compost,F1 Hybrid,Flood,Leased,No,Enrolled,Low,2024-08-18,2024-12-15
+Gram,Cicer arietinum,G2465,Alluvial,None,Vermicompost,Certified,Heatwave,Sharecropped,No,Not Enrolled,Low,2024-12-08,2025-05-14
+Sugarcane,Saccharum officinarum,S9671,Loamy,Sprinkler,DAP,F1 Hybrid,Dry Spell,Sharecropped,Yes,Not Enrolled,None,2024-08-08,2025-02-03
+Rice,Oryza sativa,R7077,Clayey,None,Urea,F1 Hybrid,Normal,Owned,Yes,Enrolled,High,2025-02-20,2025-06-25
+Potato,Solanum tuberosum,P2538,Laterite,None,Urea,Local,Heatwave,Owned,No,Not Enrolled,Medium,2025-01-12,2025-05-09
+Jowar,Sorghum bicolor,J5791,Clayey,None,Potash,Hybrid,Drought,Sharecropped,Yes,Not Enrolled,Low,2025-02-06,2025-05-14
+Rice,Oryza sativa,R5845,Red,Rainfed,Vermicompost,Certified,Heatwave,Owned,No,Not Enrolled,Medium,2024-09-21,2025-01-26
+Bajra,Pennisetum glaucum,B3693,Black,Tube Well,DAP,Certified,Drought,Sharecropped,Yes,Not Enrolled,Low,2024-08-01,2025-01-10
+Tur,Cajanus cajan,T5060,Laterite,Tube Well,Organic,F1 Hybrid,Normal,Leased,No,Not Enrolled,Low,2024-08-12,2024-11-29
+Millet,Various,M9585,Clayey,River,Compost,F1 Hybrid,Flood,Owned,Yes,Not Enrolled,Low,2024-12-20,2025-06-16
+Bajra,Pennisetum glaucum,B5340,Saline,None,NPK,Local,Heatwave,Sharecropped,No,Not Enrolled,Medium,2024-10-21,2025-03-26
+Tur,Cajanus cajan,T4170,Saline,Sprinkler,NPK,Hybrid,Excess Rain,Leased,No,Not Enrolled,Low,2025-03-20,2025-07-07
+Maize,Zea mays,M4325,Alluvial,Sprinkler,Organic,Certified,Excess Rain,Owned,Yes,Enrolled,Low,2024-09-05,2024-12-04
+Rice,Oryza sativa,R5412,Laterite,Sprinkler,Potash,Local,Normal,Leased,No,Not Enrolled,High,2025-03-22,2025-06-23
+Groundnut,Arachis hypogaea,G1290,Arid,Drip,Organic,F1 Hybrid,Heatwave,Owned,Yes,Enrolled,Low,2024-11-19,2025-05-15
+Jowar,Sorghum bicolor,J6559,Laterite,River,Organic,Certified,Excess Rain,Sharecropped,No,Not Enrolled,None,2024-11-21,2025-03-30
+Gram,Cicer arietinum,G9009,Laterite,Rainfed,Urea,Certified,Flood,Leased,Yes,Enrolled,None,2024-07-25,2024-11-27
+Jowar,Sorghum bicolor,J2749,Arid,River,Vermicompost,Certified,Dry Spell,Sharecropped,Yes,Enrolled,None,2025-01-23,2025-07-14
+Soybean,Glycine max,S3869,Loamy,Tube Well,Potash,Local,Drought,Leased,No,Enrolled,Low,2024-07-25,2025-01-10
+Millet,Various,M7849,Black,Drip,NPK,F1 Hybrid,Drought,Sharecropped,No,Enrolled,High,2024-09-04,2025-01-06
+Wheat,Triticum aestivum,W5454,Alluvial,None,Vermicompost,Certified,Normal,Leased,Yes,Enrolled,None,2024-12-23,2025-05-31
+Potato,Solanum tuberosum,P6906,Arid,River,Organic,Local,Normal,Sharecropped,Yes,Not Enrolled,None,2024-09-13,2025-03-06
+Onion,Allium cepa,O5859,Laterite,Tube Well,Potash,F1 Hybrid,Normal,Owned,No,Enrolled,Medium,2024-11-24,2025-04-29
+Sugarcane,Saccharum officinarum,S6760,Alluvial,Sprinkler,Organic,Certified,Drought,Leased,Yes,Enrolled,Medium,2024-11-30,2025-03-10
+Gram,Cicer arietinum,G6220,Black,Sprinkler,NPK,F1 Hybrid,Excess Rain,Leased,Yes,Not Enrolled,None,2024-07-22,2025-01-17
+Potato,Solanum tuberosum,P3897,Laterite,Drip,DAP,F1 Hybrid,Drought,Leased,Yes,Enrolled,Low,2024-06-23,2024-10-29
+Groundnut,Arachis hypogaea,G4059,Laterite,Tube Well,Organic,Hybrid,Excess Rain,Leased,Yes,Enrolled,None,2024-08-31,2025-01-14
+Rice,Oryza sativa,R5923,Red,Canal,DAP,Local,Drought,Sharecropped,Yes,Not Enrolled,Low,2024-12-06,2025-04-28
+Cotton,Gossypium hirsutum,C3959,Red,River,Organic,F1 Hybrid,Flood,Sharecropped,Yes,Enrolled,None,2024-12-20,2025-06-11
+Maize,Zea mays,M5025,Clayey,Rainfed,Organic,Certified,Normal,Sharecropped,No,Enrolled,Medium,2024-10-21,2025-03-02
+Jowar,Sorghum bicolor,J8721,Red,Drip,Urea,Certified,Flood,Leased,Yes,Not Enrolled,Low,2025-02-01,2025-06-19
+Tur,Cajanus cajan,T2853,Clayey,Drip,Urea,Certified,Excess Rain,Leased,Yes,Not Enrolled,Medium,2024-11-17,2025-04-12
+Tur,Cajanus cajan,T6376,Red,River,Vermicompost,Local,Excess Rain,Sharecropped,No,Enrolled,Medium,2025-02-26,2025-08-23
+Tur,Cajanus cajan,T6278,Red,Sprinkler,Urea,Local,Heatwave,Owned,Yes,Not Enrolled,Medium,2024-06-25,2024-10-28
+Bajra,Pennisetum glaucum,B9635,Red,None,DAP,Certified,Dry Spell,Sharecropped,Yes,Enrolled,None,2025-02-27,2025-06-24
+Groundnut,Arachis hypogaea,G6818,Black,Sprinkler,Potash,F1 Hybrid,Flood,Owned,No,Enrolled,High,2025-01-02,2025-06-06
+Bajra,Pennisetum glaucum,B4841,Arid,Rainfed,NPK,Hybrid,Dry Spell,Owned,No,Enrolled,High,2024-12-23,2025-06-17
+Maize,Zea mays,M3211,Arid,Sprinkler,NPK,Certified,Dry Spell,Sharecropped,No,Enrolled,None,2024-09-25,2025-01-16
+Wheat,Triticum aestivum,W4337,Alluvial,Rainfed,Organic,Certified,Dry Spell,Leased,Yes,Enrolled,High,2024-07-25,2024-11-25
+Jowar,Sorghum bicolor,J7801,Loamy,Drip,NPK,Hybrid,Excess Rain,Leased,Yes,Enrolled,High,2024-08-30,2025-02-16
+Bajra,Pennisetum glaucum,B7862,Laterite,River,Vermicompost,F1 Hybrid,Normal,Leased,Yes,Not Enrolled,None,2024-07-04,2024-11-01
+Sugarcane,Saccharum officinarum,S6698,Clayey,Canal,Compost,Certified,Dry Spell,Sharecropped,No,Not Enrolled,High,2025-01-14,2025-07-02
+Bajra,Pennisetum glaucum,B5391,Loamy,None,DAP,Hybrid,Dry Spell,Sharecropped,Yes,Not Enrolled,High,2024-10-05,2025-03-04
+Maize,Zea mays,M3655,Laterite,Tube Well,Urea,Certified,Flood,Sharecropped,No,Not Enrolled,Medium,2024-09-12,2025-02-11
+Maize,Zea mays,M3592,Black,None,Compost,F1 Hybrid,Excess Rain,Owned,Yes,Not Enrolled,Medium,2025-03-19,2025-07-06
+Groundnut,Arachis hypogaea,G5634,Alluvial,Tube Well,Organic,F1 Hybrid,Dry Spell,Owned,Yes,Not Enrolled,High,2024-11-10,2025-03-07
+Onion,Allium cepa,O1344,Loamy,River,DAP,Hybrid,Dry Spell,Leased,No,Not Enrolled,None,2024-07-09,2024-12-18
+Cotton,Gossypium hirsutum,C9186,Arid,Sprinkler,DAP,Local,Dry Spell,Leased,No,Enrolled,None,2024-06-04,2024-09-23
+Jowar,Sorghum bicolor,J8278,Red,None,DAP,Hybrid,Heatwave,Owned,No,Enrolled,Medium,2024-10-24,2025-02-18
+Jowar,Sorghum bicolor,J2761,Saline,Rainfed,Potash,Hybrid,Dry Spell,Owned,Yes,Not Enrolled,None,2025-03-13,2025-07-23
+Groundnut,Arachis hypogaea,G4082,Clayey,Tube Well,DAP,Certified,Normal,Owned,No,Not Enrolled,High,2024-07-15,2024-11-21
+Wheat,Triticum aestivum,W7218,Saline,Tube Well,Compost,Local,Heatwave,Sharecropped,Yes,Not Enrolled,High,2025-01-09,2025-05-12
+Tur,Cajanus cajan,T2933,Loamy,Drip,Urea,F1 Hybrid,Heatwave,Sharecropped,Yes,Enrolled,High,2024-07-18,2024-11-29
+Sugarcane,Saccharum officinarum,S1536,Clayey,River,Potash,Hybrid,Heatwave,Sharecropped,No,Not Enrolled,High,2024-08-05,2024-12-07
+Bajra,Pennisetum glaucum,B7632,Clayey,Rainfed,NPK,Local,Flood,Sharecropped,No,Enrolled,High,2024-07-09,2024-11-06
+Tur,Cajanus cajan,T6299,Black,Canal,Compost,Hybrid,Normal,Sharecropped,No,Enrolled,Low,2024-07-24,2024-11-09
+Wheat,Triticum aestivum,W3924,Saline,Tube Well,DAP,Hybrid,Flood,Leased,Yes,Enrolled,None,2024-09-23,2025-02-09
+Tur,Cajanus cajan,T2216,Loamy,Sprinkler,Compost,Local,Flood,Owned,No,Not Enrolled,None,2024-06-03,2024-11-21
+Jowar,Sorghum bicolor,J5574,Arid,Sprinkler,Compost,F1 Hybrid,Dry Spell,Sharecropped,No,Not Enrolled,Medium,2024-08-28,2025-01-03
+Jowar,Sorghum bicolor,J5730,Arid,River,Potash,F1 Hybrid,Drought,Owned,No,Enrolled,Medium,2024-07-06,2024-12-05
+Sugarcane,Saccharum officinarum,S8553,Black,Canal,Urea,Local,Dry Spell,Sharecropped,Yes,Enrolled,High,2024-08-02,2025-01-27
+Soybean,Glycine max,S9344,Black,Sprinkler,Vermicompost,Certified,Heatwave,Owned,Yes,Enrolled,High,2025-01-16,2025-06-09
+Maize,Zea mays,M1184,Laterite,Rainfed,NPK,F1 Hybrid,Heatwave,Leased,No,Enrolled,High,2024-07-13,2024-10-30
+Bajra,Pennisetum glaucum,B6913,Clayey,Rainfed,Urea,Certified,Drought,Owned,No,Not Enrolled,High,2024-10-19,2025-02-12
+Maize,Zea mays,M9850,Loamy,Canal,NPK,Certified,Excess Rain,Sharecropped,No,Not Enrolled,Low,2024-11-16,2025-03-01
+Tur,Cajanus cajan,T3384,Clayey,None,Potash,Hybrid,Normal,Sharecropped,No,Enrolled,High,2025-02-10,2025-07-31
+Jowar,Sorghum bicolor,J3039,Arid,Sprinkler,Vermicompost,F1 Hybrid,Heatwave,Sharecropped,Yes,Enrolled,High,2024-12-31,2025-04-08
+Soybean,Glycine max,S5904,Saline,Tube Well,Urea,Local,Excess Rain,Owned,Yes,Enrolled,Medium,2025-01-14,2025-06-09
+Sugarcane,Saccharum officinarum,S1415,Clayey,Canal,Compost,Hybrid,Excess Rain,Sharecropped,No,Enrolled,None,2024-12-05,2025-05-07
+Onion,Allium cepa,O9516,Arid,Tube Well,Potash,Certified,Normal,Owned,No,Not Enrolled,None,2024-11-01,2025-04-29
+Maize,Zea mays,M8570,Loamy,Sprinkler,Potash,Local,Normal,Owned,No,Enrolled,Low,2025-01-27,2025-05-30
+Soybean,Glycine max,S9463,Black,Rainfed,DAP,Certified,Dry Spell,Leased,No,Not Enrolled,Low,2024-07-06,2024-11-12
+Sugarcane,Saccharum officinarum,S7539,Red,Drip,Potash,F1 Hybrid,Heatwave,Sharecropped,No,Not Enrolled,Medium,2024-12-01,2025-05-06
+Groundnut,Arachis hypogaea,G4551,Loamy,River,NPK,Hybrid,Normal,Sharecropped,No,Enrolled,None,2024-10-16,2025-01-28
+Jowar,Sorghum bicolor,J2280,Red,Tube Well,Vermicompost,Local,Heatwave,Owned,No,Not Enrolled,Medium,2024-10-12,2025-03-02
+Potato,Solanum tuberosum,P8354,Black,Drip,NPK,Certified,Dry Spell,Leased,No,Not Enrolled,High,2024-10-25,2025-02-06
+Bajra,Pennisetum glaucum,B1190,Laterite,Sprinkler,Compost,Hybrid,Drought,Sharecropped,Yes,Not Enrolled,Medium,2024-07-11,2024-11-25
+Maize,Zea mays,M6091,Arid,Tube Well,Organic,Certified,Dry Spell,Leased,Yes,Not Enrolled,Low,2024-06-23,2024-10-22
+Rice,Oryza sativa,R2158,Arid,Sprinkler,NPK,F1 Hybrid,Dry Spell,Sharecropped,No,Enrolled,Low,2024-12-20,2025-05-23
+Potato,Solanum tuberosum,P3601,Loamy,Sprinkler,DAP,Certified,Excess Rain,Leased,Yes,Enrolled,High,2024-07-20,2025-01-05
+Potato,Solanum tuberosum,P7561,Arid,Canal,Potash,Hybrid,Drought,Owned,No,Enrolled,Medium,2024-11-11,2025-04-29
+Groundnut,Arachis hypogaea,G1364,Laterite,River,Compost,Hybrid,Excess Rain,Owned,Yes,Not Enrolled,Medium,2025-03-19,2025-07-05
+Bajra,Pennisetum glaucum,B1490,Arid,Sprinkler,Potash,F1 Hybrid,Flood,Leased,No,Enrolled,High,2025-02-12,2025-07-17
+Cotton,Gossypium hirsutum,C7339,Red,River,Compost,Hybrid,Heatwave,Leased,Yes,Not Enrolled,Low,2025-03-12,2025-07-13
+Millet,Various,M7383,Laterite,Sprinkler,Organic,F1 Hybrid,Normal,Owned,Yes,Not Enrolled,Medium,2024-08-26,2025-02-02
+Groundnut,Arachis hypogaea,G4556,Arid,Tube Well,Urea,Local,Drought,Leased,Yes,Not Enrolled,Medium,2025-02-05,2025-07-01
+Cotton,Gossypium hirsutum,C8377,Clayey,River,DAP,Local,Heatwave,Owned,Yes,Enrolled,None,2024-08-08,2025-01-05
+Wheat,Triticum aestivum,W5309,Alluvial,None,NPK,Hybrid,Excess Rain,Sharecropped,Yes,Not Enrolled,None,2025-01-04,2025-07-01
+Groundnut,Arachis hypogaea,G1168,Loamy,Drip,Compost,Certified,Flood,Sharecropped,No,Not Enrolled,None,2025-02-03,2025-05-24
+Millet,Various,M4688,Arid,Rainfed,Potash,F1 Hybrid,Heatwave,Sharecropped,No,Enrolled,Medium,2025-03-21,2025-09-10
+Wheat,Triticum aestivum,W8022,Black,Rainfed,DAP,Local,Dry Spell,Leased,Yes,Not Enrolled,Low,2025-02-24,2025-05-29
+Rice,Oryza sativa,R9155,Black,Tube Well,Potash,Hybrid,Drought,Sharecropped,Yes,Enrolled,Low,2024-10-08,2025-04-05
+Millet,Various,M4341,Clayey,Tube Well,Urea,F1 Hybrid,Excess Rain,Sharecropped,No,Not Enrolled,Medium,2024-10-20,2025-03-01
+Jowar,Sorghum bicolor,J9277,Black,River,Compost,Local,Normal,Owned,Yes,Enrolled,High,2024-10-06,2025-03-22
+Millet,Various,M3330,Clayey,None,Vermicompost,Hybrid,Heatwave,Leased,Yes,Enrolled,Low,2024-06-03,2024-09-09
+Bajra,Pennisetum glaucum,B7158,Laterite,Rainfed,Potash,F1 Hybrid,Flood,Sharecropped,No,Not Enrolled,Low,2024-10-14,2025-02-09
+Potato,Solanum tuberosum,P7269,Red,None,NPK,Certified,Excess Rain,Leased,Yes,Enrolled,High,2024-08-10,2025-02-06
+Tur,Cajanus cajan,T7194,Clayey,River,NPK,Local,Drought,Sharecropped,No,Not Enrolled,None,2024-12-07,2025-04-03
+Jowar,Sorghum bicolor,J6884,Clayey,River,Urea,Hybrid,Drought,Leased,No,Not Enrolled,High,2025-03-19,2025-08-28
+Jowar,Sorghum bicolor,J3823,Red,None,Urea,F1 Hybrid,Heatwave,Leased,Yes,Not Enrolled,None,2024-07-03,2024-12-02
+Bajra,Pennisetum glaucum,B3463,Laterite,Drip,Urea,Hybrid,Dry Spell,Sharecropped,Yes,Enrolled,Low,2024-10-09,2025-03-18
+Tur,Cajanus cajan,T6083,Black,Tube Well,Urea,Certified,Dry Spell,Owned,No,Enrolled,Medium,2024-06-12,2024-11-14
+Rice,Oryza sativa,R9366,Arid,River,Urea,F1 Hybrid,Excess Rain,Sharecropped,Yes,Not Enrolled,None,2024-12-25,2025-03-27
+Jowar,Sorghum bicolor,J1495,Clayey,Rainfed,Vermicompost,Local,Normal,Sharecropped,No,Enrolled,High,2024-10-03,2025-03-30
+Rice,Oryza sativa,R5422,Clayey,Tube Well,DAP,F1 Hybrid,Heatwave,Leased,No,Enrolled,None,2025-03-04,2025-07-17
+Maize,Zea mays,M4933,Arid,Tube Well,Urea,Certified,Normal,Owned,Yes,Enrolled,High,2024-07-01,2024-11-29
+Millet,Various,M9118,Loamy,Sprinkler,Compost,Hybrid,Heatwave,Owned,No,Not Enrolled,Low,2024-08-22,2024-12-15
+Sugarcane,Saccharum officinarum,S1947,Red,None,Vermicompost,Certified,Flood,Owned,No,Enrolled,Low,2024-09-17,2024-12-25
+Sugarcane,Saccharum officinarum,S1211,Red,Tube Well,Organic,Local,Dry Spell,Sharecropped,No,Enrolled,None,2024-08-21,2024-12-14
+Potato,Solanum tuberosum,P2467,Arid,Drip,Urea,Local,Dry Spell,Leased,Yes,Not Enrolled,Medium,2024-11-25,2025-05-17
+Rice,Oryza sativa,R1223,Loamy,Tube Well,Organic,Local,Heatwave,Owned,Yes,Enrolled,High,2024-07-24,2024-12-12
+Groundnut,Arachis hypogaea,G1399,Arid,Canal,Compost,Hybrid,Normal,Sharecropped,No,Not Enrolled,High,2025-01-01,2025-05-11
+Bajra,Pennisetum glaucum,B3966,Arid,Sprinkler,Vermicompost,Local,Flood,Leased,Yes,Enrolled,Low,2024-08-11,2025-01-29
+Bajra,Pennisetum glaucum,B3714,Arid,Sprinkler,Vermicompost,F1 Hybrid,Excess Rain,Owned,Yes,Not Enrolled,High,2024-06-08,2024-11-17
+Rice,Oryza sativa,R8403,Black,Sprinkler,Urea,Local,Excess Rain,Owned,No,Not Enrolled,High,2024-12-31,2025-06-23
+Potato,Solanum tuberosum,P5030,Red,Tube Well,DAP,Hybrid,Heatwave,Sharecropped,No,Enrolled,Medium,2024-09-27,2025-01-10
+Cotton,Gossypium hirsutum,C8245,Black,Sprinkler,Compost,Local,Drought,Sharecropped,No,Not Enrolled,Medium,2025-01-17,2025-07-07
+Cotton,Gossypium hirsutum,C1508,Laterite,Canal,Organic,F1 Hybrid,Normal,Sharecropped,No,Enrolled,None,2024-08-18,2025-01-29
+Sugarcane,Saccharum officinarum,S7938,Alluvial,Tube Well,Organic,Hybrid,Normal,Leased,No,Enrolled,Low,2024-12-27,2025-06-10
+Groundnut,Arachis hypogaea,G1464,Clayey,Rainfed,DAP,Certified,Excess Rain,Sharecropped,Yes,Enrolled,Low,2025-01-07,2025-07-05
+Tur,Cajanus cajan,T2020,Saline,Sprinkler,Urea,F1 Hybrid,Drought,Sharecropped,No,Enrolled,Low,2025-02-18,2025-05-28
+Wheat,Triticum aestivum,W2793,Loamy,Canal,Potash,F1 Hybrid,Flood,Owned,No,Enrolled,Medium,2025-03-04,2025-08-14
+Maize,Zea mays,M2572,Alluvial,Rainfed,Organic,Local,Dry Spell,Owned,No,Not Enrolled,Low,2024-08-11,2025-01-19
+Rice,Oryza sativa,R7822,Loamy,Sprinkler,Potash,F1 Hybrid,Excess Rain,Owned,No,Not Enrolled,Medium,2025-03-10,2025-06-14
+Onion,Allium cepa,O7854,Clayey,None,NPK,Certified,Normal,Sharecropped,Yes,Not Enrolled,Low,2024-09-17,2025-01-30
+Millet,Various,M6972,Loamy,Drip,Urea,Local,Flood,Sharecropped,No,Not Enrolled,High,2024-10-06,2025-02-25
+Sugarcane,Saccharum officinarum,S5186,Clayey,Tube Well,DAP,F1 Hybrid,Dry Spell,Owned,No,Enrolled,Medium,2024-06-16,2024-10-23
+Wheat,Triticum aestivum,W2902,Clayey,Canal,Vermicompost,Certified,Normal,Owned,No,Enrolled,Medium,2025-02-14,2025-07-22
+Potato,Solanum tuberosum,P4408,Saline,Drip,Organic,F1 Hybrid,Excess Rain,Sharecropped,Yes,Enrolled,Medium,2025-01-28,2025-07-25
+Cotton,Gossypium hirsutum,C4695,Black,None,Urea,F1 Hybrid,Drought,Owned,Yes,Enrolled,Medium,2025-01-16,2025-06-11
+Rice,Oryza sativa,R8471,Red,Canal,Urea,F1 Hybrid,Drought,Leased,Yes,Not Enrolled,Medium,2024-07-17,2024-10-27
+Rice,Oryza sativa,R9902,Saline,River,Compost,Certified,Excess Rain,Sharecropped,No,Not Enrolled,None,2024-12-30,2025-05-23
+Soybean,Glycine max,S4151,Loamy,River,Vermicompost,F1 Hybrid,Flood,Sharecropped,Yes,Enrolled,High,2024-12-16,2025-04-10
+Wheat,Triticum aestivum,W7071,Laterite,Rainfed,Potash,Certified,Excess Rain,Sharecropped,Yes,Not Enrolled,Low,2024-07-28,2024-12-13
+Sugarcane,Saccharum officinarum,S2558,Laterite,River,Organic,Local,Heatwave,Owned,Yes,Not Enrolled,High,2024-10-07,2025-02-03
+Bajra,Pennisetum glaucum,B5489,Alluvial,Sprinkler,Compost,Hybrid,Drought,Owned,Yes,Not Enrolled,None,2024-10-20,2025-04-14
+Jowar,Sorghum bicolor,J2752,Black,River,Potash,Certified,Heatwave,Owned,No,Not Enrolled,Low,2024-08-10,2024-12-25
+Tur,Cajanus cajan,T7647,Laterite,Sprinkler,Potash,Local,Heatwave,Sharecropped,No,Enrolled,Medium,2025-01-24,2025-07-10
+Maize,Zea mays,M7470,Arid,None,Organic,Certified,Heatwave,Sharecropped,Yes,Not Enrolled,None,2024-08-17,2024-12-23
+Bajra,Pennisetum glaucum,B8746,Arid,Canal,Vermicompost,Local,Normal,Leased,No,Enrolled,None,2025-02-11,2025-06-05
+Groundnut,Arachis hypogaea,G7320,Laterite,Tube Well,Organic,Local,Heatwave,Owned,Yes,Not Enrolled,Medium,2024-08-03,2024-12-05
+Wheat,Triticum aestivum,W1440,Clayey,River,DAP,Hybrid,Dry Spell,Sharecropped,No,Not Enrolled,None,2025-03-26,2025-08-04
+Bajra,Pennisetum glaucum,B8415,Clayey,None,Compost,Hybrid,Drought,Sharecropped,No,Enrolled,Low,2024-09-24,2025-03-19
+Potato,Solanum tuberosum,P2495,Loamy,Sprinkler,NPK,F1 Hybrid,Drought,Sharecropped,No,Not Enrolled,None,2025-01-31,2025-07-06
+Millet,Various,M6740,Saline,Sprinkler,DAP,Certified,Flood,Owned,No,Not Enrolled,Medium,2024-12-11,2025-05-26
+Soybean,Glycine max,S2820,Red,Sprinkler,Urea,Hybrid,Excess Rain,Owned,Yes,Not Enrolled,None,2025-03-07,2025-08-10
+Gram,Cicer arietinum,G2467,Laterite,Sprinkler,DAP,Local,Heatwave,Sharecropped,No,Not Enrolled,High,2024-07-14,2024-10-25
+Groundnut,Arachis hypogaea,G7647,Laterite,Tube Well,Organic,F1 Hybrid,Flood,Leased,No,Enrolled,Low,2024-10-21,2025-02-20
+Groundnut,Arachis hypogaea,G2305,Laterite,Canal,Organic,Hybrid,Normal,Owned,Yes,Not Enrolled,None,2024-06-11,2024-09-13
+Onion,Allium cepa,O9795,Laterite,Sprinkler,Potash,Certified,Excess Rain,Leased,Yes,Not Enrolled,None,2025-02-15,2025-06-06
+Millet,Various,M9648,Red,None,Compost,Local,Flood,Leased,No,Enrolled,None,2024-08-05,2025-01-10
+Tur,Cajanus cajan,T6635,Clayey,Drip,Compost,Hybrid,Normal,Sharecropped,Yes,Not Enrolled,High,2024-10-21,2025-04-05
+Millet,Various,M8299,Alluvial,Tube Well,Vermicompost,Certified,Flood,Owned,No,Not Enrolled,Low,2025-02-10,2025-08-04
+Tur,Cajanus cajan,T5164,Black,River,Vermicompost,Hybrid,Drought,Leased,Yes,Not Enrolled,None,2024-07-11,2024-12-13
+Millet,Various,M6232,Black,Tube Well,Urea,F1 Hybrid,Flood,Sharecropped,Yes,Enrolled,None,2024-09-13,2025-03-12
+Tur,Cajanus cajan,T3940,Arid,Rainfed,Potash,Certified,Flood,Leased,Yes,Enrolled,High,2024-10-17,2025-02-20
+Gram,Cicer arietinum,G4983,Saline,None,NPK,F1 Hybrid,Dry Spell,Leased,No,Enrolled,Low,2024-08-31,2025-01-22
+Onion,Allium cepa,O6673,Red,Canal,DAP,Local,Heatwave,Owned,No,Not Enrolled,None,2024-07-08,2024-10-08
+Maize,Zea mays,M1332,Alluvial,Drip,Urea,Certified,Dry Spell,Owned,No,Enrolled,Medium,2024-11-07,2025-03-27
+Gram,Cicer arietinum,G9039,Arid,Canal,NPK,Local,Normal,Leased,Yes,Not Enrolled,Medium,2024-12-09,2025-05-31
+Potato,Solanum tuberosum,P6208,Black,Canal,Organic,Hybrid,Heatwave,Owned,No,Not Enrolled,High,2024-06-01,2024-10-25
+Millet,Various,M1555,Laterite,Canal,Urea,Certified,Drought,Sharecropped,No,Not Enrolled,None,2024-11-08,2025-02-27
+Gram,Cicer arietinum,G6811,Loamy,Rainfed,Potash,Certified,Heatwave,Leased,Yes,Enrolled,Low,2024-12-26,2025-06-04
+Bajra,Pennisetum glaucum,B2393,Red,Sprinkler,Potash,Hybrid,Drought,Owned,No,Enrolled,Medium,2025-02-04,2025-07-12
+Millet,Various,M1779,Clayey,River,Organic,Hybrid,Excess Rain,Leased,No,Enrolled,Medium,2024-12-25,2025-05-26
+Jowar,Sorghum bicolor,J7113,Saline,River,NPK,F1 Hybrid,Drought,Sharecropped,No,Not Enrolled,Medium,2025-01-26,2025-06-19
+Soybean,Glycine max,S9592,Red,River,Organic,Hybrid,Drought,Sharecropped,No,Enrolled,None,2024-07-17,2024-11-10
+Onion,Allium cepa,O6037,Red,River,NPK,F1 Hybrid,Normal,Sharecropped,Yes,Not Enrolled,None,2024-06-11,2024-10-13
+Maize,Zea mays,M9327,Laterite,Rainfed,Vermicompost,Local,Dry Spell,Leased,Yes,Not Enrolled,Medium,2024-11-16,2025-04-26
+Millet,Various,M7651,Loamy,Rainfed,Vermicompost,Certified,Dry Spell,Leased,No,Not Enrolled,None,2024-11-23,2025-02-24
+Cotton,Gossypium hirsutum,C3235,Black,River,Compost,Hybrid,Excess Rain,Leased,Yes,Enrolled,None,2024-09-21,2025-02-01
+Bajra,Pennisetum glaucum,B1530,Loamy,River,NPK,Local,Dry Spell,Owned,Yes,Enrolled,Medium,2024-09-29,2025-02-03
+Sugarcane,Saccharum officinarum,S6617,Loamy,Tube Well,Compost,Hybrid,Excess Rain,Sharecropped,Yes,Enrolled,None,2024-11-29,2025-03-12
+Maize,Zea mays,M7097,Loamy,River,Organic,Certified,Normal,Sharecropped,No,Enrolled,None,2025-03-22,2025-09-11
+Jowar,Sorghum bicolor,J5780,Laterite,Drip,Urea,Certified,Flood,Sharecropped,Yes,Not Enrolled,None,2025-03-06,2025-08-25
+Jowar,Sorghum bicolor,J2998,Laterite,Sprinkler,Urea,Hybrid,Flood,Owned,No,Not Enrolled,None,2024-11-26,2025-05-23
+Millet,Various,M3969,Arid,None,Potash,Local,Flood,Owned,Yes,Not Enrolled,Low,2024-09-27,2025-01-10
+Soybean,Glycine max,S3240,Alluvial,River,Urea,F1 Hybrid,Flood,Owned,Yes,Enrolled,Medium,2024-11-15,2025-04-27
+Jowar,Sorghum bicolor,J9169,Saline,River,NPK,Local,Drought,Owned,No,Enrolled,Low,2024-07-12,2024-11-23
+Soybean,Glycine max,S6813,Saline,Sprinkler,Organic,Local,Heatwave,Owned,Yes,Enrolled,High,2024-09-27,2025-01-06
+Tur,Cajanus cajan,T5131,Clayey,Canal,Compost,F1 Hybrid,Dry Spell,Owned,No,Enrolled,High,2024-10-10,2025-02-26
+Sugarcane,Saccharum officinarum,S2470,Alluvial,Rainfed,DAP,Hybrid,Excess Rain,Owned,Yes,Not Enrolled,Medium,2025-01-31,2025-06-13
+Soybean,Glycine max,S9457,Loamy,Canal,Potash,Hybrid,Dry Spell,Leased,No,Enrolled,None,2024-11-16,2025-04-07
+Millet,Various,M9856,Laterite,None,Potash,Hybrid,Heatwave,Leased,No,Enrolled,Medium,2024-11-25,2025-03-01
+Jowar,Sorghum bicolor,J9809,Loamy,Canal,Urea,Hybrid,Normal,Owned,Yes,Enrolled,None,2025-03-05,2025-08-22
+Potato,Solanum tuberosum,P6764,Black,River,Potash,Certified,Dry Spell,Owned,No,Enrolled,Low,2025-02-25,2025-07-19
+Soybean,Glycine max,S1331,Red,Drip,Compost,Local,Normal,Sharecropped,Yes,Not Enrolled,Medium,2024-09-15,2024-12-28
+Cotton,Gossypium hirsutum,C5143,Arid,Sprinkler,Vermicompost,Hybrid,Flood,Owned,No,Enrolled,Medium,2024-07-23,2025-01-07
+Wheat,Triticum aestivum,W9342,Saline,Drip,Urea,Hybrid,Excess Rain,Leased,No,Enrolled,High,2024-11-13,2025-04-28
+Onion,Allium cepa,O2676,Saline,Canal,DAP,Certified,Heatwave,Leased,Yes,Not Enrolled,None,2024-06-29,2024-11-11
+Bajra,Pennisetum glaucum,B7576,Clayey,Canal,Potash,Local,Flood,Leased,No,Enrolled,Medium,2025-02-09,2025-05-15
+Maize,Zea mays,M6352,Saline,Rainfed,Compost,Hybrid,Drought,Leased,Yes,Enrolled,High,2024-08-08,2024-11-10
+Soybean,Glycine max,S8543,Red,Tube Well,NPK,Local,Heatwave,Leased,Yes,Not Enrolled,None,2024-09-06,2025-02-03
+Soybean,Glycine max,S7229,Red,Canal,Compost,Hybrid,Normal,Leased,Yes,Not Enrolled,None,2024-10-29,2025-02-23
+Millet,Various,M8488,Alluvial,Drip,Organic,Hybrid,Dry Spell,Sharecropped,No,Not Enrolled,Low,2025-03-13,2025-08-17
+Groundnut,Arachis hypogaea,G1257,Clayey,Sprinkler,Vermicompost,F1 Hybrid,Flood,Owned,No,Not Enrolled,Low,2024-12-07,2025-04-25
+Millet,Various,M6444,Black,Tube Well,Organic,F1 Hybrid,Dry Spell,Sharecropped,Yes,Enrolled,Medium,2024-11-14,2025-03-08
+Onion,Allium cepa,O7952,Clayey,Drip,Potash,Local,Drought,Leased,No,Not Enrolled,Medium,2025-02-17,2025-05-22
+Gram,Cicer arietinum,G4263,Laterite,Sprinkler,NPK,F1 Hybrid,Excess Rain,Sharecropped,Yes,Enrolled,Medium,2024-11-24,2025-03-15
+Jowar,Sorghum bicolor,J6687,Loamy,Sprinkler,Urea,Certified,Flood,Leased,No,Not Enrolled,Low,2025-01-18,2025-07-01
+Tur,Cajanus cajan,T3478,Saline,Sprinkler,Vermicompost,F1 Hybrid,Dry Spell,Sharecropped,Yes,Enrolled,Low,2024-11-22,2025-04-01
+Millet,Various,M9724,Red,None,Potash,Certified,Flood,Leased,No,Not Enrolled,Medium,2024-09-20,2025-03-16
+Potato,Solanum tuberosum,P5765,Clayey,Canal,Vermicompost,F1 Hybrid,Normal,Owned,No,Not Enrolled,High,2024-07-06,2024-10-10
+Rice,Oryza sativa,R7384,Saline,River,DAP,F1 Hybrid,Dry Spell,Sharecropped,No,Enrolled,Low,2024-09-21,2025-02-02
+Groundnut,Arachis hypogaea,G3592,Alluvial,Canal,Potash,Certified,Normal,Sharecropped,No,Enrolled,None,2025-02-13,2025-08-02
+Groundnut,Arachis hypogaea,G4229,Clayey,Drip,Compost,Local,Normal,Owned,Yes,Not Enrolled,Low,2024-06-07,2024-09-11
+Jowar,Sorghum bicolor,J1366,Red,Drip,DAP,Local,Flood,Sharecropped,Yes,Not Enrolled,Low,2024-08-22,2024-12-11
+Gram,Cicer arietinum,G1010,Black,Sprinkler,Urea,Local,Drought,Owned,No,Not Enrolled,None,2024-09-29,2025-01-02
+Millet,Various,M8040,Saline,Tube Well,Potash,Local,Dry Spell,Leased,Yes,Enrolled,High,2024-07-18,2025-01-08
+Jowar,Sorghum bicolor,J3170,Black,Tube Well,Potash,F1 Hybrid,Dry Spell,Leased,No,Enrolled,High,2024-09-22,2025-02-17
+Gram,Cicer arietinum,G9610,Saline,Canal,Urea,Local,Excess Rain,Owned,Yes,Enrolled,Medium,2024-08-30,2025-01-24
+Potato,Solanum tuberosum,P7949,Arid,Rainfed,Potash,Certified,Excess Rain,Sharecropped,No,Not Enrolled,High,2025-02-15,2025-06-28
+Sugarcane,Saccharum officinarum,S9412,Black,Sprinkler,Compost,Hybrid,Normal,Owned,Yes,Enrolled,High,2024-12-01,2025-04-28
+Gram,Cicer arietinum,G7523,Laterite,Tube Well,Vermicompost,F1 Hybrid,Drought,Leased,No,Not Enrolled,High,2024-06-28,2024-11-23
+Onion,Allium cepa,O6419,Black,Sprinkler,Vermicompost,Local,Dry Spell,Leased,Yes,Enrolled,High,2024-12-11,2025-05-20
+Sugarcane,Saccharum officinarum,S7052,Arid,Canal,Vermicompost,Hybrid,Normal,Leased,No,Enrolled,Medium,2024-12-30,2025-06-19
+Onion,Allium cepa,O3960,Saline,River,DAP,Hybrid,Normal,Owned,Yes,Enrolled,Medium,2025-03-23,2025-09-15
+Onion,Allium cepa,O2518,Loamy,Tube Well,NPK,F1 Hybrid,Drought,Sharecropped,No,Not Enrolled,High,2024-12-17,2025-03-17
+Rice,Oryza sativa,R3120,Black,Drip,Compost,F1 Hybrid,Flood,Sharecropped,No,Not Enrolled,None,2025-01-30,2025-05-01
+Rice,Oryza sativa,R3208,Loamy,Tube Well,DAP,Hybrid,Drought,Owned,Yes,Enrolled,None,2024-11-11,2025-04-25
+Groundnut,Arachis hypogaea,G4242,Alluvial,Tube Well,Organic,Local,Dry Spell,Sharecropped,Yes,Not Enrolled,None,2025-02-01,2025-05-29
+Jowar,Sorghum bicolor,J2766,Alluvial,Canal,Compost,F1 Hybrid,Heatwave,Leased,Yes,Not Enrolled,Medium,2024-06-27,2024-11-10
+Soybean,Glycine max,S2547,Alluvial,Sprinkler,Compost,Hybrid,Dry Spell,Leased,No,Not Enrolled,Low,2024-11-24,2025-03-15
+Bajra,Pennisetum glaucum,B6065,Clayey,None,Potash,F1 Hybrid,Dry Spell,Owned,No,Not Enrolled,None,2025-03-20,2025-07-28
+Gram,Cicer arietinum,G2214,Laterite,River,Organic,Hybrid,Heatwave,Owned,No,Not Enrolled,Low,2025-01-25,2025-05-14
+Millet,Various,M1901,Black,Tube Well,Potash,Hybrid,Flood,Leased,Yes,Enrolled,Low,2024-08-20,2024-12-28
+Potato,Solanum tuberosum,P1628,Clayey,River,Potash,F1 Hybrid,Normal,Sharecropped,Yes,Not Enrolled,Medium,2024-09-25,2024-12-26
+Millet,Various,M2022,Loamy,Tube Well,Organic,Certified,Flood,Leased,No,Not Enrolled,None,2024-07-13,2024-11-26
+Groundnut,Arachis hypogaea,G5019,Loamy,None,NPK,Hybrid,Dry Spell,Owned,No,Not Enrolled,High,2025-02-04,2025-06-27
+Sugarcane,Saccharum officinarum,S1490,Laterite,Rainfed,Organic,Certified,Excess Rain,Owned,Yes,Enrolled,Low,2024-08-09,2025-01-08
+Maize,Zea mays,M7670,Black,Rainfed,Compost,F1 Hybrid,Flood,Owned,No,Enrolled,High,2024-06-13,2024-10-01
+Cotton,Gossypium hirsutum,C1699,Alluvial,Drip,Potash,Hybrid,Heatwave,Leased,No,Enrolled,Low,2024-10-28,2025-01-28
+Sugarcane,Saccharum officinarum,S4374,Saline,River,Organic,Local,Heatwave,Owned,No,Enrolled,Medium,2024-09-20,2025-03-18
+Tur,Cajanus cajan,T5496,Laterite,Tube Well,Vermicompost,Hybrid,Heatwave,Leased,No,Enrolled,None,2024-11-20,2025-04-12
+Bajra,Pennisetum glaucum,B3771,Red,Drip,Urea,Hybrid,Flood,Leased,Yes,Not Enrolled,Low,2024-08-23,2025-01-12
+Maize,Zea mays,M7848,Clayey,Sprinkler,Vermicompost,Hybrid,Flood,Sharecropped,Yes,Not Enrolled,Medium,2025-01-24,2025-05-08
+Onion,Allium cepa,O9633,Loamy,Canal,Potash,Hybrid,Normal,Sharecropped,No,Not Enrolled,Medium,2024-12-29,2025-04-26
+Potato,Solanum tuberosum,P5685,Saline,Tube Well,Potash,Certified,Heatwave,Owned,Yes,Enrolled,Medium,2024-11-14,2025-04-09
+Gram,Cicer arietinum,G7199,Laterite,Rainfed,DAP,Hybrid,Heatwave,Owned,Yes,Enrolled,None,2025-02-23,2025-06-21
+Wheat,Triticum aestivum,W3122,Clayey,Rainfed,Organic,Hybrid,Flood,Owned,No,Not Enrolled,None,2024-10-15,2025-02-21
+Rice,Oryza sativa,R6318,Arid,None,NPK,Hybrid,Flood,Leased,No,Not Enrolled,None,2024-08-30,2024-11-28
+Jowar,Sorghum bicolor,J1669,Red,Tube Well,Organic,Local,Flood,Sharecropped,Yes,Not Enrolled,Medium,2024-09-09,2025-01-19
+Millet,Various,M2217,Red,Sprinkler,Vermicompost,F1 Hybrid,Normal,Owned,No,Enrolled,Low,2025-02-13,2025-06-23
+Onion,Allium cepa,O9726,Laterite,Sprinkler,DAP,F1 Hybrid,Drought,Sharecropped,No,Enrolled,High,2024-07-17,2025-01-06
+Sugarcane,Saccharum officinarum,S7566,Black,None,Urea,Local,Dry Spell,Sharecropped,Yes,Enrolled,High,2024-07-24,2025-01-10
+Cotton,Gossypium hirsutum,C6148,Alluvial,Drip,Urea,Certified,Heatwave,Owned,Yes,Enrolled,High,2025-01-22,2025-07-02
+Tur,Cajanus cajan,T6763,Saline,Tube Well,Urea,Certified,Drought,Sharecropped,Yes,Not Enrolled,Medium,2025-02-04,2025-06-19
+Bajra,Pennisetum glaucum,B3969,Laterite,None,NPK,F1 Hybrid,Excess Rain,Leased,Yes,Enrolled,Medium,2024-10-21,2025-04-18
+Groundnut,Arachis hypogaea,G4604,Red,Tube Well,DAP,Local,Flood,Sharecropped,Yes,Not Enrolled,None,2024-10-17,2025-02-20
+Rice,Oryza sativa,R9829,Arid,None,Vermicompost,Certified,Flood,Leased,Yes,Enrolled,Medium,2024-09-30,2025-01-22
+Bajra,Pennisetum glaucum,B7259,Loamy,Canal,Organic,Local,Heatwave,Owned,Yes,Not Enrolled,High,2024-09-25,2025-03-04
+Tur,Cajanus cajan,T4731,Red,Tube Well,Organic,Hybrid,Normal,Owned,No,Not Enrolled,High,2024-10-04,2025-03-29
+Cotton,Gossypium hirsutum,C9763,Loamy,Tube Well,NPK,Local,Excess Rain,Leased,Yes,Enrolled,None,2024-11-30,2025-05-03
+Onion,Allium cepa,O3834,Alluvial,None,Organic,F1 Hybrid,Drought,Owned,No,Not Enrolled,Low,2025-01-02,2025-05-11
+Sugarcane,Saccharum officinarum,S1291,Laterite,Canal,Compost,Certified,Drought,Owned,Yes,Enrolled,None,2024-08-17,2024-12-08
+Groundnut,Arachis hypogaea,G7728,Laterite,Rainfed,Organic,Hybrid,Dry Spell,Sharecropped,No,Enrolled,None,2024-10-21,2025-01-31
+Millet,Various,M9713,Loamy,None,Compost,Hybrid,Heatwave,Leased,Yes,Enrolled,Low,2024-06-09,2024-11-25
+Cotton,Gossypium hirsutum,C5347,Alluvial,River,Compost,F1 Hybrid,Normal,Sharecropped,No,Not Enrolled,Medium,2024-07-05,2024-10-22
+Rice,Oryza sativa,R1900,Alluvial,Canal,Urea,F1 Hybrid,Drought,Owned,Yes,Not Enrolled,High,2024-10-09,2025-02-12
+Gram,Cicer arietinum,G6242,Clayey,Canal,Vermicompost,Local,Heatwave,Leased,Yes,Enrolled,None,2024-12-17,2025-03-18
+Rice,Oryza sativa,R5156,Saline,Canal,NPK,F1 Hybrid,Flood,Sharecropped,No,Enrolled,Medium,2024-08-21,2024-12-16
+Groundnut,Arachis hypogaea,G6544,Arid,Drip,DAP,Local,Excess Rain,Owned,Yes,Not Enrolled,Medium,2024-09-06,2025-01-15
+Potato,Solanum tuberosum,P5970,Black,Sprinkler,NPK,F1 Hybrid,Drought,Sharecropped,No,Enrolled,Medium,2024-06-27,2024-11-16
+Rice,Oryza sativa,R6362,Loamy,Tube Well,Vermicompost,Hybrid,Dry Spell,Leased,Yes,Enrolled,Low,2024-12-05,2025-03-21
+Onion,Allium cepa,O6570,Arid,Rainfed,Compost,Certified,Drought,Owned,Yes,Not Enrolled,Medium,2024-09-30,2025-03-25
+Wheat,Triticum aestivum,W5739,Clayey,Canal,Urea,Certified,Heatwave,Owned,Yes,Not Enrolled,Low,2024-09-09,2025-02-06
+Gram,Cicer arietinum,G7655,Red,Tube Well,Potash,Local,Excess Rain,Leased,No,Not Enrolled,High,2024-10-11,2025-02-16
+Tur,Cajanus cajan,T5955,Laterite,Canal,NPK,Hybrid,Normal,Sharecropped,No,Enrolled,High,2024-12-30,2025-05-08
+Rice,Oryza sativa,R5767,Red,River,Potash,Local,Normal,Sharecropped,Yes,Not Enrolled,Low,2024-09-23,2024-12-28
+Jowar,Sorghum bicolor,J5083,Laterite,Sprinkler,Compost,F1 Hybrid,Normal,Leased,Yes,Enrolled,Medium,2024-07-12,2024-12-15
+Soybean,Glycine max,S5225,Laterite,None,Compost,Certified,Heatwave,Owned,No,Not Enrolled,None,2025-02-03,2025-05-19
+Bajra,Pennisetum glaucum,B2605,Red,Canal,NPK,Hybrid,Drought,Owned,No,Not Enrolled,Low,2024-10-28,2025-04-20
+Millet,Various,M4363,Black,Drip,Potash,Local,Drought,Owned,No,Enrolled,Medium,2025-02-19,2025-07-20
+Cotton,Gossypium hirsutum,C6515,Clayey,Rainfed,NPK,F1 Hybrid,Heatwave,Leased,Yes,Not Enrolled,High,2024-11-09,2025-03-18
+Bajra,Pennisetum glaucum,B5680,Arid,River,Compost,Local,Flood,Leased,Yes,Enrolled,High,2025-03-09,2025-07-24
+Onion,Allium cepa,O9882,Laterite,Rainfed,Vermicompost,Hybrid,Dry Spell,Owned,No,Not Enrolled,None,2024-11-07,2025-04-06
+Jowar,Sorghum bicolor,J1924,Black,None,Organic,Local,Dry Spell,Owned,No,Enrolled,Medium,2025-03-08,2025-07-31
+Millet,Various,M1193,Arid,None,Organic,Hybrid,Heatwave,Owned,No,Enrolled,Low,2024-06-17,2024-11-08
+Gram,Cicer arietinum,G8319,Loamy,Drip,Urea,Certified,Heatwave,Sharecropped,Yes,Enrolled,None,2024-12-11,2025-05-19
+Soybean,Glycine max,S7238,Loamy,None,Potash,Hybrid,Drought,Owned,No,Enrolled,Medium,2025-02-26,2025-07-14
+Maize,Zea mays,M3563,Arid,None,Vermicompost,Hybrid,Heatwave,Sharecropped,No,Not Enrolled,Low,2025-01-30,2025-06-09
+Maize,Zea mays,M4749,Saline,Drip,DAP,F1 Hybrid,Dry Spell,Owned,No,Not Enrolled,Medium,2024-07-15,2024-12-30
+Potato,Solanum tuberosum,P6880,Black,Tube Well,Organic,F1 Hybrid,Normal,Leased,No,Enrolled,None,2024-06-22,2024-11-30
+Tur,Cajanus cajan,T1428,Alluvial,Drip,NPK,Local,Excess Rain,Sharecropped,No,Not Enrolled,Low,2024-06-26,2024-11-02
+Rice,Oryza sativa,R6148,Laterite,Canal,NPK,Hybrid,Normal,Sharecropped,Yes,Not Enrolled,High,2025-03-15,2025-07-25
+Wheat,Triticum aestivum,W6936,Laterite,Canal,NPK,F1 Hybrid,Heatwave,Sharecropped,Yes,Not Enrolled,Low,2024-10-12,2025-01-10
+Rice,Oryza sativa,R6151,Saline,Drip,Urea,Local,Heatwave,Leased,No,Enrolled,Low,2024-07-26,2024-11-06
+Soybean,Glycine max,S8181,Arid,Sprinkler,NPK,Local,Normal,Owned,Yes,Enrolled,High,2025-02-14,2025-06-26
+Wheat,Triticum aestivum,W8716,Saline,Drip,Vermicompost,Local,Normal,Sharecropped,Yes,Not Enrolled,Medium,2024-08-30,2025-02-16
+Maize,Zea mays,M1575,Red,Tube Well,Potash,F1 Hybrid,Normal,Leased,Yes,Enrolled,None,2025-01-12,2025-05-18
+Gram,Cicer arietinum,G9663,Clayey,Sprinkler,Vermicompost,Local,Heatwave,Owned,Yes,Not Enrolled,Low,2024-07-19,2024-12-09
+Jowar,Sorghum bicolor,J7717,Arid,Canal,Urea,Local,Flood,Sharecropped,Yes,Enrolled,Low,2025-03-18,2025-08-20
+Groundnut,Arachis hypogaea,G3597,Alluvial,River,Urea,Hybrid,Excess Rain,Owned,No,Not Enrolled,None,2024-10-31,2025-01-29
+Bajra,Pennisetum glaucum,B6623,Arid,Tube Well,DAP,Certified,Flood,Leased,No,Not Enrolled,None,2025-02-12,2025-07-12
+Wheat,Triticum aestivum,W6428,Alluvial,Canal,Potash,Certified,Drought,Owned,Yes,Enrolled,Medium,2024-07-26,2024-12-28
+Bajra,Pennisetum glaucum,B8782,Loamy,Rainfed,Potash,F1 Hybrid,Heatwave,Sharecropped,No,Not Enrolled,High,2024-10-28,2025-02-19
+Cotton,Gossypium hirsutum,C3492,Clayey,None,DAP,F1 Hybrid,Heatwave,Owned,Yes,Not Enrolled,Medium,2024-10-15,2025-03-12
+Maize,Zea mays,M8388,Laterite,Canal,NPK,Local,Normal,Leased,Yes,Not Enrolled,High,2024-08-01,2024-11-14
+Rice,Oryza sativa,R5974,Laterite,Canal,Potash,Certified,Normal,Leased,Yes,Not Enrolled,Medium,2024-11-22,2025-05-09
+Gram,Cicer arietinum,G3383,Alluvial,Canal,NPK,Local,Normal,Sharecropped,No,Enrolled,None,2025-01-14,2025-07-03
+Rice,Oryza sativa,R5727,Arid,River,Urea,Hybrid,Dry Spell,Owned,No,Enrolled,None,2024-07-03,2024-11-03
+Tur,Cajanus cajan,T7338,Saline,Sprinkler,Urea,Hybrid,Flood,Sharecropped,No,Not Enrolled,None,2024-12-06,2025-03-10
+Sugarcane,Saccharum officinarum,S6114,Black,Canal,Organic,Local,Dry Spell,Sharecropped,No,Not Enrolled,Low,2024-12-29,2025-05-30
+Millet,Various,M6774,Laterite,None,DAP,Local,Excess Rain,Leased,Yes,Not Enrolled,Medium,2024-08-09,2024-12-09
+Potato,Solanum tuberosum,P6014,Black,Rainfed,Compost,F1 Hybrid,Heatwave,Sharecropped,Yes,Enrolled,High,2024-09-23,2025-03-19
+Wheat,Triticum aestivum,W9285,Alluvial,Rainfed,Organic,F1 Hybrid,Drought,Leased,Yes,Enrolled,Medium,2024-07-06,2024-12-06
+Jowar,Sorghum bicolor,J1037,Saline,Tube Well,Vermicompost,Local,Flood,Sharecropped,No,Not Enrolled,None,2024-07-11,2024-10-26
+Gram,Cicer arietinum,G1688,Black,Canal,NPK,Certified,Drought,Leased,Yes,Not Enrolled,Low,2024-07-11,2024-10-13
+Maize,Zea mays,M2398,Red,River,DAP,F1 Hybrid,Flood,Sharecropped,Yes,Enrolled,None,2025-01-08,2025-04-10
+Groundnut,Arachis hypogaea,G9767,Red,River,Urea,Local,Drought,Leased,No,Enrolled,Low,2024-12-15,2025-03-31
+Jowar,Sorghum bicolor,J3443,Loamy,Sprinkler,Urea,F1 Hybrid,Heatwave,Owned,No,Enrolled,Low,2024-06-11,2024-11-10
+Potato,Solanum tuberosum,P2009,Loamy,Rainfed,Urea,Hybrid,Dry Spell,Leased,No,Enrolled,Medium,2024-09-14,2025-01-15
+Groundnut,Arachis hypogaea,G9719,Laterite,Sprinkler,DAP,Certified,Excess Rain,Sharecropped,No,Enrolled,None,2024-08-16,2024-11-15
+Potato,Solanum tuberosum,P2478,Red,Sprinkler,Urea,Certified,Flood,Sharecropped,No,Enrolled,None,2024-07-29,2024-11-01
+Maize,Zea mays,M1089,Laterite,None,NPK,Certified,Excess Rain,Owned,No,Enrolled,High,2025-02-23,2025-07-23
+Cotton,Gossypium hirsutum,C5213,Alluvial,Tube Well,DAP,Local,Normal,Leased,No,Not Enrolled,Low,2025-01-15,2025-05-15
+Groundnut,Arachis hypogaea,G6746,Black,Canal,DAP,Local,Drought,Sharecropped,Yes,Enrolled,High,2024-12-29,2025-04-21
+Maize,Zea mays,M4820,Saline,Rainfed,Urea,Local,Heatwave,Owned,No,Enrolled,None,2025-01-03,2025-06-03
+Wheat,Triticum aestivum,W7918,Saline,Sprinkler,Vermicompost,Local,Flood,Owned,Yes,Enrolled,None,2024-10-26,2025-02-04
+Millet,Various,M6979,Red,Sprinkler,Organic,Certified,Flood,Leased,Yes,Enrolled,High,2024-06-25,2024-10-22
+Potato,Solanum tuberosum,P9995,Red,Canal,NPK,Hybrid,Normal,Owned,Yes,Not Enrolled,High,2024-09-01,2025-01-20
+Jowar,Sorghum bicolor,J3096,Arid,Rainfed,Vermicompost,Hybrid,Excess Rain,Owned,No,Not Enrolled,Low,2024-09-09,2025-01-13
+Rice,Oryza sativa,R9334,Red,Tube Well,Compost,Local,Normal,Sharecropped,Yes,Not Enrolled,High,2025-01-20,2025-07-12
+Maize,Zea mays,M1068,Red,None,Urea,Hybrid,Heatwave,Owned,Yes,Enrolled,High,2024-12-14,2025-04-17
+Maize,Zea mays,M5565,Alluvial,Drip,Vermicompost,Hybrid,Heatwave,Owned,Yes,Enrolled,Medium,2024-07-29,2024-11-16
+Tur,Cajanus cajan,T4047,Arid,Drip,Potash,Hybrid,Flood,Sharecropped,Yes,Not Enrolled,High,2024-09-22,2025-02-02
+Soybean,Glycine max,S6380,Clayey,River,Vermicompost,F1 Hybrid,Dry Spell,Owned,Yes,Enrolled,Low,2024-11-09,2025-03-25
+Tur,Cajanus cajan,T6598,Black,River,Organic,F1 Hybrid,Dry Spell,Owned,Yes,Enrolled,Low,2025-01-09,2025-05-03
+Gram,Cicer arietinum,G2310,Loamy,Drip,DAP,Certified,Excess Rain,Leased,No,Enrolled,Low,2024-06-25,2024-11-07
+Cotton,Gossypium hirsutum,C1117,Black,Canal,Vermicompost,F1 Hybrid,Heatwave,Sharecropped,Yes,Enrolled,None,2024-08-29,2025-01-02
+Onion,Allium cepa,O2359,Black,Drip,Urea,Certified,Drought,Sharecropped,Yes,Not Enrolled,Medium,2024-07-15,2025-01-05
+Maize,Zea mays,M5616,Alluvial,Sprinkler,Compost,Hybrid,Excess Rain,Sharecropped,Yes,Not Enrolled,Low,2024-11-10,2025-04-21
+Sugarcane,Saccharum officinarum,S2419,Saline,Sprinkler,Urea,Hybrid,Drought,Leased,No,Not Enrolled,Low,2025-01-04,2025-05-31
+Tur,Cajanus cajan,T2879,Loamy,Canal,NPK,F1 Hybrid,Flood,Sharecropped,Yes,Enrolled,Medium,2024-10-13,2025-02-19
+Bajra,Pennisetum glaucum,B6710,Clayey,Drip,Compost,F1 Hybrid,Dry Spell,Leased,Yes,Enrolled,Low,2024-06-24,2024-10-19
+Wheat,Triticum aestivum,W6219,Alluvial,None,Potash,F1 Hybrid,Normal,Leased,No,Enrolled,None,2025-02-03,2025-07-27
+Tur,Cajanus cajan,T7156,Saline,Drip,Vermicompost,Certified,Normal,Leased,No,Not Enrolled,High,2025-01-15,2025-05-02
+Groundnut,Arachis hypogaea,G9034,Alluvial,Rainfed,Vermicompost,Certified,Flood,Sharecropped,No,Enrolled,High,2025-01-02,2025-04-18
+Rice,Oryza sativa,R3618,Clayey,Tube Well,NPK,Local,Flood,Sharecropped,Yes,Enrolled,None,2025-01-27,2025-07-25
+Millet,Various,M8819,Loamy,Tube Well,Potash,Certified,Drought,Sharecropped,Yes,Enrolled,High,2024-09-19,2025-02-02
+Cotton,Gossypium hirsutum,C1291,Arid,Tube Well,Vermicompost,Hybrid,Normal,Sharecropped,Yes,Not Enrolled,Low,2024-07-01,2024-11-24
+Sugarcane,Saccharum officinarum,S8449,Clayey,Tube Well,Urea,Local,Dry Spell,Leased,Yes,Not Enrolled,Low,2024-06-22,2024-11-11
+Rice,Oryza sativa,R3600,Alluvial,Rainfed,DAP,F1 Hybrid,Excess Rain,Owned,Yes,Enrolled,High,2025-01-30,2025-06-18
+Sugarcane,Saccharum officinarum,S3311,Red,River,Organic,Certified,Heatwave,Owned,No,Enrolled,None,2024-12-11,2025-04-23
+Potato,Solanum tuberosum,P5015,Red,River,DAP,Hybrid,Heatwave,Leased,No,Enrolled,Low,2024-12-05,2025-04-12
+Rice,Oryza sativa,R8385,Laterite,Canal,Organic,Hybrid,Heatwave,Sharecropped,Yes,Not Enrolled,Medium,2024-08-09,2025-01-20
+Millet,Various,M7675,Loamy,Tube Well,DAP,F1 Hybrid,Heatwave,Owned,Yes,Enrolled,Low,2024-12-16,2025-04-19
+Potato,Solanum tuberosum,P5286,Alluvial,Tube Well,DAP,Hybrid,Excess Rain,Sharecropped,No,Not Enrolled,None,2025-02-24,2025-06-23
+Cotton,Gossypium hirsutum,C5274,Loamy,Rainfed,Vermicompost,Certified,Heatwave,Leased,No,Not Enrolled,Medium,2025-02-01,2025-05-19
+Millet,Various,M9798,Red,None,Organic,Hybrid,Heatwave,Owned,No,Not Enrolled,Medium,2024-06-25,2024-12-17
+Wheat,Triticum aestivum,W9832,Loamy,Tube Well,Organic,Local,Normal,Leased,Yes,Not Enrolled,Low,2024-10-30,2025-03-17
+Millet,Various,M4345,Laterite,Drip,Vermicompost,Certified,Normal,Leased,No,Not Enrolled,Low,2025-01-06,2025-04-20
+Gram,Cicer arietinum,G2886,Red,Drip,Organic,Hybrid,Heatwave,Sharecropped,Yes,Enrolled,Low,2024-12-30,2025-04-09
+Soybean,Glycine max,S8348,Laterite,River,Vermicompost,Certified,Dry Spell,Owned,No,Enrolled,Medium,2024-11-14,2025-03-25
+Tur,Cajanus cajan,T5073,Saline,Rainfed,Potash,Hybrid,Flood,Leased,Yes,Enrolled,Medium,2024-12-24,2025-04-14
+Groundnut,Arachis hypogaea,G7749,Clayey,None,Compost,Local,Excess Rain,Sharecropped,No,Not Enrolled,Low,2024-10-20,2025-04-06
+Onion,Allium cepa,O5825,Laterite,River,Vermicompost,Hybrid,Heatwave,Leased,No,Not Enrolled,Medium,2024-08-16,2024-12-28
+Soybean,Glycine max,S7192,Black,Canal,DAP,Hybrid,Excess Rain,Sharecropped,Yes,Not Enrolled,None,2024-08-10,2024-11-15
+Groundnut,Arachis hypogaea,G6914,Loamy,River,Urea,F1 Hybrid,Heatwave,Sharecropped,Yes,Not Enrolled,None,2024-08-03,2024-11-02
+Cotton,Gossypium hirsutum,C8325,Laterite,River,NPK,Hybrid,Dry Spell,Sharecropped,Yes,Enrolled,None,2024-07-26,2025-01-22
+Tur,Cajanus cajan,T7628,Alluvial,Canal,Compost,Local,Dry Spell,Owned,No,Not Enrolled,High,2024-09-18,2024-12-29
+Groundnut,Arachis hypogaea,G4825,Black,Rainfed,NPK,Certified,Heatwave,Sharecropped,No,Not Enrolled,None,2025-01-30,2025-06-01
+Potato,Solanum tuberosum,P4055,Saline,Rainfed,Vermicompost,F1 Hybrid,Dry Spell,Sharecropped,Yes,Not Enrolled,Medium,2024-10-17,2025-01-23
+Tur,Cajanus cajan,T5862,Saline,River,Potash,Hybrid,Drought,Leased,Yes,Enrolled,Low,2024-09-19,2025-01-23
+Maize,Zea mays,M9821,Loamy,Rainfed,Urea,Local,Heatwave,Owned,Yes,Enrolled,None,2024-12-02,2025-05-25
+Soybean,Glycine max,S1697,Black,Sprinkler,Potash,F1 Hybrid,Excess Rain,Owned,No,Not Enrolled,High,2024-06-16,2024-10-28
+Potato,Solanum tuberosum,P2903,Clayey,Drip,Potash,Local,Dry Spell,Owned,No,Not Enrolled,Low,2024-06-14,2024-12-09
+Maize,Zea mays,M3064,Clayey,Sprinkler,NPK,Local,Excess Rain,Owned,Yes,Not Enrolled,High,2024-10-06,2025-01-24
+Tur,Cajanus cajan,T6780,Clayey,Canal,Urea,Hybrid,Excess Rain,Leased,No,Enrolled,High,2024-08-28,2024-12-18
+Rice,Oryza sativa,R2042,Alluvial,None,Potash,Certified,Flood,Sharecropped,No,Not Enrolled,None,2024-12-21,2025-05-30
+Wheat,Triticum aestivum,W4101,Loamy,None,DAP,Local,Heatwave,Sharecropped,No,Enrolled,High,2024-12-15,2025-04-01
+Jowar,Sorghum bicolor,J1801,Red,Drip,DAP,Certified,Normal,Sharecropped,Yes,Enrolled,None,2024-12-15,2025-06-09
+Bajra,Pennisetum glaucum,B2130,Laterite,River,Organic,Local,Heatwave,Leased,Yes,Not Enrolled,Medium,2024-08-26,2025-02-10
+Onion,Allium cepa,O4268,Laterite,Tube Well,Organic,Local,Flood,Sharecropped,No,Enrolled,High,2025-01-05,2025-05-04
+Onion,Allium cepa,O9320,Clayey,River,Vermicompost,Local,Heatwave,Owned,Yes,Enrolled,Medium,2024-06-22,2024-11-08
+Cotton,Gossypium hirsutum,C8190,Loamy,River,Vermicompost,Certified,Dry Spell,Owned,Yes,Not Enrolled,Medium,2024-08-27,2025-01-24
+Wheat,Triticum aestivum,W7303,Red,River,DAP,Hybrid,Heatwave,Owned,No,Enrolled,None,2024-10-23,2025-03-22
+Millet,Various,M1730,Saline,None,Compost,F1 Hybrid,Dry Spell,Owned,Yes,Not Enrolled,None,2024-06-20,2024-11-06
+Millet,Various,M7607,Arid,Sprinkler,DAP,Local,Heatwave,Owned,No,Enrolled,Medium,2024-07-14,2024-10-25
+Gram,Cicer arietinum,G5852,Black,Sprinkler,Vermicompost,Local,Dry Spell,Owned,Yes,Not Enrolled,Low,2025-03-05,2025-06-08
+Bajra,Pennisetum glaucum,B2754,Loamy,None,Potash,Certified,Flood,Owned,No,Enrolled,Low,2025-01-27,2025-05-05
+Soybean,Glycine max,S2025,Red,Tube Well,Vermicompost,Local,Normal,Owned,Yes,Not Enrolled,Low,2025-03-08,2025-07-20
+Potato,Solanum tuberosum,P6348,Loamy,Sprinkler,NPK,Local,Heatwave,Leased,Yes,Not Enrolled,High,2024-10-18,2025-04-08
+Bajra,Pennisetum glaucum,B7272,Arid,None,Potash,Local,Dry Spell,Sharecropped,No,Enrolled,Medium,2024-10-27,2025-03-09
+Tur,Cajanus cajan,T5570,Alluvial,Sprinkler,DAP,F1 Hybrid,Drought,Owned,Yes,Not Enrolled,High,2024-07-30,2024-11-20
+Groundnut,Arachis hypogaea,G3516,Red,Rainfed,Organic,Certified,Normal,Owned,Yes,Not Enrolled,Low,2025-03-12,2025-09-04
+Bajra,Pennisetum glaucum,B9666,Black,None,NPK,Certified,Normal,Sharecropped,Yes,Not Enrolled,High,2024-12-14,2025-03-23
+Jowar,Sorghum bicolor,J2411,Red,None,Organic,Local,Heatwave,Sharecropped,Yes,Not Enrolled,Low,2024-12-11,2025-04-26
+Rice,Oryza sativa,R4023,Arid,Canal,Urea,Certified,Excess Rain,Sharecropped,Yes,Enrolled,None,2024-12-21,2025-04-30
+Potato,Solanum tuberosum,P7694,Arid,Canal,DAP,F1 Hybrid,Dry Spell,Leased,No,Not Enrolled,None,2025-03-23,2025-08-29
+Soybean,Glycine max,S2308,Alluvial,Sprinkler,Compost,Hybrid,Normal,Leased,Yes,Not Enrolled,Low,2025-03-06,2025-08-26
+Groundnut,Arachis hypogaea,G8281,Black,None,Compost,Hybrid,Dry Spell,Leased,No,Not Enrolled,Low,2025-03-12,2025-06-16
+Gram,Cicer arietinum,G9457,Loamy,Rainfed,Organic,F1 Hybrid,Flood,Sharecropped,Yes,Not Enrolled,Low,2024-09-26,2024-12-26
+Soybean,Glycine max,S1477,Arid,None,Potash,Certified,Normal,Sharecropped,No,Not Enrolled,High,2024-10-17,2025-02-16
+Cotton,Gossypium hirsutum,C9889,Black,Drip,Potash,Certified,Excess Rain,Owned,Yes,Not Enrolled,Low,2024-11-22,2025-04-02
+Millet,Various,M4443,Arid,None,Potash,F1 Hybrid,Heatwave,Sharecropped,No,Enrolled,High,2024-08-23,2024-12-09
+Jowar,Sorghum bicolor,J7126,Loamy,Rainfed,Potash,Hybrid,Normal,Sharecropped,No,Not Enrolled,Medium,2024-07-12,2024-10-31
+Bajra,Pennisetum glaucum,B4322,Red,None,Urea,F1 Hybrid,Heatwave,Sharecropped,No,Not Enrolled,Medium,2024-07-03,2024-12-28
+Groundnut,Arachis hypogaea,G8805,Laterite,None,NPK,Local,Excess Rain,Leased,No,Not Enrolled,Low,2025-03-26,2025-08-09
+Potato,Solanum tuberosum,P3416,Alluvial,River,DAP,Certified,Flood,Owned,Yes,Enrolled,High,2025-03-20,2025-07-04
+Rice,Oryza sativa,R9084,Black,River,Urea,Certified,Drought,Leased,Yes,Enrolled,High,2024-06-13,2024-09-20
+Tur,Cajanus cajan,T1135,Saline,Canal,Compost,Hybrid,Dry Spell,Leased,No,Enrolled,None,2024-10-08,2025-02-14
+Soybean,Glycine max,S7575,Red,Canal,Compost,Local,Flood,Sharecropped,Yes,Enrolled,None,2025-03-02,2025-08-01
+Groundnut,Arachis hypogaea,G6163,Laterite,Tube Well,Vermicompost,Certified,Dry Spell,Leased,Yes,Not Enrolled,None,2024-09-23,2025-01-06
+Gram,Cicer arietinum,G1938,Saline,None,Urea,Hybrid,Flood,Owned,Yes,Not Enrolled,Low,2024-11-26,2025-03-02
+Jowar,Sorghum bicolor,J1348,Laterite,Drip,NPK,Hybrid,Flood,Leased,Yes,Not Enrolled,None,2024-11-08,2025-04-18
+Rice,Oryza sativa,R9385,Saline,None,NPK,Hybrid,Flood,Sharecropped,No,Enrolled,High,2024-11-13,2025-03-04
+Groundnut,Arachis hypogaea,G3994,Black,None,Compost,Local,Flood,Sharecropped,Yes,Enrolled,Low,2025-01-21,2025-05-27
+Rice,Oryza sativa,R1670,Alluvial,Drip,Organic,Local,Dry Spell,Sharecropped,No,Not Enrolled,High,2024-11-28,2025-04-07
+Wheat,Triticum aestivum,W3737,Loamy,River,Organic,Certified,Flood,Sharecropped,No,Not Enrolled,Medium,2024-11-26,2025-03-24
+Millet,Various,M6819,Saline,Rainfed,Compost,Hybrid,Excess Rain,Owned,No,Not Enrolled,Medium,2025-02-26,2025-07-09
+Onion,Allium cepa,O2181,Alluvial,Tube Well,Potash,F1 Hybrid,Excess Rain,Sharecropped,Yes,Not Enrolled,High,2024-12-17,2025-04-01
+Tur,Cajanus cajan,T3939,Loamy,Canal,Organic,Certified,Heatwave,Sharecropped,No,Enrolled,High,2024-11-14,2025-05-09
+Soybean,Glycine max,S2653,Red,Rainfed,Organic,Local,Drought,Leased,Yes,Not Enrolled,Medium,2024-10-14,2025-04-02
+Groundnut,Arachis hypogaea,G1220,Red,River,Potash,Certified,Normal,Sharecropped,No,Enrolled,Low,2024-06-12,2024-10-01
+Rice,Oryza sativa,R6335,Alluvial,Sprinkler,Vermicompost,Certified,Flood,Sharecropped,Yes,Not Enrolled,Medium,2024-07-17,2024-12-28
+Rice,Oryza sativa,R6065,Arid,None,Compost,Local,Normal,Sharecropped,Yes,Enrolled,Medium,2024-10-23,2025-02-20
+Bajra,Pennisetum glaucum,B4408,Alluvial,Rainfed,Potash,Local,Excess Rain,Sharecropped,Yes,Enrolled,Medium,2025-02-23,2025-06-26
+Soybean,Glycine max,S8953,Alluvial,Rainfed,Potash,Local,Excess Rain,Sharecropped,No,Enrolled,Medium,2024-12-30,2025-05-09
+Rice,Oryza sativa,R2679,Laterite,Sprinkler,DAP,F1 Hybrid,Flood,Leased,Yes,Not Enrolled,Medium,2024-07-20,2024-10-28
+Maize,Zea mays,M8794,Arid,Canal,Potash,F1 Hybrid,Normal,Sharecropped,No,Enrolled,None,2024-12-06,2025-04-29
+Bajra,Pennisetum glaucum,B4584,Alluvial,Canal,Potash,Hybrid,Dry Spell,Sharecropped,No,Enrolled,Low,2024-08-02,2025-01-03
+Tur,Cajanus cajan,T7980,Laterite,Tube Well,Compost,Local,Flood,Leased,Yes,Enrolled,Low,2024-12-30,2025-05-06
+Gram,Cicer arietinum,G9193,Loamy,None,DAP,Local,Drought,Leased,Yes,Not Enrolled,Low,2024-07-27,2024-10-29
+Cotton,Gossypium hirsutum,C8325,Red,Drip,Potash,Hybrid,Normal,Leased,Yes,Not Enrolled,None,2024-11-30,2025-03-16
+Bajra,Pennisetum glaucum,B9411,Loamy,Tube Well,NPK,Certified,Heatwave,Sharecropped,No,Enrolled,None,2024-08-02,2025-01-06
+Cotton,Gossypium hirsutum,C8675,Black,Canal,Organic,Local,Dry Spell,Leased,Yes,Not Enrolled,High,2024-12-24,2025-05-10
+Millet,Various,M3860,Saline,River,Compost,Local,Excess Rain,Sharecropped,No,Enrolled,Medium,2025-03-25,2025-07-11
+Potato,Solanum tuberosum,P4576,Black,Canal,Urea,F1 Hybrid,Drought,Owned,No,Not Enrolled,High,2024-11-17,2025-03-01
+Wheat,Triticum aestivum,W3732,Clayey,Drip,Urea,F1 Hybrid,Drought,Leased,Yes,Enrolled,Medium,2024-11-26,2025-02-28
+Soybean,Glycine max,S2166,Clayey,Rainfed,Compost,F1 Hybrid,Drought,Leased,Yes,Enrolled,Medium,2024-12-18,2025-03-27
+Millet,Various,M2995,Red,Tube Well,Compost,Certified,Heatwave,Owned,No,Enrolled,Medium,2024-07-31,2024-11-30
+Bajra,Pennisetum glaucum,B4839,Saline,Tube Well,Urea,Hybrid,Heatwave,Leased,No,Enrolled,High,2024-12-20,2025-05-03
+Gram,Cicer arietinum,G7869,Laterite,River,NPK,Hybrid,Excess Rain,Leased,No,Enrolled,High,2024-08-30,2025-01-23
+Soybean,Glycine max,S5919,Loamy,Canal,DAP,Certified,Dry Spell,Sharecropped,Yes,Enrolled,High,2025-02-14,2025-07-22
+Sugarcane,Saccharum officinarum,S5275,Clayey,Canal,Compost,Local,Excess Rain,Leased,No,Enrolled,Medium,2025-03-15,2025-07-06
+Cotton,Gossypium hirsutum,C1005,Loamy,Sprinkler,Urea,Certified,Heatwave,Leased,No,Not Enrolled,None,2024-06-02,2024-09-17
+Soybean,Glycine max,S6070,Saline,River,Compost,Local,Dry Spell,Owned,No,Not Enrolled,None,2025-01-24,2025-07-09
+Onion,Allium cepa,O7438,Black,Drip,Urea,Hybrid,Normal,Sharecropped,Yes,Enrolled,Medium,2025-02-16,2025-07-07
+Rice,Oryza sativa,R4826,Clayey,Sprinkler,Compost,Certified,Flood,Owned,No,Enrolled,None,2025-02-28,2025-07-03
+Rice,Oryza sativa,R3427,Clayey,None,Organic,Hybrid,Heatwave,Leased,No,Enrolled,Medium,2024-11-20,2025-03-15
+Onion,Allium cepa,O4517,Loamy,River,Potash,Local,Heatwave,Sharecropped,Yes,Not Enrolled,High,2025-02-28,2025-08-07
+Groundnut,Arachis hypogaea,G9241,Clayey,Canal,Compost,F1 Hybrid,Normal,Leased,Yes,Enrolled,Low,2024-10-09,2025-03-04
+Millet,Various,M3716,Red,River,Potash,Local,Drought,Owned,No,Enrolled,Medium,2024-08-13,2024-12-06
+Maize,Zea mays,M9155,Black,Rainfed,Urea,F1 Hybrid,Heatwave,Sharecropped,No,Not Enrolled,Medium,2025-02-09,2025-08-03
+Gram,Cicer arietinum,G8149,Clayey,Drip,DAP,Local,Heatwave,Sharecropped,No,Enrolled,Medium,2025-01-02,2025-04-19
+Millet,Various,M5834,Red,None,DAP,Local,Drought,Owned,No,Not Enrolled,Medium,2024-12-13,2025-06-01
+Sugarcane,Saccharum officinarum,S1423,Clayey,Sprinkler,Compost,Hybrid,Flood,Owned,No,Enrolled,None,2024-07-06,2024-10-19
+Onion,Allium cepa,O6319,Saline,Canal,Potash,Hybrid,Normal,Sharecropped,Yes,Enrolled,Low,2024-12-17,2025-03-29
+Jowar,Sorghum bicolor,J9030,Alluvial,River,DAP,Local,Excess Rain,Sharecropped,No,Not Enrolled,None,2025-02-23,2025-08-18
+Bajra,Pennisetum glaucum,B1985,Alluvial,Rainfed,Compost,Hybrid,Flood,Owned,Yes,Enrolled,None,2024-12-14,2025-04-06
+Rice,Oryza sativa,R3011,Clayey,Sprinkler,NPK,Hybrid,Drought,Leased,No,Not Enrolled,Low,2024-12-06,2025-05-17
+Gram,Cicer arietinum,G1573,Arid,Tube Well,DAP,F1 Hybrid,Heatwave,Owned,Yes,Enrolled,High,2025-02-12,2025-06-22
+Gram,Cicer arietinum,G8828,Arid,Rainfed,NPK,F1 Hybrid,Heatwave,Owned,Yes,Enrolled,Low,2024-12-31,2025-06-21
+Soybean,Glycine max,S8915,Black,Tube Well,Compost,Certified,Dry Spell,Leased,Yes,Not Enrolled,None,2024-06-30,2024-10-12
+Millet,Various,M2314,Black,Rainfed,Urea,F1 Hybrid,Excess Rain,Sharecropped,No,Not Enrolled,Low,2024-11-09,2025-03-07
+Wheat,Triticum aestivum,W3098,Saline,Sprinkler,Urea,Certified,Heatwave,Leased,Yes,Enrolled,Medium,2024-10-17,2025-04-07
+Millet,Various,M2677,Arid,Rainfed,Organic,F1 Hybrid,Dry Spell,Owned,No,Not Enrolled,Low,2024-10-30,2025-04-20
+Potato,Solanum tuberosum,P8916,Saline,Canal,Potash,Local,Flood,Sharecropped,Yes,Not Enrolled,Low,2024-12-09,2025-05-10
+Cotton,Gossypium hirsutum,C2098,Alluvial,Rainfed,Vermicompost,Hybrid,Flood,Sharecropped,No,Enrolled,Low,2025-01-16,2025-06-07
+Onion,Allium cepa,O1285,Saline,Drip,Potash,Local,Heatwave,Leased,Yes,Not Enrolled,High,2024-09-23,2025-02-04
+Cotton,Gossypium hirsutum,C6249,Arid,Rainfed,Organic,Certified,Drought,Owned,Yes,Enrolled,None,2024-09-16,2025-03-11
+Bajra,Pennisetum glaucum,B5825,Arid,Tube Well,Compost,Certified,Drought,Owned,Yes,Enrolled,Medium,2025-03-24,2025-07-05
+Soybean,Glycine max,S1712,Saline,Tube Well,Organic,F1 Hybrid,Excess Rain,Leased,Yes,Not Enrolled,Low,2024-12-13,2025-03-16
+Gram,Cicer arietinum,G5397,Saline,Sprinkler,DAP,Hybrid,Heatwave,Sharecropped,Yes,Enrolled,Low,2024-11-30,2025-05-01
+Groundnut,Arachis hypogaea,G4462,Loamy,None,NPK,Certified,Dry Spell,Owned,No,Enrolled,Medium,2024-07-24,2024-11-27
+Groundnut,Arachis hypogaea,G2418,Laterite,River,NPK,Local,Excess Rain,Owned,No,Not Enrolled,Low,2025-01-25,2025-05-19
+Wheat,Triticum aestivum,W7714,Laterite,None,Organic,Local,Normal,Leased,No,Not Enrolled,None,2025-01-29,2025-05-02
+Maize,Zea mays,M3984,Alluvial,None,Organic,Hybrid,Excess Rain,Leased,Yes,Not Enrolled,None,2024-11-13,2025-04-04
+Rice,Oryza sativa,R6430,Saline,Rainfed,DAP,Local,Heatwave,Sharecropped,No,Enrolled,High,2024-08-06,2024-12-30
+Potato,Solanum tuberosum,P9184,Red,Tube Well,DAP,Certified,Flood,Sharecropped,Yes,Enrolled,High,2024-10-21,2025-04-17
+Potato,Solanum tuberosum,P2507,Red,None,Urea,Certified,Heatwave,Leased,No,Not Enrolled,Medium,2025-02-12,2025-07-03
+Gram,Cicer arietinum,G7207,Black,Rainfed,Compost,Hybrid,Drought,Owned,Yes,Not Enrolled,Low,2024-07-22,2024-11-15
+Soybean,Glycine max,S3480,Arid,River,Compost,Local,Normal,Owned,No,Enrolled,Medium,2024-11-22,2025-03-28
+Rice,Oryza sativa,R6578,Black,None,DAP,Certified,Excess Rain,Owned,No,Not Enrolled,None,2024-11-02,2025-02-24
+Wheat,Triticum aestivum,W3137,Laterite,Tube Well,NPK,Certified,Excess Rain,Owned,No,Not Enrolled,None,2025-01-17,2025-05-23
+Rice,Oryza sativa,R8015,Laterite,Sprinkler,Organic,F1 Hybrid,Drought,Sharecropped,No,Not Enrolled,High,2024-06-18,2024-09-26
+Maize,Zea mays,M6006,Arid,River,Organic,Hybrid,Excess Rain,Owned,No,Not Enrolled,Medium,2025-01-23,2025-06-20
+Onion,Allium cepa,O8472,Black,Drip,Vermicompost,Local,Normal,Sharecropped,Yes,Enrolled,None,2025-01-16,2025-04-25
+Bajra,Pennisetum glaucum,B2426,Laterite,Drip,Vermicompost,Hybrid,Flood,Leased,Yes,Not Enrolled,Medium,2024-11-13,2025-04-20
+Potato,Solanum tuberosum,P6444,Red,Tube Well,Urea,F1 Hybrid,Flood,Leased,No,Not Enrolled,Medium,2025-02-24,2025-08-06
+Sugarcane,Saccharum officinarum,S3606,Red,Sprinkler,Organic,Hybrid,Normal,Owned,No,Not Enrolled,High,2024-08-12,2024-11-29
+Sugarcane,Saccharum officinarum,S4438,Loamy,Rainfed,Organic,Certified,Flood,Leased,No,Enrolled,High,2024-12-11,2025-05-10
+Tur,Cajanus cajan,T4307,Loamy,Rainfed,Compost,Hybrid,Drought,Leased,Yes,Enrolled,Low,2025-03-27,2025-08-03
+Soybean,Glycine max,S2610,Clayey,Drip,Vermicompost,Hybrid,Drought,Owned,No,Not Enrolled,Medium,2024-10-18,2025-04-05
+Maize,Zea mays,M2671,Black,Tube Well,Compost,Hybrid,Excess Rain,Owned,No,Not Enrolled,Medium,2024-08-06,2024-11-11
+Wheat,Triticum aestivum,W5872,Laterite,River,DAP,F1 Hybrid,Drought,Leased,No,Not Enrolled,None,2024-10-20,2025-02-19
+Cotton,Gossypium hirsutum,C1170,Clayey,Canal,DAP,F1 Hybrid,Heatwave,Owned,No,Not Enrolled,Medium,2025-02-13,2025-07-01
+Jowar,Sorghum bicolor,J8217,Loamy,Drip,NPK,Hybrid,Normal,Owned,Yes,Not Enrolled,Medium,2024-12-26,2025-05-03
+Millet,Various,M4817,Saline,River,Potash,Certified,Excess Rain,Sharecropped,Yes,Enrolled,High,2024-06-29,2024-10-17
+Onion,Allium cepa,O7391,Arid,Rainfed,NPK,Hybrid,Drought,Sharecropped,No,Not Enrolled,Medium,2025-01-12,2025-05-09
+Gram,Cicer arietinum,G2451,Alluvial,Drip,Vermicompost,Local,Normal,Leased,No,Enrolled,None,2025-03-08,2025-07-14
+Tur,Cajanus cajan,T3226,Laterite,Sprinkler,Compost,Hybrid,Normal,Leased,No,Enrolled,None,2024-06-08,2024-10-09
+Sugarcane,Saccharum officinarum,S5350,Laterite,None,NPK,Hybrid,Dry Spell,Leased,Yes,Enrolled,None,2024-12-04,2025-04-16
+Onion,Allium cepa,O1840,Loamy,Canal,Vermicompost,F1 Hybrid,Excess Rain,Owned,No,Enrolled,High,2024-06-21,2024-12-14
+Cotton,Gossypium hirsutum,C4531,Clayey,Sprinkler,Urea,Local,Flood,Leased,Yes,Enrolled,None,2025-03-26,2025-08-07
+Onion,Allium cepa,O4128,Loamy,Drip,DAP,Certified,Heatwave,Owned,Yes,Enrolled,None,2024-11-23,2025-03-12
+Tur,Cajanus cajan,T1378,Saline,Canal,DAP,Certified,Normal,Owned,No,Enrolled,Low,2025-01-05,2025-04-07
+Jowar,Sorghum bicolor,J1713,Clayey,Drip,Potash,Local,Excess Rain,Sharecropped,Yes,Not Enrolled,High,2024-11-16,2025-03-25
+Bajra,Pennisetum glaucum,B2941,Alluvial,Sprinkler,Potash,Local,Drought,Sharecropped,No,Enrolled,None,2024-12-12,2025-03-28
+Sugarcane,Saccharum officinarum,S4289,Alluvial,Tube Well,DAP,Certified,Heatwave,Sharecropped,No,Enrolled,Medium,2024-10-08,2025-02-21
+Onion,Allium cepa,O9464,Red,Sprinkler,Urea,Local,Drought,Owned,No,Not Enrolled,High,2025-03-18,2025-09-04
+Jowar,Sorghum bicolor,J8839,Laterite,Sprinkler,DAP,Hybrid,Dry Spell,Leased,Yes,Not Enrolled,Medium,2025-03-13,2025-08-23
+Groundnut,Arachis hypogaea,G9069,Saline,River,NPK,Local,Flood,Sharecropped,Yes,Enrolled,Medium,2024-06-17,2024-11-19
+Gram,Cicer arietinum,G7571,Saline,Drip,Compost,Hybrid,Heatwave,Owned,No,Not Enrolled,Low,2025-01-24,2025-07-02
+Rice,Oryza sativa,R1870,Loamy,Tube Well,Organic,Certified,Heatwave,Sharecropped,No,Not Enrolled,Low,2025-01-15,2025-07-09
+Gram,Cicer arietinum,G4790,Arid,River,Potash,Hybrid,Dry Spell,Sharecropped,Yes,Enrolled,High,2025-03-04,2025-08-07
+Wheat,Triticum aestivum,W6473,Laterite,Sprinkler,DAP,Local,Dry Spell,Owned,No,Enrolled,High,2024-07-23,2024-11-27
+Millet,Various,M8358,Clayey,Tube Well,Potash,Certified,Excess Rain,Owned,Yes,Not Enrolled,High,2024-08-28,2025-02-24
+Potato,Solanum tuberosum,P5355,Loamy,River,Urea,Hybrid,Normal,Owned,Yes,Not Enrolled,High,2024-09-19,2025-02-15
+Soybean,Glycine max,S3400,Laterite,Rainfed,DAP,Hybrid,Flood,Sharecropped,Yes,Enrolled,None,2024-07-15,2024-12-01
+Gram,Cicer arietinum,G1610,Black,Rainfed,NPK,Hybrid,Drought,Owned,Yes,Enrolled,Low,2024-07-09,2024-12-29
+Millet,Various,M1207,Saline,Rainfed,Compost,Local,Drought,Sharecropped,No,Enrolled,Medium,2025-02-26,2025-08-17
+Maize,Zea mays,M3750,Arid,Tube Well,Potash,Local,Heatwave,Leased,No,Not Enrolled,None,2024-08-06,2024-11-30
+Sugarcane,Saccharum officinarum,S2093,Loamy,Canal,Potash,Hybrid,Excess Rain,Sharecropped,No,Not Enrolled,Low,2025-03-21,2025-07-17
+Gram,Cicer arietinum,G7322,Red,River,Urea,Hybrid,Heatwave,Leased,No,Enrolled,Medium,2025-01-05,2025-05-14
+Cotton,Gossypium hirsutum,C1929,Arid,Canal,Compost,Hybrid,Flood,Owned,No,Enrolled,Low,2024-12-01,2025-03-28
+Rice,Oryza sativa,R7101,Saline,Sprinkler,Urea,Hybrid,Normal,Owned,No,Enrolled,Medium,2024-09-16,2025-01-08
+Bajra,Pennisetum glaucum,B4196,Saline,None,DAP,Certified,Flood,Leased,Yes,Not Enrolled,Medium,2024-11-20,2025-04-14
+Jowar,Sorghum bicolor,J7639,Laterite,Rainfed,Potash,Certified,Dry Spell,Sharecropped,No,Not Enrolled,High,2025-02-19,2025-08-15
+Jowar,Sorghum bicolor,J8273,Loamy,Tube Well,DAP,Local,Heatwave,Sharecropped,Yes,Enrolled,Medium,2024-06-26,2024-10-08
+Onion,Allium cepa,O4708,Saline,Rainfed,Potash,Certified,Drought,Owned,No,Not Enrolled,Medium,2024-11-09,2025-02-18
+Gram,Cicer arietinum,G3880,Loamy,River,Vermicompost,Local,Normal,Leased,Yes,Not Enrolled,None,2025-03-17,2025-07-08
+Onion,Allium cepa,O8503,Laterite,Sprinkler,DAP,Certified,Normal,Sharecropped,Yes,Not Enrolled,Medium,2024-10-10,2025-01-16
+Rice,Oryza sativa,R2935,Arid,Rainfed,Organic,Hybrid,Excess Rain,Owned,Yes,Not Enrolled,High,2024-06-08,2024-09-28
+Groundnut,Arachis hypogaea,G8301,Black,Tube Well,NPK,F1 Hybrid,Normal,Owned,No,Enrolled,High,2024-10-05,2025-03-01
+Gram,Cicer arietinum,G8015,Saline,Tube Well,Potash,Hybrid,Heatwave,Sharecropped,No,Enrolled,Low,2024-09-07,2024-12-11
+Sugarcane,Saccharum officinarum,S2377,Laterite,None,Urea,Local,Excess Rain,Owned,Yes,Enrolled,High,2024-09-12,2025-03-01
+Groundnut,Arachis hypogaea,G1291,Arid,Canal,Organic,Certified,Heatwave,Owned,No,Not Enrolled,None,2024-08-26,2025-01-28
+Tur,Cajanus cajan,T8378,Red,Canal,DAP,Hybrid,Flood,Leased,No,Not Enrolled,Low,2025-01-04,2025-06-30
+Tur,Cajanus cajan,T9902,Saline,Drip,Potash,Certified,Normal,Owned,Yes,Enrolled,High,2024-09-10,2025-02-06
+Cotton,Gossypium hirsutum,C4840,Red,Sprinkler,NPK,F1 Hybrid,Heatwave,Sharecropped,Yes,Enrolled,Medium,2024-08-05,2024-12-01
+Sugarcane,Saccharum officinarum,S1035,Arid,Drip,Potash,Local,Dry Spell,Sharecropped,Yes,Not Enrolled,None,2024-08-09,2025-01-16
+Onion,Allium cepa,O2027,Alluvial,None,Organic,Hybrid,Excess Rain,Owned,No,Enrolled,High,2024-08-15,2025-01-30
+Cotton,Gossypium hirsutum,C8377,Alluvial,River,NPK,Local,Dry Spell,Owned,No,Not Enrolled,High,2024-08-27,2025-02-03
+Cotton,Gossypium hirsutum,C1055,Arid,Sprinkler,NPK,Local,Dry Spell,Owned,No,Enrolled,Low,2024-11-14,2025-03-02
+Jowar,Sorghum bicolor,J5738,Clayey,Tube Well,Urea,Local,Heatwave,Owned,Yes,Enrolled,High,2025-01-03,2025-06-04
+Cotton,Gossypium hirsutum,C7461,Clayey,Canal,DAP,F1 Hybrid,Flood,Owned,Yes,Not Enrolled,Medium,2025-02-25,2025-07-14
+Groundnut,Arachis hypogaea,G5943,Saline,Canal,Organic,Local,Excess Rain,Sharecropped,No,Not Enrolled,None,2024-11-08,2025-04-22
+Potato,Solanum tuberosum,P7888,Red,River,DAP,Certified,Heatwave,Sharecropped,No,Enrolled,None,2024-07-04,2024-12-08
+Maize,Zea mays,M2255,Loamy,Tube Well,Vermicompost,Hybrid,Drought,Owned,No,Enrolled,Medium,2025-03-13,2025-07-14
+Jowar,Sorghum bicolor,J4494,Arid,Drip,Urea,Certified,Normal,Owned,No,Not Enrolled,None,2024-07-06,2024-11-22
+Potato,Solanum tuberosum,P5647,Saline,Rainfed,Potash,Hybrid,Flood,Leased,No,Enrolled,None,2025-03-19,2025-07-25
+Wheat,Triticum aestivum,W4726,Red,Rainfed,Vermicompost,Hybrid,Dry Spell,Leased,Yes,Not Enrolled,None,2024-09-05,2025-01-06
+Groundnut,Arachis hypogaea,G5059,Laterite,Sprinkler,Potash,F1 Hybrid,Dry Spell,Owned,No,Not Enrolled,Medium,2024-12-13,2025-05-07
+Potato,Solanum tuberosum,P4749,Black,Tube Well,Organic,Hybrid,Drought,Owned,Yes,Enrolled,Low,2024-08-11,2024-12-15
+Soybean,Glycine max,S5025,Loamy,Sprinkler,NPK,F1 Hybrid,Heatwave,Leased,No,Enrolled,High,2024-12-28,2025-04-20
+Potato,Solanum tuberosum,P3325,Red,Canal,Organic,Hybrid,Drought,Sharecropped,No,Enrolled,Medium,2024-07-19,2024-11-10
+Jowar,Sorghum bicolor,J5264,Red,Drip,DAP,Certified,Excess Rain,Leased,No,Enrolled,Medium,2024-10-28,2025-02-05
+Jowar,Sorghum bicolor,J2561,Red,Canal,Potash,F1 Hybrid,Heatwave,Leased,No,Not Enrolled,Medium,2024-08-05,2025-01-24
+Groundnut,Arachis hypogaea,G5311,Black,River,Urea,F1 Hybrid,Excess Rain,Sharecropped,No,Not Enrolled,None,2024-07-13,2024-11-03
+Cotton,Gossypium hirsutum,C4384,Loamy,None,NPK,Local,Flood,Owned,Yes,Enrolled,None,2024-06-09,2024-10-22
+Bajra,Pennisetum glaucum,B1536,Loamy,Tube Well,Organic,F1 Hybrid,Normal,Owned,Yes,Enrolled,None,2024-06-01,2024-11-05
+Groundnut,Arachis hypogaea,G5999,Clayey,River,NPK,Certified,Dry Spell,Owned,Yes,Not Enrolled,None,2024-08-13,2024-11-17
+Rice,Oryza sativa,R7990,Clayey,Tube Well,NPK,Hybrid,Dry Spell,Leased,Yes,Enrolled,High,2024-10-13,2025-01-22
+Tur,Cajanus cajan,T2595,Clayey,Drip,Organic,Certified,Dry Spell,Leased,Yes,Enrolled,Low,2024-11-25,2025-03-17
+Millet,Various,M1404,Loamy,Canal,DAP,Local,Drought,Owned,Yes,Not Enrolled,High,2024-08-13,2024-11-18
+Rice,Oryza sativa,R5701,Laterite,River,NPK,Certified,Flood,Owned,Yes,Not Enrolled,High,2025-03-02,2025-06-15
+Wheat,Triticum aestivum,W1898,Arid,Tube Well,Organic,Local,Dry Spell,Owned,Yes,Enrolled,Low,2024-08-27,2025-01-18
+Jowar,Sorghum bicolor,J3962,Clayey,Drip,NPK,Hybrid,Flood,Owned,No,Not Enrolled,Medium,2024-07-13,2024-12-19
+Groundnut,Arachis hypogaea,G8614,Alluvial,None,Organic,Local,Heatwave,Sharecropped,No,Not Enrolled,None,2025-01-18,2025-04-27
+Bajra,Pennisetum glaucum,B3873,Arid,Tube Well,Potash,Certified,Flood,Leased,No,Not Enrolled,High,2024-09-03,2025-02-17
+Rice,Oryza sativa,R9411,Black,Rainfed,Urea,Local,Excess Rain,Sharecropped,Yes,Enrolled,Low,2024-12-31,2025-06-26
+Gram,Cicer arietinum,G4090,Alluvial,None,Compost,Certified,Excess Rain,Owned,No,Not Enrolled,High,2024-06-04,2024-11-08
+Millet,Various,M6838,Loamy,River,Organic,Hybrid,Normal,Owned,Yes,Not Enrolled,None,2025-03-04,2025-06-20
+Onion,Allium cepa,O9913,Black,Rainfed,Compost,F1 Hybrid,Heatwave,Owned,Yes,Not Enrolled,High,2024-07-31,2024-12-30
+Maize,Zea mays,M4145,Laterite,Canal,Urea,Local,Flood,Owned,No,Enrolled,Medium,2024-12-28,2025-06-01
+Jowar,Sorghum bicolor,J7136,Loamy,None,Organic,Hybrid,Flood,Leased,No,Enrolled,None,2024-08-12,2025-01-02
+Millet,Various,M6673,Alluvial,River,Urea,F1 Hybrid,Excess Rain,Owned,No,Enrolled,Medium,2024-12-19,2025-03-30
+Potato,Solanum tuberosum,P1819,Clayey,River,Compost,Certified,Heatwave,Sharecropped,No,Not Enrolled,Medium,2024-10-04,2025-03-03
+Rice,Oryza sativa,R9885,Alluvial,River,Compost,Local,Dry Spell,Sharecropped,Yes,Enrolled,Low,2024-07-11,2024-11-27
+Maize,Zea mays,M9691,Saline,Sprinkler,NPK,Local,Drought,Sharecropped,No,Enrolled,Medium,2024-12-21,2025-05-27
+Wheat,Triticum aestivum,W6632,Arid,River,Organic,Hybrid,Normal,Owned,Yes,Not Enrolled,High,2024-10-28,2025-04-18
+Potato,Solanum tuberosum,P1451,Red,River,Potash,Hybrid,Drought,Owned,Yes,Enrolled,Low,2024-11-01,2025-04-01
+Rice,Oryza sativa,R6716,Clayey,Drip,NPK,Local,Heatwave,Owned,No,Not Enrolled,High,2025-03-21,2025-09-01
+Soybean,Glycine max,S6210,Black,Drip,NPK,Certified,Normal,Leased,No,Not Enrolled,None,2025-03-01,2025-08-17
+Groundnut,Arachis hypogaea,G9632,Alluvial,Tube Well,Compost,F1 Hybrid,Flood,Leased,No,Not Enrolled,Medium,2024-12-03,2025-05-08
+Potato,Solanum tuberosum,P4544,Loamy,Sprinkler,Urea,Hybrid,Heatwave,Owned,Yes,Not Enrolled,None,2025-03-12,2025-07-17
+Maize,Zea mays,M7069,Red,Drip,Potash,Local,Heatwave,Owned,No,Enrolled,Medium,2024-08-09,2025-02-05
+Maize,Zea mays,M9059,Black,Canal,Vermicompost,Local,Dry Spell,Sharecropped,No,Not Enrolled,Medium,2025-03-26,2025-07-30
+Rice,Oryza sativa,R1196,Arid,Rainfed,NPK,Local,Excess Rain,Sharecropped,Yes,Enrolled,High,2025-01-06,2025-04-06
+Onion,Allium cepa,O6193,Laterite,River,NPK,Hybrid,Normal,Leased,Yes,Not Enrolled,None,2025-02-04,2025-06-09
+Potato,Solanum tuberosum,P5525,Loamy,Rainfed,Urea,Local,Drought,Sharecropped,Yes,Enrolled,None,2024-12-26,2025-05-19
+Maize,Zea mays,M3505,Loamy,Tube Well,Urea,Local,Excess Rain,Owned,Yes,Not Enrolled,High,2024-09-10,2024-12-18
+Sugarcane,Saccharum officinarum,S1071,Alluvial,Tube Well,NPK,Local,Excess Rain,Leased,Yes,Not Enrolled,Medium,2024-08-27,2025-01-10
+Rice,Oryza sativa,R7516,Saline,Tube Well,Compost,Local,Drought,Leased,Yes,Not Enrolled,Medium,2025-03-18,2025-07-02
+Maize,Zea mays,M3181,Black,Tube Well,DAP,Hybrid,Flood,Sharecropped,No,Not Enrolled,Low,2025-01-12,2025-05-02
+Rice,Oryza sativa,R9168,Arid,Tube Well,Organic,Local,Dry Spell,Owned,Yes,Enrolled,High,2025-03-02,2025-06-02
+Potato,Solanum tuberosum,P7943,Laterite,Rainfed,DAP,Hybrid,Excess Rain,Sharecropped,Yes,Enrolled,Low,2024-09-19,2025-02-28
+Soybean,Glycine max,S4149,Arid,Drip,Organic,Local,Dry Spell,Sharecropped,Yes,Not Enrolled,Medium,2024-07-20,2024-11-24
+Jowar,Sorghum bicolor,J8620,Alluvial,Sprinkler,Compost,Local,Dry Spell,Sharecropped,No,Not Enrolled,High,2024-08-17,2025-01-28
+Rice,Oryza sativa,R7245,Arid,Tube Well,Vermicompost,Hybrid,Heatwave,Owned,No,Not Enrolled,None,2024-09-06,2025-01-14
+Bajra,Pennisetum glaucum,B8136,Loamy,River,Compost,F1 Hybrid,Heatwave,Owned,No,Enrolled,High,2024-11-18,2025-04-21
+Gram,Cicer arietinum,G9851,Loamy,None,Organic,Certified,Dry Spell,Sharecropped,Yes,Enrolled,Medium,2025-01-10,2025-05-07
+Soybean,Glycine max,S8680,Black,Drip,Compost,Local,Drought,Leased,No,Not Enrolled,Low,2024-11-07,2025-03-24
+Rice,Oryza sativa,R5064,Red,Drip,DAP,Certified,Normal,Leased,No,Not Enrolled,Low,2024-06-09,2024-10-14
+Cotton,Gossypium hirsutum,C4240,Laterite,None,NPK,Local,Drought,Owned,No,Enrolled,Low,2024-08-12,2025-02-08
+Rice,Oryza sativa,R5511,Red,River,Compost,Certified,Normal,Owned,No,Enrolled,None,2024-12-10,2025-03-24
+Tur,Cajanus cajan,T4578,Loamy,Sprinkler,NPK,F1 Hybrid,Drought,Sharecropped,Yes,Enrolled,Medium,2024-08-22,2025-02-18
+Tur,Cajanus cajan,T5462,Saline,None,NPK,Certified,Normal,Owned,No,Not Enrolled,Medium,2025-01-10,2025-04-19
+Groundnut,Arachis hypogaea,G1737,Loamy,Tube Well,Vermicompost,F1 Hybrid,Excess Rain,Sharecropped,Yes,Enrolled,None,2025-02-23,2025-08-17
+Potato,Solanum tuberosum,P9212,Arid,Drip,Potash,Local,Flood,Owned,No,Enrolled,None,2024-07-23,2025-01-01
+Jowar,Sorghum bicolor,J8224,Laterite,None,DAP,F1 Hybrid,Drought,Owned,No,Enrolled,Low,2024-07-26,2024-12-05
+Gram,Cicer arietinum,G7077,Clayey,River,DAP,Certified,Excess Rain,Leased,No,Enrolled,None,2024-10-02,2025-02-19
+Onion,Allium cepa,O1339,Black,Tube Well,NPK,F1 Hybrid,Normal,Owned,Yes,Enrolled,High,2025-01-18,2025-05-21
+Onion,Allium cepa,O4972,Red,Canal,NPK,Hybrid,Excess Rain,Leased,Yes,Enrolled,Low,2024-09-03,2024-12-06
+Soybean,Glycine max,S9836,Black,None,Potash,Hybrid,Dry Spell,Sharecropped,No,Not Enrolled,None,2024-06-02,2024-09-04
+Wheat,Triticum aestivum,W3288,Alluvial,Rainfed,Urea,Hybrid,Flood,Leased,Yes,Not Enrolled,Medium,2024-07-06,2024-12-02
+Rice,Oryza sativa,R3984,Laterite,Canal,Vermicompost,Hybrid,Drought,Leased,No,Enrolled,Low,2024-09-16,2024-12-30
+Maize,Zea mays,M5269,Black,None,Urea,F1 Hybrid,Dry Spell,Leased,Yes,Not Enrolled,Medium,2024-10-20,2025-04-05
+Groundnut,Arachis hypogaea,G4224,Clayey,Canal,Organic,Certified,Dry Spell,Owned,No,Not Enrolled,Low,2024-10-04,2025-01-18
+Tur,Cajanus cajan,T3021,Saline,Sprinkler,Compost,F1 Hybrid,Heatwave,Leased,No,Not Enrolled,None,2025-02-25,2025-06-30
+Bajra,Pennisetum glaucum,B6174,Loamy,None,Compost,F1 Hybrid,Excess Rain,Sharecropped,No,Not Enrolled,Low,2024-06-30,2024-12-25
+Gram,Cicer arietinum,G4176,Red,River,DAP,Certified,Drought,Sharecropped,Yes,Enrolled,None,2024-10-25,2025-03-16
+Gram,Cicer arietinum,G6467,Clayey,None,DAP,Hybrid,Excess Rain,Leased,No,Enrolled,High,2024-08-01,2025-01-07
+Wheat,Triticum aestivum,W6996,Red,None,DAP,Hybrid,Dry Spell,Sharecropped,Yes,Not Enrolled,Medium,2024-12-21,2025-05-31
+Cotton,Gossypium hirsutum,C3195,Red,Rainfed,Vermicompost,Certified,Normal,Owned,No,Enrolled,Medium,2024-08-13,2024-12-27
+Tur,Cajanus cajan,T4076,Loamy,Canal,Compost,Certified,Dry Spell,Leased,Yes,Enrolled,Low,2025-01-05,2025-05-07
+Onion,Allium cepa,O5864,Laterite,Sprinkler,NPK,Local,Flood,Owned,No,Not Enrolled,Medium,2024-06-08,2024-11-24
+Onion,Allium cepa,O4192,Alluvial,Drip,Vermicompost,Certified,Flood,Sharecropped,No,Enrolled,Medium,2024-06-19,2024-12-08
+Onion,Allium cepa,O5477,Loamy,Drip,Vermicompost,Hybrid,Heatwave,Leased,No,Not Enrolled,Medium,2025-01-26,2025-06-07
+Cotton,Gossypium hirsutum,C2311,Clayey,River,Urea,Certified,Dry Spell,Owned,Yes,Enrolled,High,2024-06-25,2024-11-07
+Jowar,Sorghum bicolor,J5334,Saline,Canal,Compost,Certified,Excess Rain,Sharecropped,No,Not Enrolled,None,2024-09-10,2025-01-28
+Groundnut,Arachis hypogaea,G4356,Alluvial,Rainfed,Potash,Local,Excess Rain,Owned,Yes,Not Enrolled,None,2024-08-27,2025-01-19
+Wheat,Triticum aestivum,W5166,Clayey,Sprinkler,Urea,Certified,Drought,Owned,Yes,Not Enrolled,High,2024-11-03,2025-04-01
+Millet,Various,M7019,Red,Tube Well,DAP,Certified,Heatwave,Leased,Yes,Enrolled,Medium,2024-07-07,2024-12-20
+Maize,Zea mays,M5488,Arid,Canal,NPK,F1 Hybrid,Excess Rain,Owned,Yes,Not Enrolled,None,2025-01-01,2025-04-17
+Bajra,Pennisetum glaucum,B2241,Black,None,Vermicompost,Certified,Dry Spell,Leased,Yes,Not Enrolled,Low,2024-10-11,2025-02-13
+Maize,Zea mays,M4227,Arid,Rainfed,Vermicompost,Certified,Flood,Owned,Yes,Not Enrolled,Low,2024-06-06,2024-09-11
+Cotton,Gossypium hirsutum,C9467,Laterite,Drip,Organic,Hybrid,Excess Rain,Owned,No,Enrolled,None,2024-06-03,2024-11-02
+Jowar,Sorghum bicolor,J7678,Clayey,Drip,Potash,F1 Hybrid,Dry Spell,Owned,Yes,Enrolled,Low,2025-03-08,2025-07-15
+Bajra,Pennisetum glaucum,B3669,Saline,River,Vermicompost,Certified,Drought,Owned,No,Not Enrolled,None,2025-01-30,2025-07-09
+Jowar,Sorghum bicolor,J2788,Laterite,Sprinkler,Urea,F1 Hybrid,Dry Spell,Owned,Yes,Not Enrolled,Low,2024-09-06,2024-12-24
+Maize,Zea mays,M7637,Loamy,Rainfed,Compost,F1 Hybrid,Excess Rain,Owned,Yes,Not Enrolled,Medium,2025-01-22,2025-04-26
+Wheat,Triticum aestivum,W3853,Arid,Tube Well,DAP,F1 Hybrid,Normal,Owned,No,Not Enrolled,High,2024-11-23,2025-04-02
+Maize,Zea mays,M7803,Red,Rainfed,Organic,F1 Hybrid,Flood,Owned,Yes,Not Enrolled,None,2024-07-09,2024-10-19
+Rice,Oryza sativa,R8942,Black,Drip,Compost,Hybrid,Heatwave,Sharecropped,No,Not Enrolled,High,2024-08-28,2024-12-25
+Jowar,Sorghum bicolor,J7339,Saline,Canal,Urea,Hybrid,Normal,Owned,Yes,Enrolled,Low,2024-11-16,2025-03-20
+Jowar,Sorghum bicolor,J1486,Loamy,Drip,Potash,Hybrid,Dry Spell,Sharecropped,Yes,Not Enrolled,None,2025-03-28,2025-09-09
+Millet,Various,M9704,Arid,None,NPK,Certified,Normal,Sharecropped,No,Not Enrolled,Medium,2025-03-20,2025-06-30
+Wheat,Triticum aestivum,W1286,Laterite,Sprinkler,Organic,Hybrid,Heatwave,Sharecropped,Yes,Not Enrolled,High,2025-03-02,2025-07-12
+Potato,Solanum tuberosum,P7367,Arid,Rainfed,NPK,F1 Hybrid,Heatwave,Owned,Yes,Enrolled,Low,2025-02-06,2025-05-08
+Potato,Solanum tuberosum,P7078,Saline,Drip,NPK,Certified,Flood,Leased,Yes,Enrolled,Low,2024-12-05,2025-04-29
+Jowar,Sorghum bicolor,J6428,Clayey,Rainfed,Potash,F1 Hybrid,Normal,Sharecropped,Yes,Not Enrolled,None,2025-03-24,2025-06-27
+Gram,Cicer arietinum,G3405,Black,None,NPK,Hybrid,Dry Spell,Leased,No,Not Enrolled,Low,2024-12-21,2025-04-29
+Gram,Cicer arietinum,G9770,Loamy,Rainfed,Organic,F1 Hybrid,Drought,Sharecropped,Yes,Enrolled,None,2025-02-08,2025-07-16
+Wheat,Triticum aestivum,W6281,Alluvial,Sprinkler,Potash,Certified,Excess Rain,Owned,No,Not Enrolled,Medium,2024-07-04,2024-11-18
+Wheat,Triticum aestivum,W8780,Arid,Canal,Compost,Certified,Flood,Sharecropped,No,Not Enrolled,High,2024-07-22,2024-12-21
+Wheat,Triticum aestivum,W5083,Clayey,Sprinkler,Organic,Hybrid,Normal,Leased,Yes,Enrolled,None,2024-09-27,2025-03-17
+Maize,Zea mays,M6501,Arid,River,Potash,Certified,Heatwave,Leased,No,Not Enrolled,Low,2025-03-09,2025-08-29
+Potato,Solanum tuberosum,P2443,Alluvial,Tube Well,NPK,F1 Hybrid,Drought,Sharecropped,No,Enrolled,None,2024-09-30,2025-03-14
+Cotton,Gossypium hirsutum,C3832,Loamy,None,NPK,Certified,Drought,Owned,Yes,Enrolled,High,2024-12-03,2025-05-12
+Sugarcane,Saccharum officinarum,S7685,Clayey,River,Potash,Local,Normal,Owned,No,Enrolled,High,2024-07-22,2024-11-10
+Groundnut,Arachis hypogaea,G7353,Loamy,None,Urea,F1 Hybrid,Normal,Sharecropped,Yes,Not Enrolled,Low,2024-06-08,2024-09-22
+Potato,Solanum tuberosum,P2841,Clayey,River,NPK,Hybrid,Heatwave,Leased,No,Enrolled,None,2025-01-01,2025-04-13
+Gram,Cicer arietinum,G3130,Red,Sprinkler,Compost,Certified,Normal,Leased,Yes,Not Enrolled,Low,2024-09-06,2024-12-30
+Groundnut,Arachis hypogaea,G9939,Laterite,None,Compost,Certified,Heatwave,Leased,Yes,Not Enrolled,Medium,2024-12-22,2025-05-23
+Jowar,Sorghum bicolor,J1413,Arid,None,Potash,Hybrid,Excess Rain,Owned,Yes,Not Enrolled,None,2024-07-05,2025-01-01
+Wheat,Triticum aestivum,W6050,Saline,None,NPK,Local,Excess Rain,Sharecropped,No,Not Enrolled,High,2025-01-09,2025-05-26
+Gram,Cicer arietinum,G8097,Clayey,River,Urea,Hybrid,Excess Rain,Leased,Yes,Enrolled,Medium,2024-07-07,2024-11-02
+Cotton,Gossypium hirsutum,C1633,Red,Tube Well,Organic,Certified,Normal,Owned,No,Enrolled,None,2025-01-25,2025-05-28
+Soybean,Glycine max,S4418,Loamy,None,NPK,Certified,Excess Rain,Owned,No,Not Enrolled,None,2024-12-25,2025-03-30
+Potato,Solanum tuberosum,P6830,Black,Rainfed,Vermicompost,F1 Hybrid,Normal,Owned,Yes,Enrolled,Medium,2025-02-20,2025-07-14
+Cotton,Gossypium hirsutum,C8698,Saline,Rainfed,Organic,F1 Hybrid,Excess Rain,Leased,Yes,Not Enrolled,Low,2025-02-19,2025-07-30
+Cotton,Gossypium hirsutum,C5622,Laterite,Sprinkler,Urea,Hybrid,Drought,Sharecropped,Yes,Not Enrolled,High,2024-10-04,2025-02-22
+Rice,Oryza sativa,R6806,Laterite,Canal,Vermicompost,Local,Drought,Leased,Yes,Enrolled,High,2024-07-28,2024-11-20
+Wheat,Triticum aestivum,W6533,Clayey,None,NPK,Certified,Normal,Leased,Yes,Not Enrolled,Medium,2024-06-18,2024-11-30
+Wheat,Triticum aestivum,W9913,Red,Drip,Compost,Hybrid,Excess Rain,Sharecropped,No,Not Enrolled,None,2025-03-02,2025-06-15
+Soybean,Glycine max,S1431,Clayey,Rainfed,Urea,Certified,Dry Spell,Owned,No,Not Enrolled,High,2024-06-26,2024-10-04
+Maize,Zea mays,M2737,Clayey,Drip,DAP,F1 Hybrid,Flood,Owned,Yes,Not Enrolled,None,2025-03-04,2025-08-16
+Groundnut,Arachis hypogaea,G8065,Arid,None,DAP,Local,Drought,Leased,Yes,Not Enrolled,Low,2025-03-20,2025-07-13
+Bajra,Pennisetum glaucum,B6608,Clayey,Sprinkler,Organic,F1 Hybrid,Dry Spell,Leased,Yes,Enrolled,Low,2024-10-28,2025-04-02
+Onion,Allium cepa,O7325,Saline,Tube Well,Vermicompost,Certified,Excess Rain,Leased,No,Not Enrolled,High,2024-12-08,2025-04-08
+Bajra,Pennisetum glaucum,B8074,Alluvial,Rainfed,Urea,Hybrid,Excess Rain,Sharecropped,Yes,Enrolled,Low,2024-07-17,2024-12-21
+Millet,Various,M3117,Alluvial,Canal,Urea,Local,Heatwave,Sharecropped,No,Not Enrolled,Medium,2024-06-18,2024-10-30
+Groundnut,Arachis hypogaea,G1010,Saline,Tube Well,NPK,Hybrid,Excess Rain,Leased,No,Enrolled,Medium,2025-01-20,2025-06-01
+Tur,Cajanus cajan,T5215,Black,None,Potash,Certified,Dry Spell,Leased,Yes,Enrolled,None,2024-08-28,2025-02-24
+Groundnut,Arachis hypogaea,G1980,Arid,Drip,Urea,Certified,Drought,Owned,No,Enrolled,Medium,2025-03-27,2025-08-06
+Potato,Solanum tuberosum,P3094,Clayey,Sprinkler,Vermicompost,Certified,Drought,Sharecropped,Yes,Not Enrolled,None,2024-06-01,2024-09-10
+Rice,Oryza sativa,R8515,Arid,None,Vermicompost,Certified,Excess Rain,Owned,Yes,Not Enrolled,High,2025-03-12,2025-08-30
+Wheat,Triticum aestivum,W8441,Saline,River,DAP,Local,Excess Rain,Owned,No,Enrolled,High,2024-11-01,2025-02-26
+Tur,Cajanus cajan,T9099,Red,Rainfed,Potash,Hybrid,Flood,Leased,No,Not Enrolled,Medium,2024-10-21,2025-02-26
+Rice,Oryza sativa,R3100,Clayey,Tube Well,Vermicompost,Hybrid,Drought,Sharecropped,Yes,Not Enrolled,Low,2024-12-19,2025-05-18
+Groundnut,Arachis hypogaea,G8253,Red,Canal,Vermicompost,Hybrid,Dry Spell,Sharecropped,Yes,Enrolled,High,2024-10-02,2025-03-17
+Maize,Zea mays,M5475,Loamy,Drip,Compost,Hybrid,Excess Rain,Sharecropped,Yes,Not Enrolled,None,2024-06-14,2024-10-22
+Millet,Various,M2752,Red,River,Vermicompost,Local,Excess Rain,Sharecropped,Yes,Enrolled,None,2024-12-31,2025-06-15
+Potato,Solanum tuberosum,P3845,Laterite,Drip,NPK,F1 Hybrid,Excess Rain,Sharecropped,No,Not Enrolled,None,2024-07-29,2025-01-06
+Sugarcane,Saccharum officinarum,S2363,Red,Tube Well,Vermicompost,F1 Hybrid,Dry Spell,Leased,Yes,Enrolled,None,2024-10-04,2025-02-03
+Potato,Solanum tuberosum,P8855,Laterite,Drip,NPK,F1 Hybrid,Heatwave,Owned,No,Enrolled,Medium,2025-03-16,2025-09-05
+Cotton,Gossypium hirsutum,C8023,Red,Canal,Compost,Local,Excess Rain,Sharecropped,Yes,Enrolled,Medium,2024-10-04,2025-03-29
+Jowar,Sorghum bicolor,J8157,Arid,None,DAP,Certified,Flood,Leased,No,Not Enrolled,High,2024-07-23,2024-12-07
+Cotton,Gossypium hirsutum,C7551,Saline,Sprinkler,Organic,F1 Hybrid,Flood,Owned,No,Enrolled,Medium,2025-03-14,2025-07-20
+Jowar,Sorghum bicolor,J7188,Arid,Drip,NPK,Hybrid,Heatwave,Owned,No,Not Enrolled,None,2024-08-29,2024-12-26
+Soybean,Glycine max,S7263,Arid,None,Vermicompost,F1 Hybrid,Heatwave,Leased,No,Not Enrolled,None,2024-07-20,2025-01-11
+Maize,Zea mays,M8186,Laterite,Canal,NPK,Hybrid,Dry Spell,Owned,Yes,Not Enrolled,None,2024-11-08,2025-04-29
+Maize,Zea mays,M5839,Loamy,River,Potash,F1 Hybrid,Excess Rain,Leased,Yes,Not Enrolled,None,2025-01-21,2025-07-16
+Wheat,Triticum aestivum,W8474,Red,Canal,NPK,Certified,Excess Rain,Owned,No,Not Enrolled,High,2024-10-29,2025-03-27
+Cotton,Gossypium hirsutum,C1983,Clayey,None,Organic,Hybrid,Normal,Leased,No,Enrolled,None,2024-12-12,2025-04-01
+Groundnut,Arachis hypogaea,G7266,Alluvial,None,Compost,F1 Hybrid,Heatwave,Owned,No,Enrolled,None,2024-06-21,2024-09-24
+Jowar,Sorghum bicolor,J1632,Saline,Sprinkler,Compost,Local,Flood,Sharecropped,Yes,Enrolled,High,2024-08-05,2024-12-12
+Tur,Cajanus cajan,T7046,Red,Canal,NPK,Local,Flood,Sharecropped,No,Enrolled,None,2025-03-06,2025-08-26
+Bajra,Pennisetum glaucum,B3720,Laterite,River,Urea,F1 Hybrid,Flood,Owned,Yes,Not Enrolled,High,2025-02-12,2025-05-29
+Soybean,Glycine max,S3017,Black,Tube Well,Vermicompost,Hybrid,Heatwave,Owned,No,Not Enrolled,Medium,2025-01-18,2025-06-16
+Soybean,Glycine max,S9685,Alluvial,Rainfed,Compost,Certified,Flood,Leased,Yes,Not Enrolled,Low,2024-11-24,2025-04-27
+Bajra,Pennisetum glaucum,B8712,Clayey,River,Potash,F1 Hybrid,Normal,Leased,No,Enrolled,None,2024-10-15,2025-04-07
+Bajra,Pennisetum glaucum,B7871,Loamy,Rainfed,Urea,Local,Excess Rain,Leased,No,Not Enrolled,None,2025-01-06,2025-06-22
+Cotton,Gossypium hirsutum,C9794,Red,None,Vermicompost,F1 Hybrid,Heatwave,Sharecropped,No,Not Enrolled,High,2025-01-16,2025-07-10
+Onion,Allium cepa,O7844,Black,Sprinkler,DAP,Local,Drought,Sharecropped,No,Enrolled,None,2024-10-12,2025-03-13
+Rice,Oryza sativa,R7142,Loamy,Sprinkler,Urea,Local,Normal,Leased,Yes,Not Enrolled,Low,2024-06-24,2024-12-21
+Soybean,Glycine max,S4878,Loamy,Sprinkler,Urea,Hybrid,Normal,Sharecropped,No,Not Enrolled,Low,2024-07-09,2024-11-02
+Gram,Cicer arietinum,G7244,Red,Canal,Urea,F1 Hybrid,Drought,Sharecropped,No,Enrolled,None,2024-10-25,2025-04-19
+Groundnut,Arachis hypogaea,G4635,Laterite,None,DAP,Local,Normal,Sharecropped,No,Not Enrolled,None,2025-02-25,2025-07-15
+Potato,Solanum tuberosum,P5950,Saline,None,Compost,Local,Normal,Sharecropped,Yes,Not Enrolled,Low,2024-11-21,2025-03-03
+Sugarcane,Saccharum officinarum,S5565,Saline,Rainfed,NPK,F1 Hybrid,Normal,Sharecropped,Yes,Enrolled,Medium,2024-08-03,2024-12-19
+Sugarcane,Saccharum officinarum,S5149,Red,Drip,Compost,Local,Flood,Leased,No,Enrolled,High,2025-01-28,2025-05-30
+Soybean,Glycine max,S8913,Loamy,Canal,Urea,Hybrid,Normal,Leased,No,Not Enrolled,Medium,2024-08-20,2024-12-10
+Groundnut,Arachis hypogaea,G7947,Saline,Canal,Potash,F1 Hybrid,Flood,Owned,No,Enrolled,High,2024-09-01,2025-02-07
+Maize,Zea mays,M4598,Clayey,Sprinkler,NPK,F1 Hybrid,Dry Spell,Sharecropped,No,Not Enrolled,High,2025-02-13,2025-05-18
+Maize,Zea mays,M6309,Saline,River,Potash,Certified,Dry Spell,Owned,Yes,Not Enrolled,Low,2024-10-31,2025-03-17
+Wheat,Triticum aestivum,W3796,Laterite,Canal,Compost,Local,Excess Rain,Owned,Yes,Enrolled,Medium,2024-11-19,2025-04-23
+Cotton,Gossypium hirsutum,C5301,Alluvial,Rainfed,Potash,Local,Heatwave,Sharecropped,No,Enrolled,Medium,2024-08-31,2024-12-14
+Bajra,Pennisetum glaucum,B1054,Laterite,Tube Well,Vermicompost,F1 Hybrid,Flood,Sharecropped,Yes,Enrolled,Low,2024-11-17,2025-04-13
+Bajra,Pennisetum glaucum,B8935,Arid,Drip,Compost,Hybrid,Dry Spell,Owned,No,Enrolled,Low,2024-12-08,2025-05-14
+Millet,Various,M8600,Red,None,NPK,Local,Dry Spell,Owned,Yes,Not Enrolled,Low,2024-12-10,2025-04-24
+Bajra,Pennisetum glaucum,B1180,Laterite,Drip,Potash,Certified,Drought,Owned,No,Not Enrolled,Medium,2025-03-16,2025-09-06
+Bajra,Pennisetum glaucum,B8990,Loamy,Drip,Urea,Local,Normal,Sharecropped,Yes,Not Enrolled,Low,2024-12-27,2025-04-24
+Rice,Oryza sativa,R8156,Black,Sprinkler,Organic,Local,Normal,Leased,Yes,Not Enrolled,Low,2024-06-12,2024-10-28
+Maize,Zea mays,M7041,Black,Drip,Potash,F1 Hybrid,Excess Rain,Sharecropped,Yes,Enrolled,Medium,2025-02-01,2025-07-20
+Jowar,Sorghum bicolor,J7714,Red,Rainfed,NPK,Local,Drought,Owned,Yes,Not Enrolled,Medium,2025-03-11,2025-08-08
+Gram,Cicer arietinum,G3360,Loamy,Sprinkler,NPK,Local,Drought,Owned,Yes,Not Enrolled,High,2024-10-29,2025-04-01
+Sugarcane,Saccharum officinarum,S2321,Alluvial,Rainfed,Vermicompost,Hybrid,Heatwave,Sharecropped,Yes,Not Enrolled,None,2024-07-30,2024-12-09
+Millet,Various,M1755,Loamy,Sprinkler,Potash,Hybrid,Drought,Leased,Yes,Not Enrolled,Medium,2024-07-03,2024-11-21
+Potato,Solanum tuberosum,P4298,Loamy,Tube Well,Compost,F1 Hybrid,Excess Rain,Owned,Yes,Enrolled,None,2025-01-18,2025-04-19
+Maize,Zea mays,M9590,Clayey,Tube Well,Potash,Hybrid,Heatwave,Owned,No,Enrolled,None,2024-08-07,2024-11-17
+Onion,Allium cepa,O8921,Black,Drip,Potash,Certified,Dry Spell,Sharecropped,Yes,Not Enrolled,Medium,2024-06-14,2024-12-05
+Millet,Various,M3862,Loamy,Tube Well,Vermicompost,Certified,Drought,Leased,Yes,Not Enrolled,Low,2024-09-07,2024-12-11
+Potato,Solanum tuberosum,P6973,Black,Sprinkler,NPK,Certified,Normal,Leased,Yes,Not Enrolled,High,2024-06-16,2024-10-10
+Potato,Solanum tuberosum,P4687,Red,Sprinkler,Organic,Local,Normal,Leased,Yes,Not Enrolled,High,2025-02-18,2025-06-03
+Soybean,Glycine max,S6364,Black,Sprinkler,Organic,F1 Hybrid,Normal,Sharecropped,No,Not Enrolled,None,2024-11-05,2025-03-08
+Maize,Zea mays,M9110,Clayey,Drip,Compost,F1 Hybrid,Normal,Leased,No,Enrolled,High,2025-03-25,2025-07-01
+Rice,Oryza sativa,R7658,Laterite,Tube Well,DAP,Hybrid,Heatwave,Leased,Yes,Enrolled,Low,2025-03-03,2025-08-18
+Wheat,Triticum aestivum,W6450,Black,None,NPK,Certified,Normal,Sharecropped,Yes,Not Enrolled,None,2024-08-31,2024-12-25
+Gram,Cicer arietinum,G3872,Clayey,Tube Well,Compost,Certified,Drought,Leased,Yes,Not Enrolled,Low,2024-08-28,2024-12-28
+Jowar,Sorghum bicolor,J8437,Black,Canal,NPK,F1 Hybrid,Drought,Sharecropped,Yes,Enrolled,Medium,2024-10-10,2025-02-17
+Groundnut,Arachis hypogaea,G1380,Black,Sprinkler,DAP,Certified,Drought,Leased,Yes,Not Enrolled,Medium,2025-02-23,2025-08-10
+Potato,Solanum tuberosum,P5360,Red,Canal,Organic,Hybrid,Drought,Leased,Yes,Not Enrolled,Low,2024-10-03,2025-02-10
+Wheat,Triticum aestivum,W7592,Black,None,Potash,Certified,Drought,Owned,No,Enrolled,Medium,2024-07-20,2024-11-16
+Bajra,Pennisetum glaucum,B5249,Clayey,None,NPK,Certified,Dry Spell,Sharecropped,No,Enrolled,None,2024-08-31,2024-12-27
+Soybean,Glycine max,S4044,Alluvial,Tube Well,Vermicompost,Certified,Drought,Leased,No,Enrolled,Medium,2024-09-09,2025-03-02
+Maize,Zea mays,M7215,Alluvial,River,NPK,F1 Hybrid,Excess Rain,Owned,Yes,Not Enrolled,Low,2024-11-13,2025-05-05
+Onion,Allium cepa,O8175,Laterite,Tube Well,NPK,F1 Hybrid,Normal,Owned,Yes,Enrolled,High,2024-06-19,2024-10-25
+Bajra,Pennisetum glaucum,B5619,Black,River,DAP,F1 Hybrid,Normal,Owned,Yes,Not Enrolled,None,2024-08-27,2024-12-18
+Millet,Various,M2436,Saline,Drip,DAP,Certified,Flood,Leased,Yes,Enrolled,None,2025-02-20,2025-05-25
+Gram,Cicer arietinum,G8116,Laterite,Canal,NPK,Certified,Heatwave,Sharecropped,No,Not Enrolled,Medium,2025-02-24,2025-06-19
+Rice,Oryza sativa,R9698,Clayey,Canal,Compost,Local,Drought,Owned,No,Not Enrolled,None,2025-03-23,2025-08-18
+Soybean,Glycine max,S5701,Alluvial,Sprinkler,NPK,Hybrid,Normal,Owned,Yes,Enrolled,Medium,2024-12-03,2025-06-01
+Wheat,Triticum aestivum,W5893,Clayey,Drip,Compost,Hybrid,Flood,Leased,Yes,Not Enrolled,Low,2024-12-05,2025-04-15
+Cotton,Gossypium hirsutum,C4696,Laterite,River,Vermicompost,F1 Hybrid,Heatwave,Owned,Yes,Enrolled,High,2024-07-13,2024-11-01
+Millet,Various,M7161,Clayey,None,Urea,F1 Hybrid,Normal,Owned,Yes,Not Enrolled,None,2024-08-19,2025-01-14
+Sugarcane,Saccharum officinarum,S4815,Clayey,Canal,Compost,Certified,Flood,Owned,No,Enrolled,None,2025-02-23,2025-07-26
+Cotton,Gossypium hirsutum,C2440,Alluvial,Canal,Vermicompost,F1 Hybrid,Excess Rain,Sharecropped,No,Enrolled,Medium,2024-06-22,2024-11-24
+Wheat,Triticum aestivum,W4526,Saline,Sprinkler,Potash,Local,Drought,Leased,Yes,Enrolled,None,2024-11-30,2025-03-13
+Sugarcane,Saccharum officinarum,S7985,Loamy,Drip,Vermicompost,Hybrid,Heatwave,Leased,Yes,Enrolled,High,2025-01-28,2025-07-01
+Tur,Cajanus cajan,T1562,Arid,Canal,Organic,F1 Hybrid,Dry Spell,Owned,Yes,Enrolled,None,2025-03-13,2025-08-31
+Soybean,Glycine max,S8605,Black,Tube Well,NPK,Certified,Flood,Owned,Yes,Not Enrolled,Low,2024-07-17,2024-11-08
+Groundnut,Arachis hypogaea,G9961,Black,Rainfed,DAP,Local,Heatwave,Leased,No,Not Enrolled,High,2025-02-16,2025-08-08
+Rice,Oryza sativa,R4144,Saline,Sprinkler,Potash,Certified,Normal,Owned,Yes,Enrolled,None,2024-11-28,2025-03-23
+Jowar,Sorghum bicolor,J7443,Saline,Rainfed,Compost,Local,Normal,Sharecropped,Yes,Enrolled,High,2024-08-03,2024-11-23
+Gram,Cicer arietinum,G7459,Red,Sprinkler,Compost,Hybrid,Normal,Owned,No,Not Enrolled,None,2024-08-09,2024-12-08
+Bajra,Pennisetum glaucum,B5591,Laterite,Rainfed,Vermicompost,Local,Excess Rain,Owned,No,Not Enrolled,None,2025-03-06,2025-06-23
+Wheat,Triticum aestivum,W5499,Black,Rainfed,Organic,F1 Hybrid,Dry Spell,Owned,No,Enrolled,High,2025-03-26,2025-07-23
+Potato,Solanum tuberosum,P3734,Laterite,None,Urea,Local,Heatwave,Leased,No,Enrolled,High,2025-03-22,2025-07-26
+Maize,Zea mays,M8823,Alluvial,Canal,Vermicompost,F1 Hybrid,Drought,Sharecropped,No,Enrolled,Medium,2024-12-23,2025-05-05
+Sugarcane,Saccharum officinarum,S9769,Clayey,None,Vermicompost,Certified,Flood,Owned,Yes,Not Enrolled,Medium,2024-09-26,2025-02-06
+Sugarcane,Saccharum officinarum,S7956,Red,Canal,Urea,Certified,Normal,Sharecropped,No,Enrolled,High,2024-07-06,2024-11-11
+Millet,Various,M6533,Loamy,Tube Well,Organic,Local,Drought,Sharecropped,Yes,Enrolled,None,2024-08-22,2024-12-26
+Jowar,Sorghum bicolor,J2457,Laterite,Tube Well,Urea,Hybrid,Excess Rain,Owned,No,Enrolled,None,2024-07-15,2024-12-02
+Bajra,Pennisetum glaucum,B9240,Arid,Drip,DAP,F1 Hybrid,Drought,Leased,No,Not Enrolled,None,2025-01-26,2025-06-28
+Onion,Allium cepa,O3412,Clayey,None,Vermicompost,Certified,Flood,Owned,No,Enrolled,None,2024-10-18,2025-01-31
+Millet,Various,M2445,Saline,None,NPK,Hybrid,Dry Spell,Owned,Yes,Enrolled,Low,2024-10-26,2025-03-25
+Groundnut,Arachis hypogaea,G3180,Clayey,None,Vermicompost,Certified,Excess Rain,Sharecropped,No,Not Enrolled,High,2024-12-24,2025-05-27
+Onion,Allium cepa,O7617,Clayey,Rainfed,Urea,Certified,Heatwave,Leased,Yes,Not Enrolled,Low,2025-02-17,2025-06-25
+Soybean,Glycine max,S9628,Loamy,Drip,Potash,Certified,Normal,Leased,No,Enrolled,Medium,2024-11-23,2025-05-14
+Cotton,Gossypium hirsutum,C9989,Laterite,Tube Well,Potash,Certified,Dry Spell,Leased,Yes,Not Enrolled,High,2025-01-31,2025-05-21
+Sugarcane,Saccharum officinarum,S8935,Clayey,None,Urea,Local,Dry Spell,Owned,Yes,Not Enrolled,High,2025-02-09,2025-06-02
+Gram,Cicer arietinum,G9556,Alluvial,None,Organic,Certified,Normal,Sharecropped,Yes,Enrolled,Low,2024-07-29,2025-01-06
+Maize,Zea mays,M2864,Alluvial,River,Organic,F1 Hybrid,Normal,Leased,Yes,Not Enrolled,None,2024-12-03,2025-04-16
+Cotton,Gossypium hirsutum,C5917,Loamy,Sprinkler,Organic,F1 Hybrid,Flood,Sharecropped,No,Not Enrolled,High,2024-07-24,2024-10-29
+Onion,Allium cepa,O6491,Black,Drip,Potash,F1 Hybrid,Flood,Leased,No,Not Enrolled,Medium,2024-10-09,2025-01-07
+Cotton,Gossypium hirsutum,C1845,Laterite,River,Vermicompost,Certified,Excess Rain,Sharecropped,No,Enrolled,Medium,2024-09-20,2025-03-15
+Millet,Various,M7281,Alluvial,Canal,DAP,F1 Hybrid,Flood,Leased,No,Enrolled,None,2024-06-18,2024-11-27
+Cotton,Gossypium hirsutum,C2355,Loamy,Rainfed,Compost,Hybrid,Heatwave,Leased,Yes,Not Enrolled,None,2024-06-17,2024-12-07
+Onion,Allium cepa,O8577,Red,Drip,DAP,Certified,Dry Spell,Leased,Yes,Enrolled,High,2024-07-23,2025-01-12
+Groundnut,Arachis hypogaea,G1378,Laterite,Tube Well,NPK,Hybrid,Heatwave,Sharecropped,No,Enrolled,None,2025-02-11,2025-07-10
+Millet,Various,M2239,Red,Rainfed,Urea,Hybrid,Dry Spell,Sharecropped,Yes,Enrolled,High,2024-07-21,2024-10-27
+Soybean,Glycine max,S8058,Red,Rainfed,DAP,Hybrid,Dry Spell,Sharecropped,Yes,Not Enrolled,None,2024-07-08,2024-10-14
+Wheat,Triticum aestivum,W1424,Loamy,Sprinkler,Compost,Certified,Drought,Sharecropped,No,Enrolled,High,2025-03-19,2025-07-23
+Millet,Various,M6722,Saline,River,Potash,Certified,Drought,Leased,No,Enrolled,Medium,2024-07-18,2024-12-28
+Onion,Allium cepa,O9568,Alluvial,None,NPK,Hybrid,Dry Spell,Owned,No,Enrolled,High,2024-09-08,2024-12-10
+Maize,Zea mays,M3349,Loamy,Rainfed,DAP,Certified,Normal,Sharecropped,No,Enrolled,High,2024-10-24,2025-03-21
+Sugarcane,Saccharum officinarum,S4409,Alluvial,Sprinkler,NPK,Certified,Normal,Sharecropped,Yes,Enrolled,High,2024-12-20,2025-04-03
+Jowar,Sorghum bicolor,J3868,Clayey,River,Potash,F1 Hybrid,Flood,Owned,Yes,Not Enrolled,None,2024-09-27,2025-03-08
+Cotton,Gossypium hirsutum,C1927,Laterite,Canal,Urea,F1 Hybrid,Drought,Leased,Yes,Enrolled,None,2024-12-17,2025-05-15
+Gram,Cicer arietinum,G7437,Laterite,Rainfed,Compost,Local,Normal,Sharecropped,No,Not Enrolled,None,2025-01-25,2025-06-16
+Sugarcane,Saccharum officinarum,S6775,Clayey,Canal,Potash,Certified,Excess Rain,Sharecropped,Yes,Not Enrolled,High,2025-03-20,2025-09-11
+Jowar,Sorghum bicolor,J8306,Clayey,Tube Well,Compost,Local,Heatwave,Leased,No,Not Enrolled,None,2025-01-31,2025-06-19
+Jowar,Sorghum bicolor,J7648,Red,Drip,DAP,Local,Normal,Leased,Yes,Not Enrolled,Low,2025-03-20,2025-07-15
+Bajra,Pennisetum glaucum,B6555,Black,Rainfed,Potash,F1 Hybrid,Flood,Owned,No,Enrolled,Medium,2024-12-22,2025-05-22
+Soybean,Glycine max,S1113,Laterite,Rainfed,Organic,Hybrid,Drought,Sharecropped,Yes,Enrolled,Low,2024-10-15,2025-02-25
+Wheat,Triticum aestivum,W8197,Red,Rainfed,Vermicompost,Hybrid,Heatwave,Sharecropped,Yes,Not Enrolled,High,2024-12-17,2025-05-24
+Cotton,Gossypium hirsutum,C2525,Alluvial,Canal,NPK,Hybrid,Normal,Sharecropped,Yes,Not Enrolled,Medium,2025-01-21,2025-05-01
