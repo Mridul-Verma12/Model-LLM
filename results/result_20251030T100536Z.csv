@@ -1,0 +1,12 @@
+Crop Name,Scientific name,Seed Code,soil_type,irrigation_source,fertilizer_used,seed_type,weather_condition,ownership_type,loan_taken,insurance_status,pesticide_usage,last_sowing_date,expected_harvest_date
+Tur,Cajanus cajan,T3384,Clayey,,Potash,Hybrid,Normal,Sharecropped,No,Enrolled,High,2025-02-10,2025-07-31
+Sugarcane,Saccharum officinarum,S1415,Clayey,Canal,Compost,Hybrid,Excess Rain,Sharecropped,No,Enrolled,,2024-12-05,2025-05-07
+Bajra,Pennisetum glaucum,B8415,Clayey,,Compost,Hybrid,Drought,Sharecropped,No,Enrolled,Low,2024-09-24,2025-03-19
+Millet,Various,M1779,Clayey,River,Organic,Hybrid,Excess Rain,Leased,No,Enrolled,Medium,2024-12-25,2025-05-26
+Tur,Cajanus cajan,T6780,Clayey,Canal,Urea,Hybrid,Excess Rain,Leased,No,Enrolled,High,2024-08-28,2024-12-18
+Rice,Oryza sativa,R3427,Clayey,,Organic,Hybrid,Heatwave,Leased,No,Enrolled,Medium,2024-11-20,2025-03-15
+Sugarcane,Saccharum officinarum,S1423,Clayey,Sprinkler,Compost,Hybrid,Flood,Owned,No,Enrolled,,2024-07-06,2024-10-19
+Gram,Cicer arietinum,G6467,Clayey,,DAP,Hybrid,Excess Rain,Leased,No,Enrolled,High,2024-08-01,2025-01-07
+Potato,Solanum tuberosum,P2841,Clayey,River,NPK,Hybrid,Heatwave,Leased,No,Enrolled,,2025-01-01,2025-04-13
+Cotton,Gossypium hirsutum,C1983,Clayey,,Organic,Hybrid,Normal,Leased,No,Enrolled,,2024-12-12,2025-04-01
+Maize,Zea mays,M9590,Clayey,Tube Well,Potash,Hybrid,Heatwave,Owned,No,Enrolled,,2024-08-07,2024-11-17

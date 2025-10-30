@@ -56,7 +56,10 @@ st.set_page_config(page_title="Fast Local CSV NL Query", layout="wide")
 # ---------------------------------
 # 1️⃣ COLUMN VALUE SYNONYMS
 # ---------------------------------
-farmer_synonyms = {
+SYNONYMS = {
+    # ---------------------------------
+    # 1. FARMER DATASET SYNONYMS
+    # ---------------------------------
     "farmer_id": {
         "Farmer ID": ["id", "farmerid", "farmer code", "unique id", "farmer number"]
     },
@@ -134,7 +137,7 @@ farmer_synonyms = {
         "Farm Area (ha)": ["land", "farm area", "area", "hectare", "ha", "acre", "land size", "farm size", "plot size"]
     },
     "crop": {
-        "Paddy": ["paddy", "rice", "basmati", "non-basmati", "parboiled rice"],
+        "Paddy": ["paddy", "basmati", "non-basmati", "parboiled rice"],
         "Wheat": ["wheat", "durum", "atta wheat", "bread wheat"],
         "Maize": ["maize", "corn", "sweetcorn", "babycorn"],
         "Millets": ["millet", "bajra", "ragi", "jowar", "sorghum", "foxtail", "barnyard"],
@@ -144,99 +147,90 @@ farmer_synonyms = {
         "Oilseeds": ["oilseed", "mustard", "groundnut", "soybean", "sunflower", "sesame"],
         "Fruits": ["fruit", "fruits", "banana", "mango", "orange", "grape", "guava", "apple"],
         "Vegetables": ["vegetable", "vegetables", "tomato", "onion", "potato", "brinjal", "chili", "cabbage", "cauliflower"],
-        "Rice":["rice","Rice"]
+        "Rice": ["rice", "Rice"] # This covers both files
+    },
+
+    # ---------------------------------
+    # 2. SEED DATASET SYNONYMS
+    # ---------------------------------
+    "crop_name": {
+        "Crop Name": ["crop", "crop name", "plant", "plant name", "barley", "buckwheat", "jowar"]
+        # Note: Crop names like "Wheat", "Maize", "Rice" are already in the "crop" section above
+    },
+    "seed_code": {
+        "Seed Code": ["seed id", "seed code", "seed number", "seed_id"]
+    },
+    "soil_type": {
+        "Soil Type": ["soil", "soil type", "ground type", "soil_type"],
+        "Laterite": ["laterite"],
+        "Arid": ["arid", "dry soil"],
+        "Saline": ["saline", "salty soil"],
+        "Loamy": ["loamy", "loam"],
+        "Clayey": ["clayey", "clay"],
+        "Alluvial": ["alluvial"]
+    },
+    "irrigation_source": {
+        "Irrigation": ["irrigation", "water source", "irrigation_source"],
+        "River": ["river"],
+        "Drip": ["drip irrigation", "drip"],
+        "Canal": ["canal"],
+        "Rainfed": ["rainfed", "rain fed", "no irrigation"],
+        "Sprinkler": ["sprinkler"]
+    },
+    "fertilizer_used": {
+        "Fertilizer": ["fertilizer", "fertilizer_used", "fertiliser"],
+        "Organic": ["organic"],
+        "Compost": ["compost"],
+        "Urea": ["urea"],
+        "Potash": ["potash"],
+        "NPK": ["npk"],
+        "DAP": ["dap"]
+    },
+    "seed_type": {
+        "Seed Type": ["seed type", "type of seed", "seed_type", "variety"],
+        "Certified": ["certified", "certified seed"],
+        "Hybrid": ["hybrid", "hybrid seed"],
+        "Local": ["local", "local seed", "farmer seed", "traditional seed"],
+        "F1 Hybrid": ["f1 hybrid", "f1"]
+    },
+    "weather_condition": {
+        "Weather": ["weather", "weather condition", "weather_condition"],
+        "Dry Spell": ["dry spell", "low rain"],
+        "Flood": ["flood", "heavy rain"],
+        "Normal": ["normal", "normal weather", "good weather"],
+        "Drought": ["drought", "no rain"],
+        "Excess Rain": ["excess rain"]
+    },
+    "ownership_type": {
+        "Ownership": ["ownership", "land ownership", "ownership_type"],
+        "Sharecropped": ["sharecropped", "shared land", "share cropper"],
+        "Leased": ["leased", "rented", "rented land"],
+        "Owned": ["owned", "own land", "owner"]
+    },
+    "loan_taken": {
+        "Loan": ["loan", "loan taken", "loan_taken", "debt", "credit"],
+        "Yes": ["yes", "taken loan", "with loan", "has loan"],
+        "No": ["no", "no loan", "without loan", "no debt"]
+    },
+    "insurance_status": {
+        "Insurance": ["insurance", "insurance status", "insurance_status", "crop insurance"],
+        "Enrolled": ["enrolled", "has insurance", "insured"],
+        "Not Enrolled": ["not enrolled", "no insurance", "uninsured"]
+    },
+    "pesticide_usage": {
+        "Pesticide": ["pesticide", "pesticide usage", "pesticide_usage"],
+        "Medium": ["medium", "med", "average use"],
+        "Low": ["low", "little", "low use"],
+        "High": [ "high", "a lot", "high use"],
+        "None": ["none", "no pesticide", "zero pesticide"]
+    },
+    "last_sowing_date": {
+        "Sowing Date": ["sowing date", "last sowing date", "last_sowing_date", "planted on"]
+    },
+    "expected_harvest_date": {
+        "Harvest Date": ["harvest date", "expected harvest date", "expected_harvest_date", "harvest on"]
     }
 }
-
-seed_synonyms = {
-    "Crop Name": ["crop", "plant", "seed crop", "variety", "crop name"],
-    "Scientific name": ["scientific name", "botanical name", "species", "latin name"],
-    "Seed Code": ["seed code", "id", "seed id", "batch number", "code"],
-    "soil_type": ["soil", "soil type", "land type", "terrain", "soil condition"],
-    "irrigation_source": ["irrigation", "water source", "watering", "irrigation type", "source of irrigation"],
-    "fertilizer_used": ["fertilizer", "manure", "chemical used", "fertilizer type", "nutrient added"],
-    "seed_type": ["seed", "seed category", "type of seed", "hybrid/local", "certified/uncertified"],
-    "weather_condition": ["weather", "climate", "rainfall", "season", "weather type"],
-    "ownership_type": ["ownership", "land ownership", "property type", "farmer type"],
-    "loan_taken": ["loan", "credit", "borrowed", "financing", "debt"],
-    "insurance_status": ["insurance", "insured", "policy", "coverage", "insurance type"],
-    "pesticide_usage": ["pesticide", "chemical spray", "pesticide use", "insecticide"],
-    "last_sowing_date": ["sowing date", "planting date", "date of sowing", "last sowing"],
-    "expected_harvest_date": ["harvest date", "expected harvest", "yield date", "crop ready date"],
-
-    "soil_type_values": {
-        "Loamy": ["loamy", "loam", "medium soil"],
-        "Clay": ["clay", "clayey", "heavy soil"],
-        "Sandy": ["sandy", "sand", "light soil"],
-        "Black": ["black", "regur", "cotton soil"],
-        "Red": ["red", "laterite"],
-        "Alluvial": ["alluvial", "river soil"]
-    },
-
-    "irrigation_source_values": {
-        "Canal": ["canal", "irrigation canal"],
-        "Tube Well": ["tubewell", "borewell", "well", "pump"],
-        "Rainfed": ["rainfed", "rainwater", "monsoon"],
-        "Tank": ["tank", "pond", "reservoir"],
-        "Drip": ["drip", "micro irrigation"]
-    },
-
-    "fertilizer_used_values": {
-        "Urea": ["urea", "nitrogen fertilizer"],
-        "DAP": ["dap", "di-ammonium phosphate"],
-        "Compost": ["compost", "organic fertilizer", "farmyard manure", "cow dung"],
-        "NPK": ["npk", "mixed fertilizer", "complex fertilizer"]
-    },
-
-    "seed_type_values": {
-        "Hybrid": ["hybrid", "crossbred"],
-        "Certified": ["certified", "approved", "govt certified"],
-        "Foundation": ["foundation", "breeder"],
-        "Local": ["local", "desi", "traditional"]
-    },
-
-    "weather_condition_values": {
-        "Dry": ["dry", "arid", "low rainfall"],
-        "Humid": ["humid", "moist", "wet"],
-        "Normal": ["normal", "moderate climate", "average"],
-        "Hot": ["hot", "warm"],
-        "Cold": ["cold", "chilly", "frost"]
-    },
-
-    "ownership_type_values": {
-        "Owned": ["owned", "self-owned"],
-        "Leased": ["leased", "rented", "tenant"],
-        "Joint": ["joint", "shared"]
-    },
-
-    "loan_taken_values": {
-        "Yes": ["yes", "loan taken", "borrowed", "has loan"],
-        "No": ["no", "no loan", "debt free"]
-    },
-
-    "insurance_status_values": {
-        "Insured": ["insured", "covered", "policy active"],
-        "Not Insured": ["not insured", "no insurance", "uninsured"]
-    },
-
-    "pesticide_usage_values": {
-        "Yes": ["yes", "pesticide used", "chemicals applied"],
-        "No": ["no", "organic", "no pesticide"]
-    }
-}
-
-# ---------------- AUTO SELECT SYNONYMS ----------------
-if dataset_name:
-    if "seed" in dataset_name.lower():
-        SYNONYMS = seed_synonyms
-        st.info("🌱 Using seed dataset synonyms.")
-    else:
-        SYNONYMS = farmer_synonyms
-        st.info("👩‍🌾 Using farmer dataset synonyms.")
-else:
-    SYNONYMS = farmer_synonyms
-
-
 
 # ---------------------------------
 # 2️⃣ INTENT SYNONYMS
@@ -253,8 +247,6 @@ INTENT_SYNONYMS = {
     "min": ["min", "minimum", "lowest", "smallest", "least"],
     "sum": ["sum", "total", "combined", "overall"]
 }
-
-
 
 
 # Flatten synonyms for lookup
@@ -308,7 +300,8 @@ def load_all_csvs_from_dir(data_dir=DATA_DIR) -> Dict[str, pd.DataFrame]:
             path = os.path.join(data_dir, filename)
             try:
                 df = pd.read_csv(path)
-                name = os.path.splitext(filename)[0]
+                # Use filename without .csv as the key
+                name = os.path.splitext(filename)[0].lower().replace(" ", "_")
                 datasets[name] = df
             except Exception:
                 # skip broken files
@@ -322,11 +315,11 @@ def build_column_corpus_and_vectorizer(datasets: Dict[str, pd.DataFrame]):
     Build a TF-IDF vectorizer over textual descriptions of each dataset column.
     Returns:
       - vectorizer
-      - mapping: dataset -> list of column_texts
-      - mapping: dataset -> list of column_names (ordered same as texts)
+      - ds_col_texts: mapping: dataset_name -> list of column_texts
+      - ds_col_names: mapping: dataset_name -> list of column_names
     """
     corpus_texts = []
-    index_map = []  # tuples (dataset, column)
+    index_map = []  # tuples (dataset, column, text)
 
     for ds_name, df in datasets.items():
         for col in df.columns:
@@ -335,9 +328,7 @@ def build_column_corpus_and_vectorizer(datasets: Dict[str, pd.DataFrame]):
             try:
                 vals = df[col].dropna().unique()
                 if len(vals) > 0:
-                    # sample up to 5 representative values
                     sample_count = min(5, len(vals))
-                    # prefer small unique sets to show categories
                     if len(vals) <= 50:
                         sample_vals = [str(v) for v in vals[:sample_count]]
                     else:
@@ -345,7 +336,10 @@ def build_column_corpus_and_vectorizer(datasets: Dict[str, pd.DataFrame]):
                     example_vals = sample_vals
             except Exception:
                 example_vals = []
-            text = f"{col} " + " ".join(example_vals)
+            
+            # ### --- MODIFICATION --- ###
+            # Improved text: include dataset name and column name for better context
+            text = f"dataset: {ds_name} column: {col} examples: " + " ".join(example_vals)
             corpus_texts.append(text)
             index_map.append((ds_name, col, text))
 
@@ -366,6 +360,36 @@ def build_column_corpus_and_vectorizer(datasets: Dict[str, pd.DataFrame]):
     return vectorizer, ds_col_texts, ds_col_names
 
 
+### --- MODIFICATION --- ###
+# NEW Function: Build vectors for *entire datasets* to help select which one to use
+@st.cache_resource(show_spinner=False)
+def build_dataset_vectors(_vectorizer: TfidfVectorizer, _ds_col_texts: Dict[str, List[str]]):
+    """
+    Creates a single "document" for each dataset by joining all its column texts.
+    Then transforms these documents using the *existing* vectorizer.
+    
+    Returns:
+      - dataset_name_list: Ordered list of dataset names
+      - dataset_vectors_matrix: TF-IDF matrix where each row is a dataset
+    """
+    if not _ds_col_texts:
+        return [], None
+
+    dataset_name_list = list(_ds_col_texts.keys())
+    dataset_doc_list = []
+    for ds_name in dataset_name_list:
+        # Create one big text string for the entire dataset
+        full_dataset_text = " ".join(_ds_col_texts[ds_name])
+        dataset_doc_list.append(full_dataset_text)
+
+    if not dataset_doc_list:
+        return [], None
+        
+    dataset_vectors_matrix = _vectorizer.transform(dataset_doc_list)
+    return dataset_name_list, dataset_vectors_matrix
+### --- END MODIFICATION --- ###
+
+
 # -------------------------
 # Lightweight NL normalization & local rewrite
 # -------------------------
@@ -379,6 +403,7 @@ def normalize_user_query(user_query: str) -> str:
     # quick fixes
     q = q.replace("sc farmers", "sc")
     q = q.replace("st farmers", "st")
+    q = q.replace("rice farmers", "rice") # Help distinguish 'rice' as a crop
 
     # replace word tokens that match synonyms
     tokens = re.split(r"(\W+)", q)
@@ -390,7 +415,8 @@ def normalize_user_query(user_query: str) -> str:
         key = t.strip().lower()
         if key in FLAT_SYNONYMS:
             col, canonical = FLAT_SYNONYMS[key]
-            out.append(f"{col}=={canonical}")
+            # This rewrite is the key: "women" becomes "gender==Female"
+            out.append(f"{col}=={canonical}") 
         else:
             out.append(t)
     normalized = "".join(out)
@@ -413,24 +439,67 @@ def detect_intent(user_query: str):
 # Matching pipeline: find top relevant columns for a query
 # -------------------------
 
-def find_top_columns_for_query(query: str, dataset_name: str, vectorizer: TfidfVectorizer,
-                               ds_col_texts: Dict[str, List[str]], ds_col_names: Dict[str, List[str]], top_k=6):
+### --- MODIFICATION --- ###
+# NEW Function: Find the best *dataset* for the query
+def find_top_dataset_for_query(
+    query_vec: Any,
+    dataset_name_list: List[str],
+    dataset_vectors_matrix: Any
+) -> Optional[str]:
     """
-    Returns list of (column_name, score, example_text) for the dataset
+    Compares the query vector to the pre-computed dataset vectors
+    and returns the name of the best-matching dataset.
+    """
+    if dataset_vectors_matrix is None or not dataset_name_list:
+        return None
+        
+    sims = cosine_similarity(query_vec, dataset_vectors_matrix)[0]
+    top_idx = np.argmax(sims)
+    return dataset_name_list[top_idx]
+### --- END MODIFICATION --- ###
+
+
+### --- MODIFICATION --- ###
+# Modified `find_top_columns_for_query` to accept the pre-computed query vector
+def find_top_columns_for_query(
+    q_vec: Any, 
+    dataset_name: str, 
+    vectorizer: TfidfVectorizer,
+    ds_col_texts: Dict[str, List[str]], 
+    ds_col_names: Dict[str, List[str]], 
+    top_k=6
+):
+    """
+    Returns list of (column_name, score, example_text) for the *selected* dataset
     """
     if dataset_name not in ds_col_texts:
         return []
     texts = ds_col_texts[dataset_name]
     names = ds_col_names[dataset_name]
 
-    q_vec = vectorizer.transform([query])
+    # Don't need to transform query, it's already a vector
+    # q_vec = vectorizer.transform([query]) 
+    
     texts_vec = vectorizer.transform(texts)
     sims = cosine_similarity(q_vec, texts_vec)[0]
-    idx = np.argsort(-sims)[:top_k]
+    
+    # Filter out very low-scoring columns
+    min_score_threshold = 0.01 
+    relevant_indices = np.where(sims > min_score_threshold)[0]
+    
+    if len(relevant_indices) == 0:
+        return [] # No columns matched at all
+
+    # Sort only the relevant indices
+    sorted_relevant_indices = sorted(relevant_indices, key=lambda i: sims[i], reverse=True)
+    
+    top_k_indices = sorted_relevant_indices[:top_k]
+    
     results = []
-    for i in idx:
+    for i in top_k_indices:
         results.append((names[i], float(sims[i]), texts[i]))
     return results
+### --- END MODIFICATION --- ###
 
 
 # -------------------------
@@ -439,22 +508,26 @@ def find_top_columns_for_query(query: str, dataset_name: str, vectorizer: TfidfV
 
 def build_minimal_prompt(user_query: str, dataset_name: str, top_cols: List[Tuple[str, float, str]], intent: str = "list"):
     cols_str = ", ".join([f"'{c[0]}'" for c in top_cols]) if top_cols else ""
-    examples = "\n".join([f"- {c[0]}: {c[2]}" for c in top_cols]) if top_cols else ""
+    examples = "\n".join([f"- {c[0]}: (examples: {c[2]})" for c in top_cols]) if top_cols else "No relevant columns found."
 
     prompt = (
         "You are an expert Python pandas assistant. Respond with code only.\n"
-        f"Operate on datasets['{dataset_name}'].\n"
-        f"Use these likely-relevant columns: [{cols_str}]\n"
-        "Some examples: \n"
+        f"Operate on the dataframe named `datasets['{dataset_name}']`.\n"
+        f"These are the most relevant columns for the query: [{cols_str}]\n"
+        "Column details (with examples):\n"
         f"{examples}\n"
-        f"The user wants to {intent} the data based on their request.\n"   # <-- ADD THIS LINE HERE
-        "User request:\n"
+        ### --- MODIFICATION --- ###
+        # Activated the 'intent' line you had commented out
+        f"The user's intent is to: {intent}\n"
+        "User request (normalized with hints like 'col==Value'):\n"
         f"{user_query}\n\n"
         "Requirements:\n"
-        "- Write only Python code; do not include any explanation.\n"
-        f"- Start with: result = datasets['{dataset_name}'].copy()\n"
-        "- Use result = result.query(...) or pandas indexing to filter.\n"
-        "- Assign final DataFrame (or scalar) to `result`.\n"
+        "- Write only Python code; do not include any explanation or markdown.\n"
+        f"- Start your code with: `result = datasets['{dataset_name}'].copy()`\n"
+        "- Use `result.query(...)` or pandas indexing for filtering. Use the hints in the user request (e.g., 'gender==Female').\n"
+        "- If the request has hints like 'farm_area_ha==large', use the synonyms provided (e.g., 'large', 'big').\n"
+        "- If filtering on string columns, be case-insensitive (e.g., `result['col'].str.contains('value', case=False)`).\n"
+        "- Assign final DataFrame (or scalar value like a count) to the `result` variable.\n"
         "Code:\n"
     )
     return prompt
@@ -473,6 +546,7 @@ def call_ollama(prompt: str, timeout: int = 30) -> Tuple[Optional[str], Optional
                 {"role": "system", "content": "You are a helpful Python pandas assistant. Respond with code only."},
                 {"role": "user", "content": prompt}
             ],
+            options={"temperature": 0.0} # Lower temperature for more deterministic code
         )
         text = ""
         try:
@@ -500,6 +574,8 @@ FORBIDDEN_PATTERNS = [
     r"socket\.",
     r"pickle\.",
     r"shutil",
+    r"sys\.",
+    r"glob\."
 ]
 
 
@@ -510,6 +586,10 @@ def is_code_safe(code_text: str) -> Tuple[bool, Optional[str]]:
     # require assignment to `result`
     if "result" not in code_text:
         return False, "No 'result' variable detected in generated code."
+    # ### --- MODIFICATION --- ###
+    # Block attempts to access other datasets
+    if "datasets[" in code_text and not re.search(r"datasets\[['\"][^\]]+['\"]\]", code_text):
+         return False, "Code attempts to access 'datasets' in an unsafe way."
     return True, None
 
 
@@ -520,8 +600,8 @@ def sanitize_code_text(code_text: str) -> str:
     code_text = code_text.replace("“", '"').replace("”", '"')
     code_text = code_text.encode("ascii", "ignore").decode()
     # remove fenced triples
-    code_text = re.sub(r"^```(?:python)?\s*", "", code_text, flags=re.I)
-    code_text = re.sub(r"\s*```$", "", code_text)
+    code_text = re.sub(r"^```(?:python)?\s*", "", code_text, flags=re.I | re.MULTILINE)
+    code_text = re.sub(r"\s*```$", "", code_text, flags=re.I | re.MULTILINE)
     return code_text.strip()
 
 
@@ -534,7 +614,12 @@ def extract_code_from_model(text: str) -> str:
     m = re.search(r"```(.*?)```", text, re.DOTALL)
     if m:
         return m.group(1).strip()
-    # fallback: return entire text
+    
+    # Fallback: if no triple-quotes, assume the *entire* response is code
+    # This is common for code-only models like phi3
+    if not text.startswith("```"):
+        return text.strip()
+        
     return text.strip()
 
 
@@ -544,11 +629,19 @@ def safe_exec_user_code(code_text: str, datasets: dict, dataset_name: str):
     """
     if not code_text:
         return None, code_text, "No code provided"
+    
+    # ### --- MODIFICATION --- ###
+    # Sanitize *before* checking safety
     code_text = sanitize_code_text(code_text)
-
+    
     safe, reason = is_code_safe(code_text)
     if not safe:
         return None, code_text, f"Code rejected by safety checks: {reason}"
+    
+    # Ensure code only references the *intended* dataset
+    if "datasets[" in code_text and f"datasets['{dataset_name}']" not in code_text:
+        if f'datasets["{dataset_name}"]' not in code_text:
+            return None, code_text, f"Code safety check: Attempted to access a dataset other than '{dataset_name}'"
 
     # Provide only safe globals + datasets
     allowed_globals = dict(ALLOWED_GLOBALS)
@@ -588,6 +681,9 @@ def apply_local_simple_filters(user_query: str, datasets: dict, dataset_name: st
 
     df = datasets[dataset_name].copy()
     applied_any = False
+    
+    # Detect intent
+    intent = detect_intent(user_query)
 
     for tok in tokens:
         tok = tok.strip()
@@ -628,7 +724,12 @@ def apply_local_simple_filters(user_query: str, datasets: dict, dataset_name: st
                     continue
     if not applied_any:
         return None, "No conservative filter could be applied locally"
-    return df, "applied local filters"
+    
+    # Apply intent
+    if intent == "count":
+        return len(df), "applied local filters (count)"
+        
+    return df, "applied local filters (list)"
 
 
 # -------------------------
@@ -660,96 +761,153 @@ def save_result_standard(result_obj: Any) -> Optional[str]:
 ensure_dirs()
 
 st.title("Fast Local CSV NL Query — Ollama + pandas (semantic)")
-st.write("Startup: building compact schema + lightweight embeddings. Per-query: fast matching + short prompt.")
+st.write("Query multiple CSVs with natural language. The app auto-detects the best CSV and columns to use.")
 
 col1, col2 = st.columns([1, 2])
 
 with col1:
     st.header("Data")
     ensure_dirs()
-    uploaded_files = st.file_uploader("Upload CSV files", accept_multiple_files=True, type=["csv"])
+    uploaded_files = st.file_uploader("Upload CSV files (e.g. farmers.csv, seeds.csv)", accept_multiple_files=True, type=["csv"])
+    
     if uploaded_files:
+        files_saved = 0
         for f in uploaded_files:
-            path = os.path.join(DATA_DIR, f.name)
-            with open(path, "wb") as out:
-                out.write(f.getbuffer())
-        st.success(f"Saved {len(uploaded_files)} files to {DATA_DIR}")
+            try:
+                path = os.path.join(DATA_DIR, f.name)
+                with open(path, "wb") as out:
+                    out.write(f.getbuffer())
+                files_saved += 1
+            except Exception as e:
+                st.error(f"Error saving {f.name}: {e}")
+        if files_saved > 0:
+            st.success(f"Saved {files_saved} files to {DATA_DIR}")
+            # ### --- MODIFICATION --- ###
+            # Must clear caches when new data is uploaded
+            st.cache_data.clear()
+            st.cache_resource.clear()
+            st.experimental_rerun()
 
     datasets = load_all_csvs_from_dir()
 
         # --- Remove uploaded CSV files ---
     st.subheader("Remove uploaded CSV")
     existing_csvs = [f for f in os.listdir(DATA_DIR) if f.lower().endswith(".csv")]
+    
     if existing_csvs:
-        file_to_delete = st.selectbox("Select a file to delete", existing_csvs, index=0)
-        if st.button("Delete selected file"):
+        file_to_delete = st.selectbox("Select a file to delete", [""] + existing_csvs, index=0)
+        if file_to_delete and st.button(f"Delete '{file_to_delete}'"):
             try:
                 os.remove(os.path.join(DATA_DIR, file_to_delete))
                 st.success(f"Deleted {file_to_delete}")
+                # ### --- MODIFICATION --- ###
+                # Must clear caches when data is deleted
+                st.cache_data.clear()
+                st.cache_resource.clear()
                 st.experimental_rerun()
             except Exception as e:
                 st.error(f"Error deleting file: {e}")
     else:
-        st.info("No CSV files found to delete.")
+        st.info("No CSV files found in 'data/' folder.")
 
     if not datasets:
-        st.info("No CSVs found in data/. For quick testing, drop a CSV or use a default empty schema.")
-        datasets = {"farmer_data_dummy": pd.DataFrame(columns=[
-            "farmer_id","farmer_name","aadhaar","aadhaar_hash","dob","gender",
-            "state_lgd_code","district_lgd_code","sub_district_lgd_code",
-            "village_lgd_code","mobile_no","address","farmer_category",
-            "caste_category","farm_area_ha","crop"
-        ])}
+        st.warning("No CSVs found. Upload a CSV or add one to the 'data' folder.")
+        # Create a dummy for display, but main app will be disabled
+        datasets = {"(no data)": pd.DataFrame(columns=["Upload a CSV to start."])}
+
 
     st.subheader("Loaded datasets")
     for name, df in datasets.items():
-        with st.expander(f"{name} — {len(df)} rows, {len(df.columns)} cols"):
+        with st.expander(f"**{name}** — {len(df)} rows, {len(df.columns)} cols"):
             info_df = pd.DataFrame({"column": df.columns, "dtype": [str(dt) for dt in df.dtypes]})
-            st.dataframe(info_df)
+            st.dataframe(info_df, use_container_width=True)
 
     st.markdown("---")
     st.checkbox("Show generated python code before execution", key="show_code", value=True)
-    st.checkbox("Allow merges/joins (model may generate merges if asked)", key="allow_merges", value=False)
     st.write(f"Using model: `{OLLAMA_MODEL}` (set MODEL_NAME variable in script to change)")
 
 # Build vectorizer + per-dataset column corpus
+# This is cached and only runs once
 vectorizer, ds_col_texts, ds_col_names = build_column_corpus_and_vectorizer(datasets)
+
+# ### --- MODIFICATION --- ###
+# Build the dataset-level vectors
+ds_name_list, ds_vec_matrix = build_dataset_vectors(vectorizer, ds_col_texts)
+# ### --- END MODIFICATION --- ###
+
 
 with col2:
     st.header("Ask a question")
-    user_query = st.text_area("Natural language query (e.g. 'list sc women with >2 ha')", height=120)
-    run = st.button("Run query")
+    
+    # Disable query box if no real data is loaded
+    no_data = "(no data)" in datasets or not datasets
+    
+    query_examples = [
+        "list female farmers who are sc and grow rice",
+        "how many farmers are in karnataka",
+        "show me seed prices for wheat",
+        "count of marginal farmers"
+    ]
+    st.caption(f"e.g. `{np.random.choice(query_examples)}`")
+    
+    user_query = st.text_area(
+        "Natural language query", 
+        height=100, 
+        disabled=no_data,
+        placeholder="Type your query here..." if not no_data else "Upload a CSV file in the left panel to enable querying."
+    )
+    run = st.button("Run query", disabled=no_data)
 
     if run:
         if not user_query:
             st.error("Enter a query")
         else:
-            # select dataset
-            dataset_name = "farmer_data_dummy" if "farmer_data_dummy" in datasets else list(datasets.keys())[0]
-
+            
+            ### --- MODIFICATION --- ###
+            # This is the new pipeline
+            #
             # 1) Normalize user query (lightweight)
             normalized = normalize_user_query(user_query)
+            
+            # 2) Vectorize the query *once*
+            query_vec = vectorizer.transform([normalized])
 
-            # 2) Fast semantic match to discover top columns
-            top_cols = find_top_columns_for_query(normalized, dataset_name, vectorizer, ds_col_texts, ds_col_names, top_k=6)
+            # 3) Find the best *dataset*
+            dataset_name = find_top_dataset_for_query(query_vec, ds_name_list, ds_vec_matrix)
+            if not dataset_name:
+                st.error("Could not find a relevant dataset for this query.")
+                st.stop()
+            
+            st.info(f"**Selected Dataset:** `{dataset_name}` (auto-detected)")
 
-            # 3) Build prompt
-            prompt = build_minimal_prompt(normalized, dataset_name, top_cols)
+            # 4) Find top *columns* from that dataset
+            top_cols = find_top_columns_for_query(query_vec, dataset_name, vectorizer, ds_col_texts, ds_col_names, top_k=8)
 
-            st.subheader("Prompt (sent to model)")
-            with st.expander("View prompt"):
-                st.code(prompt)
+            # 5) Detect intent
+            intent = detect_intent(normalized)
+            
+            # 6) Build prompt
+            prompt = build_minimal_prompt(normalized, dataset_name, top_cols, intent)
 
-            # 4) Compute cache key (spec cache)
+            st.subheader("Debug Info")
+            with st.expander("View generated prompt, intent, and top columns"):
+                st.markdown(f"**Intent:** `{intent}`")
+                st.markdown("**Top Columns:**")
+                st.json({c[0]: round(c[1], 2) for c in top_cols})
+                st.markdown("**Full Prompt (sent to model):**")
+                st.code(prompt, language='text')
+
+            # 7) Compute cache key
             key_obj = {
                 "dataset": dataset_name,
                 "normalized_query": normalized,
-                "top_cols": [c[0] for c in top_cols]
+                "top_cols": [c[0] for c in top_cols],
+                "intent": intent
             }
             key_raw = json.dumps(key_obj, sort_keys=True)
             key_hash = hashlib.sha256(key_raw.encode()).hexdigest()
 
-            # 5) Check cache
+            # 8) Check cache
             cached = CACHE.get(key_hash)
             if cached is not None:
                 st.success("Cache hit — returning cached result")
@@ -759,11 +917,12 @@ with col2:
                     st.dataframe(df_cached)
                     st.download_button("Download CSV", data=cached, file_name="cached_result.csv")
                 except Exception:
-                    st.write(cached)
+                    # It might be a scalar
+                    st.write(cached.decode('utf-8'))
                 st.stop()
 
-            # 6) Call LLM
-            with st.spinner("Calling model..."):
+            # 9) Call LLM
+            with st.spinner(f"Calling model `{OLLAMA_MODEL}`..."):
                 model_text, err = call_ollama(prompt)
 
             if err:
@@ -771,51 +930,60 @@ with col2:
                 # try local fallback
                 fallback_df, reason = apply_local_simple_filters(user_query, datasets, dataset_name)
                 if fallback_df is not None:
-                    st.info("Local fallback succeeded — returning local result")
-                    st.dataframe(fallback_df)
-                    csv_bytes = fallback_df.to_csv(index=False).encode("utf-8")
+                    st.info(f"Local fallback succeeded ({reason}) — returning local result")
+                    if isinstance(fallback_df, pd.DataFrame):
+                        st.dataframe(fallback_df)
+                        csv_bytes = fallback_df.to_csv(index=False).encode("utf-8")
+                        st.download_button("Download CSV", data=csv_bytes, file_name="result_fallback.csv")
+                    else:
+                        st.write(fallback_df) # scalar result
+                        csv_bytes = repr(fallback_df).encode('utf-8')
+                        
                     CACHE[key_hash] = csv_bytes
                     save_cache(CACHE)
-                    st.download_button("Download CSV", data=csv_bytes, file_name="result_fallback.csv")
                 else:
-                    st.error("Local fallback could not produce a result.")
+                    st.error(f"Local fallback also failed: {reason}")
                 st.stop()
 
-            # 7) Extract and sanitize code
+            # 10) Extract and sanitize code
             code_candidate = extract_code_from_model(model_text)
-            code_candidate = sanitize_code_text(code_candidate)
-
+            
             if st.session_state.get("show_code"):
                 st.subheader("Generated code (sanitized)")
-                st.code(code_candidate)
+                st.code(code_candidate, language='python')
 
-            # 8) Try executing safely
+            # 11) Try executing safely
             result_obj, used_code, exec_err = safe_exec_user_code(code_candidate, datasets, dataset_name)
 
             if exec_err:
                 st.error(f"Error executing generated code: {exec_err}")
-                # show raw model output to help debugging
                 st.markdown("Model raw text:")
-                st.text_area("Model raw text", value=model_text, height=220)
+                st.text_area("Model raw text", value=model_text, height=150)
+                
                 # Attempt local fallback
                 fallback_df, reason = apply_local_simple_filters(user_query, datasets, dataset_name)
                 if fallback_df is not None:
-                    st.info("Local fallback succeeded — returning local result")
-                    st.dataframe(fallback_df)
-                    csv_bytes = fallback_df.to_csv(index=False).encode("utf-8")
+                    st.info(f"Local fallback succeeded ({reason}) — returning local result")
+                    if isinstance(fallback_df, pd.DataFrame):
+                        st.dataframe(fallback_df)
+                        csv_bytes = fallback_df.to_csv(index=False).encode("utf-8")
+                        st.download_button("Download CSV", data=csv_bytes, file_name="result_fallback.csv")
+                    else:
+                        st.write(fallback_df) # scalar result
+                        csv_bytes = repr(fallback_df).encode('utf-8')
+
                     CACHE[key_hash] = csv_bytes
                     save_cache(CACHE)
-                    st.download_button("Download CSV", data=csv_bytes, file_name="result_fallback.csv")
                 else:
-                    st.error("Local fallback could not produce a result.")
+                    st.error(f"Local fallback also failed: {reason}")
                 st.stop()
 
-            # 9) Success — show result and cache
+            # 12) Success — show result and cache
             if result_obj is None:
                 st.warning("Model code produced no result. Showing raw model output instead.")
-                st.text_area("Model raw text", value=model_text, height=220)
+                st.text_area("Model raw text", value=model_text, height=150)
             else:
-                st.subheader("Result — `result`")
+                st.subheader("Result")
                 try:
                     if isinstance(result_obj, pd.DataFrame):
                         st.dataframe(result_obj)
@@ -829,20 +997,32 @@ with col2:
                         save_cache(CACHE)
 
                         # provide downloads
-                        st.download_button("Download CSV", data=csv_bytes, file_name=os.path.basename(saved_path) if saved_path else "result.csv")
+                        dl_filename = os.path.basename(saved_path) if saved_path else "result.csv"
+                        st.download_button("Download CSV", data=csv_bytes, file_name=dl_filename)
 
                         # XLSX download (temp file)
-                        with tempfile.NamedTemporaryFile(delete=False, suffix=".xlsx") as tmp:
-                            result_obj.to_excel(tmp.name, index=False)
-                            tmp.seek(0)
-                            st.download_button("Download XLSX", data=open(tmp.name, "rb"), file_name=(os.path.basename(saved_path).replace('.csv', '.xlsx') if saved_path else 'result.xlsx'))
+                        try:
+                            with tempfile.NamedTemporaryFile(delete=False, suffix=".xlsx") as tmp:
+                                result_obj.to_excel(tmp.name, index=False)
+                                tmp.seek(0)
+                                st.download_button(
+                                    "Download XLSX", 
+                                    data=open(tmp.name, "rb"), 
+                                    file_name=dl_filename.replace('.csv', '.xlsx')
+                                )
+                        except Exception as e:
+                            st.caption(f"Could not generate XLSX: {e}") # Don't fail the whole response
+                    
                     else:
-                        st.write(result_obj)
+                        # Handle scalar results (like counts)
+                        st.metric(label="Result", value=str(result_obj))
                         # cache scalar repr
                         CACHE[key_hash] = repr(result_obj).encode('utf-8')
                         save_cache(CACHE)
+                        
                 except Exception as e:
                     st.error(f"Failed to display result: {e}")
+                    st.write(result_obj) # Fallback to raw output
 
 st.markdown("---")
-st.caption("Fast local demo. Extend SYNONYMS and column corpus building to improve retrieval quality.")
+st.caption("This app uses a local LLM (Ollama) and TF-IDF semantic search to query CSVs.")
